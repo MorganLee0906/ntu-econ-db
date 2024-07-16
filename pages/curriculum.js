@@ -28,9 +28,9 @@ export default function Home({ allPostsData }) {
                 </div>
                 <div class="container">
                     <div class="list-group">
-                        {allPostsData.map(({ id, cnum, title }) => (
+                        {allPostsData.map(({ id, cnum, title, fid }) => (
                             <a
-                                href={`/posts/${id}`}
+                                href={`/folder/${id}?fid=${fid}`}
                                 class="list-group-item list-group-item-action"
                                 key={id}
                             >
