@@ -16,20 +16,24 @@ export default function Folder({ folders }) {
                     </center>
                 </div>
                 <div class="container">
-                    {folders["route"].split('/').map((c) => (
-                        <span class="badge bg-primary me-2 align-items-center">{c}</span>
-                    ))}
+                    <h6>現在位置：
+                        {folders["route"].split('/').map((c) => (
+                            <span class="badge bg-primary me-2 align-items-center">{c}</span>
+                        ))}
+                    </h6>
                 </div>
                 <div class="container">
-                    <div className="list-group">
+                    <ul class="list-group list-group-flush">
+                        <div className="list-group">
 
-                        {childFolders.map((folder) => (
-                            <a href={`/folder/01?fid=${folder}`} className="list-group list-group-item list-group-item-action">{folder}</a>
-                        ))}
-                    </div>
+                            {childFolders.map((folder) => (
+                                <a href={`/folder/01?fid=${folder["url"]}`} className="list-group-item list-group-item-action">{folder["name"]}</a>
+                            ))}
+                        </div>
+                    </ul>
                     <div className="list-group">
                         {files.map((file) => (
-                            <a href={`/file/${file}`} className="list-group list-group-item list-group-item-action">{file}</a>
+                            <a href={`/file/${file["url"]}`} className="list-group-item list-group-item-action">{file["name"]}</a>
                         ))}
                     </div>
                 </div>
