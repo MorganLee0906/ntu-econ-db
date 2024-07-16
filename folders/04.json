@@ -1,0 +1,107 @@
+{
+    "1FmVKnPkcW9jbFlTjKc46rdui0PnvUZ1u": {
+        "route": "04民法概要_商事法",
+        "folder": [
+            {
+                "url": "1L32oJzjOB6vHtlSCykupP9eW33e6_QDL",
+                "name": "4.02黃銘傑-商事法"
+            },
+            {
+                "url": "1N8Ec-0ZMQ2EVMwzzoVeyrs1iVwQQOOYr",
+                "name": "4.01黃詩淳-民法概要"
+            },
+            {
+                "url": "1UlVNeE5g1TV-AcZO-fE9uMKMPKZtG8_b",
+                "name": "4.03蕭富山-商事法"
+            },
+            {
+                "url": "1q8DKcR06utsuCaXIASB5ao3VB8VXHFB8",
+                "name": "4.04楊岳平-商事法"
+            }
+        ],
+        "file": []
+    },
+    "1L32oJzjOB6vHtlSCykupP9eW33e6_QDL": {
+        "route": "04民法概要_商事法/4.02黃銘傑-商事法",
+        "folder": [],
+        "file": []
+    },
+    "1N8Ec-0ZMQ2EVMwzzoVeyrs1iVwQQOOYr": {
+        "route": "04民法概要_商事法/4.01黃詩淳-民法概要",
+        "folder": [
+            {
+                "url": "1TmxFj2CaCvJXr7aLbIG_ucaoP3cS_OSU",
+                "name": "課堂講義解答及筆記"
+            },
+            {
+                "url": "1lWgcwRLT_1oVTD9tuem9zmPviFSzTdpl",
+                "name": "歷年評價文"
+            },
+            {
+                "url": "1wctj1JXpP-88b8mBcnFs98vaYjalr4q2",
+                "name": "課本問題解答"
+            }
+        ],
+        "file": []
+    },
+    "1TmxFj2CaCvJXr7aLbIG_ucaoP3cS_OSU": {
+        "route": "04民法概要_商事法/4.01黃詩淳-民法概要/課堂講義解答及筆記",
+        "folder": [],
+        "file": []
+    },
+    "1lWgcwRLT_1oVTD9tuem9zmPviFSzTdpl": {
+        "route": "04民法概要_商事法/4.01黃詩淳-民法概要/歷年評價文",
+        "folder": [],
+        "file": [
+            {
+                "url": "1FPzbBvGiQ0lu3Uvq2n50FWiMubjZ0Bgc",
+                "name": "101學年度課程評價-黃詩淳-1.pdf"
+            }
+        ]
+    },
+    "1wctj1JXpP-88b8mBcnFs98vaYjalr4q2": {
+        "route": "04民法概要_商事法/4.01黃詩淳-民法概要/課本問題解答",
+        "folder": [],
+        "file": [
+            {
+                "url": "1HKulDtJuarNLPyvyG5SRGHyOsXQ60Ziw",
+                "name": "民法概要乙期末考提問回覆.pdf"
+            },
+            {
+                "url": "1XwnNY_08E3uqApIHUX5ShLAU9rq43UiY",
+                "name": "民法概要乙期末考提問回覆2.pdf"
+            },
+            {
+                "url": "1z-BbOMMt8ANE2nog8akOBTmCNxDVEO-u",
+                "name": "民法概要乙期中考試問題答覆3.pdf"
+            },
+            {
+                "url": "1H6P9bzK1JX5aqBpRV1RxmP-B6lI7yIVM",
+                "name": "民法概要乙期中考試問題答覆2.pdf"
+            },
+            {
+                "url": "1LRb0TdzK91jBlmOKJe0n3VxBmdYmvyDG",
+                "name": "民法概要乙期中考試問題答覆1.pdf"
+            }
+        ]
+    },
+    "1UlVNeE5g1TV-AcZO-fE9uMKMPKZtG8_b": {
+        "route": "04民法概要_商事法/4.03蕭富山-商事法",
+        "folder": [],
+        "file": []
+    },
+    "1q8DKcR06utsuCaXIASB5ao3VB8VXHFB8": {
+        "route": "04民法概要_商事法/4.04楊岳平-商事法",
+        "folder": [],
+        "file": [
+            {
+                "url": "1U3B9R_lDVGfv-5W2b0vZ73C9JtwDoaKI",
+                "name": "107下楊岳平商事法期末考解答.pdf"
+            },
+            {
+                "url": "11MnkRM1ETxB5QxU4-pg0myR5VeOMLyDt",
+                "name": "106下楊岳平商事法期末考解答.pdf"
+            }
+        ]
+    }
+}

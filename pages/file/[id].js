@@ -25,6 +25,7 @@ export default function File() {
                 <div class="container">
                     <center>
                         <iframe src={`https://drive.google.com/file/d/${id}/preview`} width="640" height="480" allow="autoplay"></iframe>
+                        <h6>若文件預覽未正常顯示<a href={`https://drive.google.com/file/d/${id}`}>請點擊此處</a></h6>
                     </center>
                 </div>
 

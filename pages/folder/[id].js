@@ -7,6 +7,8 @@ import { getFoldersData } from '../../lib/folder';
 export default function Folder({ folders }) {
     const childFolders = folders["folder"];
     const files = folders["file"];
+    const router = useRouter();
+    const { id } = router.query;
     return (
         <div>
             <Layout>
@@ -27,7 +29,7 @@ export default function Folder({ folders }) {
                         <div className="list-group">
 
                             {childFolders.map((folder) => (
-                                <a href={`/folder/01?fid=${folder["url"]}`} className="list-group-item list-group-item-action">{folder["name"]}</a>
+                                <a href={`/folder/${id}?fid=${folder["url"]}`} className="list-group-item list-group-item-action">{folder["name"]}</a>
                             ))}
                         </div>
                     </ul>

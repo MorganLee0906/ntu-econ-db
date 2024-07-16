@@ -2,10 +2,12 @@ import json
 import csv
 folder_id = {}
 db = {}
-f = open("./01.csv", "r")
-rootid = "1iHqnZvvTuCUpzawRUGP9SOArqx0U76po"
-folder_id["01經濟學原理與實習"] = rootid
-db[rootid] = {"route": "01經濟學原理與實習", "folder": [], "file": []}
+f = open("./04.csv", "r")
+rootid = "1FmVKnPkcW9jbFlTjKc46rdui0PnvUZ1u"
+rootname = "04民法概要_商事法"
+
+folder_id[rootname] = rootid
+db[rootid] = {"route": rootname, "folder": [], "file": []}
 reader = csv.reader(f)
 data = list(reader)
 for i in data:
@@ -27,6 +29,6 @@ for i in data:
             {"url": url.split("/")[-2], "name": route.split("/")[-1]})
         print("Now add file: ", url.split("/")[-2], " to ", parent)
 f.close()
-f = open("01.json", "w", encoding="utf-8")
+f = open("04.json", "w", encoding="utf-8")
 json.dump(db, f, ensure_ascii=False)
 f.close()
