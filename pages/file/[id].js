@@ -12,23 +12,45 @@ export default function File() {
                     檔案
                 </title>
                 <link rel="icon" href="/favicon.ico" />
+                <style>
+                    {`
+                    .iframe-container {
+                        position: relative;
+                        width: 80%;
+                        padding-bottom: 100%;
+                    }
+                    .responsive-iframe {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                    }
+
+                    `}
+                </style>
             </Head>
             <Layout>
-                <div className="container" style={{
+                <div className="title-container" style={{
                     display: 'flex',
                     justifyContent: 'center',
                     alignItems: 'center',
-                    height: '100px'
+                    height: '100px',
                 }}>
                     <h2>檔案</h2>
                 </div>
                 <div class="container">
                     <center>
-                        <iframe src={`https://drive.google.com/file/d/${id}/preview`} width="640" height="480" allow="autoplay"></iframe>
+                        <div class="iframe-container">
+                            <iframe class="responsive-iframe" src={`https://drive.google.com/file/d/${id}/preview`} allow="autoplay"></iframe>
+                        </div>
+                    </center>
+                </div>
+                <div class="container">
+                    <center>
                         <h6>若文件預覽未正常顯示<a href={`https://drive.google.com/file/d/${id}`}>請點擊此處</a></h6>
                     </center>
                 </div>
-
             </Layout >
         </div >
     );
