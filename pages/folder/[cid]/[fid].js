@@ -35,7 +35,7 @@ export default function Folder({ folderData }) {
                     </ul>
                     <div className="list-group">
                         {files.map((file) => (
-                            <a href={`/file/${file["url"]}`} className="list-group-item list-group-item-action">{file["name"]}</a>
+                            <a href={`/file?id=${file["url"]}`} className="list-group-item list-group-item-action">{file["name"]}</a>
                         ))}
                     </div>
                 </div>
