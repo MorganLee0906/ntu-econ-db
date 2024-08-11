@@ -31,6 +31,7 @@ export default function Navbar() {
                                 </a>
                             </li>
                         </ul>
+                        <a href="/upload" class="btn btn-outline-success ms-auto" role="button">上傳檔案</a>
                     </div>
                 </div>
             </nav>
