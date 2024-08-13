@@ -31,10 +31,27 @@ export default function Navbar() {
                                 </a>
                             </li>
                         </ul>
-                        <a href="/upload" class="btn btn-outline-success ms-auto" role="button">上傳檔案</a>
+                        <button type="button" class="btn btn-outline-success ms-auto" data-bs-toggle="modal" data-bs-target="#notifyModal">上傳檔案</button>
                     </div>
                 </div>
             </nav>
+            <div class="modal fade" id="notifyModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">提醒</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            為避免上傳頁面遭濫用，請先登入Google帳號。
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+                            <a href="/upload" type="button" class="btn btn-primary">前往上傳頁面</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }
