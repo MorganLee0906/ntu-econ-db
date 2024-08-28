@@ -7,7 +7,7 @@ import { getAllFolders, getFoldersData } from '../../../lib/folder';
 export default function Folder({ folderData }) {
     const childFolders = folderData["folder"].sort((a, b) => a.name.localeCompare(b.name));
     const files = folderData["file"].sort((a, b) => a.name.localeCompare(b.name));
-    console.log(files);
+    console.log("Generating folder page:" + folderData["route"]);
     const router = useRouter();
     const { cid, fid } = router.query;
     return (
