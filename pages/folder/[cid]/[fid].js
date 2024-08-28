@@ -5,8 +5,9 @@ import { useRouter } from 'next/router';
 import { getAllFolders, getFoldersData } from '../../../lib/folder';
 
 export default function Folder({ folderData }) {
-    const childFolders = folderData["folder"];
-    const files = folderData["file"];
+    const childFolders = folderData["folder"].sort((a, b) => a.name.localeCompare(b.name));
+    const files = folderData["file"].sort((a, b) => a.name.localeCompare(b.name));
+    console.log(files);
     const router = useRouter();
     const { cid, fid } = router.query;
     return (
@@ -27,7 +28,6 @@ export default function Folder({ folderData }) {
                 <div class="container">
                     <ul class="list-group list-group-flush">
                         <div className="list-group">
-
                             {childFolders.map((folder) => (
                                 <a href={`/folder/${cid}/${folder["url"]}`} className="list-group-item list-group-item-action">{folder["name"]}</a>
                             ))}
@@ -38,6 +38,9 @@ export default function Folder({ folderData }) {
                             <a href={`/file?id=${file["url"]}`} className="list-group-item list-group-item-action">{file["name"]}</a>
                         ))}
                     </div>
+                    {childFolders.length === 0 && files.length === 0 && (
+                        <p>抱歉，這裡沒有任何文件和資料夾:(</p>
+                    )}
                 </div>
             </Layout>
         </div>
@@ -48,7 +51,7 @@ export default function Folder({ folderData }) {
 
 export async function getStaticPaths() {
     const paths = getAllFolders();
-    console.log(paths);
+    //console.log(paths);
     return {
         paths,
         fallback: false,

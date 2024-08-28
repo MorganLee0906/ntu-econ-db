@@ -30,5 +30,7 @@ yarn-error.log*
 .env.production.local
 
 next.config.js
-gapps script/index.html
-gapps script/main.gs
+Admin/index.html
+Admin/main.gs
+Upload/index.html
+Upload/main.gs

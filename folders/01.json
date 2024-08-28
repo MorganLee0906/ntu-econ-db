@@ -3,6 +3,10 @@
         "route": "01經濟學原理與實習",
         "folder": [
             {
+                "url": "1S0pz2pzUAyrXSuA1kCAxu02qzzCdXOye",
+                "name": "1.13 高恩琵"
+            },
+            {
                 "url": "1hW-bWj43B6mVPiIUUorKIJAGsRsVPTBx",
                 "name": "1.12江淳芳"
             },
@@ -60,6 +64,26 @@
             }
         ],
         "file": []
+    },
+    "1S0pz2pzUAyrXSuA1kCAxu02qzzCdXOye": {
+        "route": "01經濟學原理與實習/1.13 高恩琵",
+        "folder": [
+            {
+                "url": "1Zds97xde_be9IsuFiONLdTtwB8uK1MAe",
+                "name": "總經原"
+            }
+        ],
+        "file": []
+    },
+    "1Zds97xde_be9IsuFiONLdTtwB8uK1MAe": {
+        "route": "01經濟學原理與實習/1.13 高恩琵/總經原",
+        "folder": [],
+        "file": [
+            {
+                "url": "1abV55CWncL_7it4_8XQRvdDEc-r0oPyO",
+                "name": "112-2 Quiz 1.pdf"
+            }
+        ]
     },
     "1hW-bWj43B6mVPiIUUorKIJAGsRsVPTBx": {
         "route": "01經濟學原理與實習/1.12江淳芳",
@@ -1119,6 +1143,10 @@
         "folder": [],
         "file": [
             {
+                "url": "17ni_RPytny_r7sp8wk7rRG0GHBwGZucb",
+                "name": "final_2023F-ans (1) (1)-1.pdf"
+            },
+            {
                 "url": "1rLA4zu1dRe11kSrAE44HOuGfsM7Du8v2",
                 "name": "midterm_2023F_ans.pdf"
             }
@@ -1251,6 +1279,14 @@
         "folder": [],
         "file": [
             {
+                "url": "10EUAxWdHWxXEq3CsLiBN8kG674kIq_pm",
+                "name": "112-2_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
+                "url": "10Cxu4qTWeecY2GfNdPNyj4ryDZhMmWxC",
+                "name": "111-2_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
                 "url": "11JQyuiaUhrcLtV4SpGkT5tPDPERax4HO",
                 "name": "98下林明仁經原期中考.pdf"
             },
@@ -1273,36 +1309,40 @@
         "folder": [],
         "file": [
             {
-                "url": "1v7l_ZRBhqquHsT_WsCYM72SFSUWknVdl",
-                "name": "112_1_midterm - 解答 - Raelyn Lin.pdf"
+                "url": "1-rQw0k6blii4i96phtofo4LoAK4s0MEe",
+                "name": "111-1_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
+                "url": "1-hndofDNMm1JrivY-Sb_uaqO4apmrr2z",
+                "name": "112-1_林明仁_經原_期中考_題目及解答.pdf"
             },
             {
                 "url": "17df4yKRBLonugQ2DrLV08fYzQqcfx73c",
-                "name": "110上林明仁期中.pdf"
-            },
-            {
-                "url": "1qQX98LAQybuaquuEsChEGuXAKOHkdNIh",
-                "name": "99上林明仁經原期中考.pdf"
-            },
-            {
-                "url": "13g_IrdcyoxGm_gHEd3o6j__uIvMr_-2a",
-                "name": "98上林明仁經原期中考.pdf"
-            },
-            {
-                "url": "1w52vqujJcX4Ycl6bKIyV0U-mtDol_WwO",
-                "name": "97上林明仁經原期中考.pdf"
+                "name": "110-1_林明仁_經原_期中考_.pdf"
             },
             {
                 "url": "1UbZuq3U1wS2lFeLkn8muv9GqYNs2JyRp",
-                "name": "106上林明仁經原期中考與解答.pdf"
+                "name": "106-1_林明仁_經原_期中考_題目及解答.pdf"
             },
             {
                 "url": "1hsbF1WZ0xRnZT8KHN2KMkbvIOUfPTInr",
-                "name": "103上林明仁經原期中考.pdf"
+                "name": "103-1_林明仁_經原_期中考.pdf"
             },
             {
                 "url": "1DR-pkWkJfJi_FfdITHRFmcEYi0C67Cp-",
-                "name": "102上林明仁經原期中考與解答.pdf"
+                "name": "102-1_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
+                "url": "1qQX98LAQybuaquuEsChEGuXAKOHkdNIh",
+                "name": "099-1_林明仁_經原_期中考.pdf"
+            },
+            {
+                "url": "13g_IrdcyoxGm_gHEd3o6j__uIvMr_-2a",
+                "name": "098-1_林明仁_經原_期中考.pdf"
+            },
+            {
+                "url": "1w52vqujJcX4Ycl6bKIyV0U-mtDol_WwO",
+                "name": "097-1_林明仁_經原_期中考.pdf"
             }
         ]
     },
@@ -1320,6 +1360,14 @@
         "route": "01經濟學原理與實習/1.01林明仁/期考/上學期期末考",
         "folder": [],
         "file": [
+            {
+                "url": "100rL5fQp2Vh2TdTGMhyy0XedWVITLuHe",
+                "name": "112-1_林明仁_經原_期末考_題目及解答.pdf"
+            },
+            {
+                "url": "1-zIFRRs0joVW2FMQq85R7e3iCkjtv5V4",
+                "name": "111-1_林明仁_經原_期末考_題目及解答.pdf"
+            },
             {
                 "url": "1B5OANQ2aEHkKV25qiyRthiJWGfRSC_y-",
                 "name": "99上林明仁經原期末考.pdf"
@@ -1346,6 +1394,14 @@
         "route": "01經濟學原理與實習/1.01林明仁/期考/下學期期末考",
         "folder": [],
         "file": [
+            {
+                "url": "10I2rkyUEHRtxg2hjTnrJ3SVXQ4poSmFh",
+                "name": "112-2_林明仁_經原_期末考_題目及解答.pdf"
+            },
+            {
+                "url": "10G175ArDjYBFNplR_faMxIaT9YePaHo7",
+                "name": "111-2_林明仁_經原_期末考_題目及解答.pdf"
+            },
             {
                 "url": "1YDj2Q07K_H4UEAU5WlR7TA-EV_D6Ti78",
                 "name": "99下林明仁經原期末考.pdf"
@@ -1558,6 +1614,10 @@
         "folder": [],
         "file": [
             {
+                "url": "101oowyiknUOH7NL5HKwUp1g8XjCfHZM4",
+                "name": "111_2_midterm_Q.pdf"
+            },
+            {
                 "url": "1Y1v1I70mvrMq_EFKeJFPMfO4YVgnMFgZ",
                 "name": "111_2_final_sol.pdf"
             },
@@ -1687,6 +1747,14 @@
         "route": "01經濟學原理與實習/1.01林明仁/111-1林明仁_個經原",
         "folder": [],
         "file": [
+            {
+                "url": "1-ydZMqeaF0HxI7fgI613bMtderfvrgL6",
+                "name": "111_1_final_Q.pdf"
+            },
+            {
+                "url": "1-nJ6gB_3_pnpkcd5qAZ20dd-QMmwiMkL",
+                "name": "111_1_midterm Q.pdf"
+            },
             {
                 "url": "1uqVhtLVRrd_DtAjxXGX4xM3-OZ5RqqHS",
                 "name": "111_1_final_sol.pdf"

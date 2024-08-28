@@ -38,10 +38,11 @@ export default function Home({ allPostsData }) {
                                     <h5 class="mb-1">{title}</h5>
                                 </div>
                                 <div class="d-flex justify-content-end">
-                                    {cnum.split(', ').map((c) => (
+                                    {cnum && cnum.split(', ').map((c) => (
                                         <span class="badge bg-primary me-2 align-items-center">{c}</span>
                                     ))}
                                 </div>
+
                             </a>
                         ))}
                     </div>
