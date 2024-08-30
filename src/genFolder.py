@@ -3,8 +3,13 @@ import csv
 import os
 import datetime
 
+file_count = 0
+dir_count = 0
+
 
 def processCSV(folderName, folderId):
+    global file_count
+    global dir_count
     folder_id = {}
     db = {}
     f = open(f"./{folderName} {folderId}.csv", "r")
@@ -26,15 +31,17 @@ def processCSV(folderName, folderId):
                 db[folder_id[parent]]["folder"].append(
                     {"url": url.split("/")[-1], "name": route.split("/")[-1]})
             print("Now add folder: ", url.split("/")[-1], " to ", parent)
+            dir_count += 1
         elif url.find("https://drive.google.com/file/d/") != -1:
             parent = "/".join(route.split("/")[0:-1])
             db[folder_id[parent]]["file"].append(
                 {"url": url.split("/")[-2], "name": route.split("/")[-1]})
             print("Now add file: ", url.split("/")[-2], " to ", parent)
+            file_count += 1
     f.close()
-    f = open(f"../folders/{folderName[:2]}.json", "w", encoding="utf-8")
-    json.dump(db, f, ensure_ascii=False)
-    f.close()
+    # f = open(f"../folders/{folderName[:2]}.json", "w", encoding="utf-8")
+    # json.dump(db, f, ensure_ascii=False)
+    # f.close()
 
 
 def genFolder(folderName, folderId):
@@ -59,4 +66,6 @@ for item in items:
     folderName, folderId = item.split(' ')
     folderId = folderId[:-4]
     processCSV(folderName, folderId)
-    genFolder(folderName, folderId)
+    # genFolder(folderName, folderId)
+    
+print(f"Database has {dir_count} folders and {file_count} files")

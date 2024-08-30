@@ -26,7 +26,7 @@ export default function Navbar() {
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="https://ntu-econ.github.io">
+                                <a className="nav-link" href="https://ntu-econ.github.io/v2">
                                     舊版資料庫
                                 </a>
                             </li>
