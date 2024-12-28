@@ -1,1 +1,103 @@
-{"1REIPk9d_ghTPI5ipC0XaUbTqXwSAqAru": {"route": "23中等會計學", "folder": [{"url": "1GXoJ5UaNLrULZfDpgoCiz4NX0sL8MlDZ", "name": "23.02王全三"}, {"url": "1ML2PO2Ocf0_ocRdseTdGIX_guaL9EOa0", "name": "23.01李艷榕"}, {"url": "1q24f1xRabUCTzw04KBS70-ucrOnELOlM", "name": "23.04劉心才"}, {"url": "1wpSqz9zxDlcoKMFraiEuQ37pD3hRrKg9", "name": "23.03蔡彥卿"}], "file": []}, "1GXoJ5UaNLrULZfDpgoCiz4NX0sL8MlDZ": {"route": "23中等會計學/23.02王全三", "folder": [], "file": [{"url": "1iLYZLEtHFI1dy0jlm7-TFTaaF-yZGeUH", "name": "課程PTT評價中會-王全三.PDF"}]}, "1ML2PO2Ocf0_ocRdseTdGIX_guaL9EOa0": {"route": "23中等會計學/23.01李艷榕", "folder": [{"url": "1FuzM6vkC3sRhuZ5FbtVYva-_wGbDy8rd", "name": "課程評價"}], "file": []}, "1FuzM6vkC3sRhuZ5FbtVYva-_wGbDy8rd": {"route": "23中等會計學/23.01李艷榕/課程評價", "folder": [], "file": [{"url": "1xbZglW-qgWDQwW81a4-S2tuhQF_gkK9d", "name": "中等會計學-李艷榕.pdf"}]}, "1q24f1xRabUCTzw04KBS70-ucrOnELOlM": {"route": "23中等會計學/23.04劉心才", "folder": [], "file": [{"url": "1c6TAc1i2bTkMHoDIDsBo_zo6ZP4bbj7a", "name": "課程PTT評價中會-劉心才.PDF"}]}, "1wpSqz9zxDlcoKMFraiEuQ37pD3hRrKg9": {"route": "23中等會計學/23.03蔡彥卿", "folder": [], "file": [{"url": "1snKHvIubfC7ldt4s2VeOFQ9r5NIVL70X", "name": "課程PTT評價中會-蔡彥卿.PDF"}, {"url": "15aWmHeZR8G9DS-nkaFZMArW1T3KcvkiQ", "name": "105下蔡彥卿中會第二次小考題目+解答.PDF"}, {"url": "1Iw18dbL4HN8ABM6WnKJQpp6jTVs7ddSF", "name": "105下蔡彥卿中會第三次小考題目+解答.PDF"}, {"url": "1zJSHf7lhpIg8wYafAcNOe7Rr2eXk2hNI", "name": "105下蔡彥卿中會第一次小考題目+解答.PDF"}]}}
+{
+    "1REIPk9d_ghTPI5ipC0XaUbTqXwSAqAru": {
+        "route": "23中等會計學",
+        "folder": [
+            {
+                "url": "1GXoJ5UaNLrULZfDpgoCiz4NX0sL8MlDZ",
+                "name": "23.02王全三",
+                "file_count": 1
+            },
+            {
+                "url": "1ML2PO2Ocf0_ocRdseTdGIX_guaL9EOa0",
+                "name": "23.01李艷榕",
+                "file_count": 1
+            },
+            {
+                "url": "1q24f1xRabUCTzw04KBS70-ucrOnELOlM",
+                "name": "23.04劉心才",
+                "file_count": 1
+            },
+            {
+                "url": "1wpSqz9zxDlcoKMFraiEuQ37pD3hRrKg9",
+                "name": "23.03蔡彥卿",
+                "file_count": 4
+            }
+        ],
+        "file": [],
+        "dir_count": 4,
+        "file_count": 7
+    },
+    "1GXoJ5UaNLrULZfDpgoCiz4NX0sL8MlDZ": {
+        "route": "23中等會計學/23.02王全三",
+        "folder": [],
+        "file": [
+            {
+                "url": "1iLYZLEtHFI1dy0jlm7-TFTaaF-yZGeUH",
+                "name": "課程PTT評價中會-王全三.PDF"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1ML2PO2Ocf0_ocRdseTdGIX_guaL9EOa0": {
+        "route": "23中等會計學/23.01李艷榕",
+        "folder": [
+            {
+                "url": "1FuzM6vkC3sRhuZ5FbtVYva-_wGbDy8rd",
+                "name": "課程評價",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1FuzM6vkC3sRhuZ5FbtVYva-_wGbDy8rd": {
+        "route": "23中等會計學/23.01李艷榕/課程評價",
+        "folder": [],
+        "file": [
+            {
+                "url": "1xbZglW-qgWDQwW81a4-S2tuhQF_gkK9d",
+                "name": "中等會計學-李艷榕.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1q24f1xRabUCTzw04KBS70-ucrOnELOlM": {
+        "route": "23中等會計學/23.04劉心才",
+        "folder": [],
+        "file": [
+            {
+                "url": "1c6TAc1i2bTkMHoDIDsBo_zo6ZP4bbj7a",
+                "name": "課程PTT評價中會-劉心才.PDF"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1wpSqz9zxDlcoKMFraiEuQ37pD3hRrKg9": {
+        "route": "23中等會計學/23.03蔡彥卿",
+        "folder": [],
+        "file": [
+            {
+                "url": "1snKHvIubfC7ldt4s2VeOFQ9r5NIVL70X",
+                "name": "課程PTT評價中會-蔡彥卿.PDF"
+            },
+            {
+                "url": "15aWmHeZR8G9DS-nkaFZMArW1T3KcvkiQ",
+                "name": "105下蔡彥卿中會第二次小考題目+解答.PDF"
+            },
+            {
+                "url": "1Iw18dbL4HN8ABM6WnKJQpp6jTVs7ddSF",
+                "name": "105下蔡彥卿中會第三次小考題目+解答.PDF"
+            },
+            {
+                "url": "1zJSHf7lhpIg8wYafAcNOe7Rr2eXk2hNI",
+                "name": "105下蔡彥卿中會第一次小考題目+解答.PDF"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    }
+}

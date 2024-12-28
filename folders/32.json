@@ -1,1 +1,104 @@
-{"1zu7TWvvOODPCemEL1xkYnrD2f4bjgrHH": {"route": "32線性代數", "folder": [{"url": "1DBm4k4T6esjLdDaQyH8Y2xMEZbq6-eRE", "name": "32.01余正道"}, {"url": "1Yo7hE_eF4o6SAvPyftrOpCFLl4UMzJhE", "name": "32.03莊武諺"}, {"url": "1usi1pzCuKo7_FAoaVIyg1ikV7ZUbKMx_", "name": "32.02朱樺"}], "file": []}, "1DBm4k4T6esjLdDaQyH8Y2xMEZbq6-eRE": {"route": "32線性代數/32.01余正道", "folder": [{"url": "1bFkuszBOcaDqijN8QYrBglb44Ej2sctf", "name": "課程評價"}], "file": []}, "1bFkuszBOcaDqijN8QYrBglb44Ej2sctf": {"route": "32線性代數/32.01余正道/課程評價", "folder": [], "file": [{"url": "1SKClkY7DI1LUWfjibuxMdAMxhy8c6a0O", "name": "線性代數-于正道.pdf"}]}, "1Yo7hE_eF4o6SAvPyftrOpCFLl4UMzJhE": {"route": "32線性代數/32.03莊武諺", "folder": [{"url": "1cHEGi6VhZ-P0WOmufUWiBO0GAdqN5Jwn", "name": "期中考"}, {"url": "1l4rCiDtq2B_qsJi1WAXbCHmvoDoZY3nA", "name": "期末考"}], "file": []}, "1cHEGi6VhZ-P0WOmufUWiBO0GAdqN5Jwn": {"route": "32線性代數/32.03莊武諺/期中考", "folder": [], "file": [{"url": "1oh1UX1TkYEax5JU4-7vrBvljlrpeiu3X", "name": "110上莊武諺線代期中考試題與解答.pdf"}]}, "1l4rCiDtq2B_qsJi1WAXbCHmvoDoZY3nA": {"route": "32線性代數/32.03莊武諺/期末考", "folder": [], "file": [{"url": "1jKcK4NY-VYxL_02c3j6jiibIgqxNMJpD", "name": "110上莊武諺線代期末考試題.pdf"}]}, "1usi1pzCuKo7_FAoaVIyg1ikV7ZUbKMx_": {"route": "32線性代數/32.02朱樺", "folder": [], "file": [{"url": "1Jm4ohzcYjCmxXqdJTlcCfRslFUktPOr3", "name": "103學年度上學期期中考與解答.mht"}]}}
+{
+    "1zu7TWvvOODPCemEL1xkYnrD2f4bjgrHH": {
+        "route": "32線性代數",
+        "folder": [
+            {
+                "url": "1DBm4k4T6esjLdDaQyH8Y2xMEZbq6-eRE",
+                "name": "32.01余正道",
+                "file_count": 1
+            },
+            {
+                "url": "1Yo7hE_eF4o6SAvPyftrOpCFLl4UMzJhE",
+                "name": "32.03莊武諺",
+                "file_count": 2
+            },
+            {
+                "url": "1usi1pzCuKo7_FAoaVIyg1ikV7ZUbKMx_",
+                "name": "32.02朱樺",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 3,
+        "file_count": 4
+    },
+    "1DBm4k4T6esjLdDaQyH8Y2xMEZbq6-eRE": {
+        "route": "32線性代數/32.01余正道",
+        "folder": [
+            {
+                "url": "1bFkuszBOcaDqijN8QYrBglb44Ej2sctf",
+                "name": "課程評價",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1bFkuszBOcaDqijN8QYrBglb44Ej2sctf": {
+        "route": "32線性代數/32.01余正道/課程評價",
+        "folder": [],
+        "file": [
+            {
+                "url": "1SKClkY7DI1LUWfjibuxMdAMxhy8c6a0O",
+                "name": "線性代數-于正道.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1Yo7hE_eF4o6SAvPyftrOpCFLl4UMzJhE": {
+        "route": "32線性代數/32.03莊武諺",
+        "folder": [
+            {
+                "url": "1cHEGi6VhZ-P0WOmufUWiBO0GAdqN5Jwn",
+                "name": "期中考",
+                "file_count": 1
+            },
+            {
+                "url": "1l4rCiDtq2B_qsJi1WAXbCHmvoDoZY3nA",
+                "name": "期末考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 2
+    },
+    "1cHEGi6VhZ-P0WOmufUWiBO0GAdqN5Jwn": {
+        "route": "32線性代數/32.03莊武諺/期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1oh1UX1TkYEax5JU4-7vrBvljlrpeiu3X",
+                "name": "110上莊武諺線代期中考試題與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1l4rCiDtq2B_qsJi1WAXbCHmvoDoZY3nA": {
+        "route": "32線性代數/32.03莊武諺/期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1jKcK4NY-VYxL_02c3j6jiibIgqxNMJpD",
+                "name": "110上莊武諺線代期末考試題.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1usi1pzCuKo7_FAoaVIyg1ikV7ZUbKMx_": {
+        "route": "32線性代數/32.02朱樺",
+        "folder": [],
+        "file": [
+            {
+                "url": "1Jm4ohzcYjCmxXqdJTlcCfRslFUktPOr3",
+                "name": "103學年度上學期期中考與解答.mht"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    }
+}

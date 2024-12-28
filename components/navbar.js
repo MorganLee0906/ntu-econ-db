@@ -1,3 +1,4 @@
+//<button type="button" class="btn btn-outline-success ms-auto" data-bs-toggle="modal" data-bs-target="#notifyModal">上傳檔案</button>
 export default function Navbar() {
     return (
         <div>
@@ -31,9 +32,12 @@ export default function Navbar() {
                                 </a>
                             </li>
                         </ul>
-                        <button type="button" class="btn btn-outline-success ms-auto" data-bs-toggle="modal" data-bs-target="#notifyModal">上傳檔案</button>
+                        <button type="button" className="btn btn-outline-success ms-auto" onClick={() => window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSfA35zuNWFAS2YtSn1S59oH5m-vplSjX2I4bsfZxhJjGqasWw/viewform?usp=sf_link'}>
+                            檔案上傳
+                        </button>
                     </div>
                 </div>
+
             </nav>
             <div class="modal fade" id="notifyModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">

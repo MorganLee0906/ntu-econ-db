@@ -28,23 +28,33 @@ export default function Home({ allPostsData }) {
                 </div>
                 <div class="container">
                     <div class="list-group">
-                        {allPostsData.map(({ id, cnum, title, fid }) => (
-                            <a
-                                href={`/folder/${id}/${fid}`}
-                                class="list-group-item list-group-item-action"
-                                key={id}
-                            >
-                                <div class="d-flex w-100 justify-content-begin">
-                                    <h5 class="mb-1">{title}</h5>
-                                </div>
-                                <div class="d-flex justify-content-end">
-                                    {cnum && cnum.split(', ').map((c) => (
-                                        <span class="badge bg-primary me-2 align-items-center">{c}</span>
-                                    ))}
-                                </div>
-
-                            </a>
-                        ))}
+                        {allPostsData.map(({ id, fcnt, title, fid }) => {
+                            const hasFiles = fcnt > 0;
+                            const linkProps = hasFiles
+                                ? { href: `/folder/${id}/${fid}`, className: "list-group-item list-group-item-action" }
+                                : {
+                                    className: "list-group-item list-group-item-action disabled text-muted",
+                                    title: "此資料夾無檔案"
+                                };
+                            return (
+                                <a key={id} {...linkProps}>
+                                    <div class="d-flex w-100 justify-content-begin">
+                                        <h5 class="mb-1">{title}</h5>
+                                    </div>
+                                    <div class="d-flex justify-content-end">
+                                        {hasFiles ? (
+                                            <span class="badge bg-primary me-2 align-items-center">
+                                                共有{fcnt}個檔案
+                                            </span>
+                                        ) : (
+                                            <span class="badge bg-secondary me-2 align-items-center">
+                                                本課程暫無檔案
+                                            </span>
+                                        )}
+                                    </div>
+                                </a>
+                            );
+                        })}
                     </div>
                 </div>
 

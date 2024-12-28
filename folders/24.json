@@ -1,1 +1,77 @@
-{"1xInegBfF-TTDCzj265QGgpyQSH7qrmhA": {"route": "24公司理財", "folder": [{"url": "1LSabBq_xRQY4fPQpXp1sx0wYcO4dEZXq", "name": "24.01吳儀玲"}], "file": []}, "1LSabBq_xRQY4fPQpXp1sx0wYcO4dEZXq": {"route": "24公司理財/24.01吳儀玲", "folder": [{"url": "1IqFSeHQ60b-qV1O9pZdzxHtMEHHV-HJu", "name": "期末考"}, {"url": "1dGhWPT3mv9isQe28o_hZPq_v-t0WJ2yU", "name": "期中考"}], "file": []}, "1IqFSeHQ60b-qV1O9pZdzxHtMEHHV-HJu": {"route": "24公司理財/24.01吳儀玲/期末考", "folder": [], "file": [{"url": "1GJtL0gg3pc08zcfWeXU1Zj8GL7apsNeD", "name": "古老期末考解答(老師給的練習題).pdf"}, {"url": "1emCA4wMGaU3AOX5absyGOexFqClmqIpH", "name": "古老期末考考題(老師給的練習題).pdf"}, {"url": "18QXX0ZMh5E5exZ16Bim1Xo5MDfDC3R1s", "name": "108下吳儀玲公司理財期末考習題.pdf"}]}, "1dGhWPT3mv9isQe28o_hZPq_v-t0WJ2yU": {"route": "24公司理財/24.01吳儀玲/期中考", "folder": [], "file": [{"url": "1QMTTWs_-AjP-WAujPY4TzhElK_N4szcF", "name": "古老期中考解答(老師給的練習題).pdf"}, {"url": "1Xsj3I_vc8T56ItwYqz20VCk1XZzQLVLE", "name": "古老期中考考題(老師給的練習題).pdf"}, {"url": "19b3OgSIondTz1AtAnhEgigmrhxkbNiML", "name": "108下吳儀玲公司理財期中考習題解答.pdf"}, {"url": "1i8H7cvjVBCIXKWHBhGrxhtsecDQQJvdS", "name": "107上吳儀玲公司理財期中考與解答.pdf"}]}}
+{
+    "1xInegBfF-TTDCzj265QGgpyQSH7qrmhA": {
+        "route": "24公司理財",
+        "folder": [
+            {
+                "url": "1LSabBq_xRQY4fPQpXp1sx0wYcO4dEZXq",
+                "name": "24.01吳儀玲",
+                "file_count": 7
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 7
+    },
+    "1LSabBq_xRQY4fPQpXp1sx0wYcO4dEZXq": {
+        "route": "24公司理財/24.01吳儀玲",
+        "folder": [
+            {
+                "url": "1IqFSeHQ60b-qV1O9pZdzxHtMEHHV-HJu",
+                "name": "期末考",
+                "file_count": 3
+            },
+            {
+                "url": "1dGhWPT3mv9isQe28o_hZPq_v-t0WJ2yU",
+                "name": "期中考",
+                "file_count": 4
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 7
+    },
+    "1IqFSeHQ60b-qV1O9pZdzxHtMEHHV-HJu": {
+        "route": "24公司理財/24.01吳儀玲/期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1GJtL0gg3pc08zcfWeXU1Zj8GL7apsNeD",
+                "name": "古老期末考解答(老師給的練習題).pdf"
+            },
+            {
+                "url": "1emCA4wMGaU3AOX5absyGOexFqClmqIpH",
+                "name": "古老期末考考題(老師給的練習題).pdf"
+            },
+            {
+                "url": "18QXX0ZMh5E5exZ16Bim1Xo5MDfDC3R1s",
+                "name": "108下吳儀玲公司理財期末考習題.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
+    },
+    "1dGhWPT3mv9isQe28o_hZPq_v-t0WJ2yU": {
+        "route": "24公司理財/24.01吳儀玲/期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1QMTTWs_-AjP-WAujPY4TzhElK_N4szcF",
+                "name": "古老期中考解答(老師給的練習題).pdf"
+            },
+            {
+                "url": "1Xsj3I_vc8T56ItwYqz20VCk1XZzQLVLE",
+                "name": "古老期中考考題(老師給的練習題).pdf"
+            },
+            {
+                "url": "19b3OgSIondTz1AtAnhEgigmrhxkbNiML",
+                "name": "108下吳儀玲公司理財期中考習題解答.pdf"
+            },
+            {
+                "url": "1i8H7cvjVBCIXKWHBhGrxhtsecDQQJvdS",
+                "name": "107上吳儀玲公司理財期中考與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    }
+}

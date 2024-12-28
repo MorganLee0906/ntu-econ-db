@@ -22,15 +22,40 @@ export default function Folder({ folderData }) {
                     <h6>現在位置：
                         {folderData["route"].split('/').map((c) => (
                             <span class="badge bg-primary me-2 align-items-center">{c}</span>
+
                         ))}
                     </h6>
                 </div>
                 <div class="container">
                     <ul class="list-group list-group-flush">
                         <div className="list-group">
-                            {childFolders.map((folder) => (
-                                <a href={`/folder/${cid}/${folder["url"]}`} className="list-group-item list-group-item-action">{folder["name"]}</a>
-                            ))}
+                            {childFolders.map((folder) => {
+                                const hasFiles = folder["file_count"] > 0;
+                                const linkProps = hasFiles
+                                    ? { href: `/folder/${cid}/${folder["url"]}`, className: "list-group-item list-group-item-action" }
+                                    : {
+                                        className: "list-group-item list-group-item-action disabled text-muted",
+                                        title: "此資料夾無檔案"
+                                    };
+                                return (
+                                    <a key={folder["url"]} {...linkProps}>
+                                        <div class="d-flex w-100 justify-content-begin">
+                                            <h5 class="mb-1">{folder["name"]}</h5>
+                                        </div>
+                                        <div class="d-flex justify-content-end">
+                                            {hasFiles ? (
+                                                <span class="badge bg-primary me-2 align-items-center">
+                                                    共有{folder["file_count"]}個檔案
+                                                </span>
+                                            ) : (
+                                                <span class="badge bg-secondary me-2 align-items-center">
+                                                    本資料夾暫無檔案
+                                                </span>
+                                            )}
+                                        </div>
+                                    </a>
+                                );
+                            })}
                         </div>
                     </ul>
                     <div className="list-group">
