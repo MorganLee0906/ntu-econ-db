@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+NTU Econ Database
+---
+#### This is the latest version of the NTU Econ Database, developed using Next.js.
