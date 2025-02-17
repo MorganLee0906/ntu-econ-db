@@ -1,58 +1,107 @@
 {
-    "1GiR4HcAld7wexKmU_AvedrZ88VH3gJrT": {
-        "route": "82總體經濟理論三四",
+    "16oWSvw_cPpKeE0popFURfTYTHZTlnrN7": {
+        "route": "82個體經濟理論",
         "folder": [
             {
-                "url": "19mWW1xt_d5mwLHDtmSWkR_72yB0QrTui",
-                "name": "82.02宮崎浩一(三下)",
+                "url": "1srYqrsss3ULldtzzxsuQLD9Xwu6mCp9W",
+                "name": "82-42_潘萬祥(四下)",
                 "file_count": 0
             },
             {
-                "url": "1IWpI8PLBUT4NtoJcjQUEeM5gp__e3LsT",
-                "name": "82.04柏木昌成(四下)",
+                "url": "1-sIlcWOHqmrEMbm4B7tIHXrRUhJiJHWZ",
+                "name": "82-31_蔡崇聖(三上)",
                 "file_count": 0
             },
             {
-                "url": "1KcSKaptRvIpXrjr4IgLiXNEDbgYKknTS",
-                "name": "82.03廖珮如(四上)",
+                "url": "1E5f_aSpH8bNHe2qoQyctfj7jEk3FROor",
+                "name": "82-32_陳恭平(三下)",
                 "file_count": 0
             },
             {
-                "url": "1dOh9yVfGatRWW146oCiOimEyoF6Iz96I",
-                "name": "82.01李怡庭(三上)",
+                "url": "1obvjU2HsFDht5DfN_LwgP-XzW6DstQBE",
+                "name": "82-41_金善鐸(四上)",
                 "file_count": 0
+            },
+            {
+                "url": "1MnbpnbkDTuU1Gk8yFDS5PWqVXDZreQcE",
+                "name": "82-11_古慧雯(一上)",
+                "file_count": 0
+            },
+            {
+                "url": "1IryXIGh9pvpR8UQkOc4eyIwxr_vFUQMS",
+                "name": "82-12_王道一(一下)",
+                "file_count": 6
             }
         ],
         "file": [],
-        "dir_count": 4,
-        "file_count": 0
+        "dir_count": 6,
+        "file_count": 6
     },
-    "19mWW1xt_d5mwLHDtmSWkR_72yB0QrTui": {
-        "route": "82總體經濟理論三四/82.02宮崎浩一(三下)",
+    "1srYqrsss3ULldtzzxsuQLD9Xwu6mCp9W": {
+        "route": "82個體經濟理論/82-42_潘萬祥(四下)",
         "folder": [],
         "file": [],
         "dir_count": 0,
         "file_count": 0
     },
-    "1IWpI8PLBUT4NtoJcjQUEeM5gp__e3LsT": {
-        "route": "82總體經濟理論三四/82.04柏木昌成(四下)",
+    "1-sIlcWOHqmrEMbm4B7tIHXrRUhJiJHWZ": {
+        "route": "82個體經濟理論/82-31_蔡崇聖(三上)",
         "folder": [],
         "file": [],
         "dir_count": 0,
         "file_count": 0
     },
-    "1KcSKaptRvIpXrjr4IgLiXNEDbgYKknTS": {
-        "route": "82總體經濟理論三四/82.03廖珮如(四上)",
+    "1E5f_aSpH8bNHe2qoQyctfj7jEk3FROor": {
+        "route": "82個體經濟理論/82-32_陳恭平(三下)",
         "folder": [],
         "file": [],
         "dir_count": 0,
         "file_count": 0
     },
-    "1dOh9yVfGatRWW146oCiOimEyoF6Iz96I": {
-        "route": "82總體經濟理論三四/82.01李怡庭(三上)",
+    "1obvjU2HsFDht5DfN_LwgP-XzW6DstQBE": {
+        "route": "82個體經濟理論/82-41_金善鐸(四上)",
         "folder": [],
         "file": [],
         "dir_count": 0,
         "file_count": 0
+    },
+    "1MnbpnbkDTuU1Gk8yFDS5PWqVXDZreQcE": {
+        "route": "82個體經濟理論/82-11_古慧雯(一上)",
+        "folder": [],
+        "file": [],
+        "dir_count": 0,
+        "file_count": 0
+    },
+    "1IryXIGh9pvpR8UQkOc4eyIwxr_vFUQMS": {
+        "route": "82個體經濟理論/82-12_王道一(一下)",
+        "folder": [],
+        "file": [
+            {
+                "url": "1yAHHltMCP6GxAgRXsynkt2JOXSbagGai",
+                "name": "99上王道一個論期中考.pdf"
+            },
+            {
+                "url": "1kz7LrCefh27giT4asn2ICGaogGmMNC4E",
+                "name": "98上王道一個論期末考.pdf"
+            },
+            {
+                "url": "1WxkCOPaYjgi_pi6DgSZ6UAQSjbsdeg3a",
+                "name": "98上王道一個論期中考.pdf"
+            },
+            {
+                "url": "138piAPTgcFrsmUvPxEatiDixzMymXsIT",
+                "name": "97上王道一個論期末考.pdf"
+            },
+            {
+                "url": "1ZKpsXvxrhcZ5_xx21rilJpuudQ3TkRAG",
+                "name": "97上王道一個論期中考.pdf"
+            },
+            {
+                "url": "1-q3a6Ra9Osg-kW5zJth6w5fdvj4G6UZW",
+                "name": "101上王道一個論期末考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 6
     }
 }

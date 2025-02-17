@@ -1,253 +1,331 @@
 {
-    "1vlBL0Vp_6x7wOvF4jfZXIz07n2B6Zctb": {
-        "route": "31分析導論(高等微積分)",
+    "1Z6RwB3Vgk3u5D5Ap7Rpm5I20KcBIrP4S": {
+        "route": "31貨幣銀行學",
         "folder": [
             {
-                "url": "11U8dQUd7Bn5BTbAnExyeWTIFFHef9YB5",
-                "name": "31.04陳俊全",
-                "file_count": 1
+                "url": "1AIVklS9JH8QawMdC_8CmV1HzYUXsARHP",
+                "name": "9.03謝德宗",
+                "file_count": 10
             },
             {
-                "url": "1SYDoJOKufKHWbcBkRUGwO8Ra_a0vER-T",
-                "name": "31.02張志中",
-                "file_count": 4
+                "url": "1Y7OuyB6-yWBpe7Y6bTwKx1Ao1uQJ2QQz",
+                "name": "9.01李怡庭",
+                "file_count": 23
             },
             {
-                "url": "1osf-GCd6ZnUn4fgmWaJ6U4xUcqMVFMxD",
-                "name": "31.03王振男",
-                "file_count": 2
-            },
-            {
-                "url": "1sM-aDmHfmxGaqjZpFaibmjF67m1QW6nN",
-                "name": "31.01陳金次",
-                "file_count": 18
+                "url": "1ehDzUAEG9dUyeCECvHRr-eE7p1WJUEVz",
+                "name": "9.02陳南光",
+                "file_count": 5
             }
         ],
         "file": [],
-        "dir_count": 4,
-        "file_count": 25
+        "dir_count": 3,
+        "file_count": 38
     },
-    "11U8dQUd7Bn5BTbAnExyeWTIFFHef9YB5": {
-        "route": "31分析導論(高等微積分)/31.04陳俊全",
+    "1AIVklS9JH8QawMdC_8CmV1HzYUXsARHP": {
+        "route": "31貨幣銀行學/9.03謝德宗",
         "folder": [
             {
-                "url": "1G6Uqyo434bCy4PqhtD4xx64vYd9FYQnM",
+                "url": "1AKuzw296b4-p34aNZoD7J13sFCLlZg25",
                 "name": "上學期期中考",
-                "file_count": 1
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 1
-    },
-    "1G6Uqyo434bCy4PqhtD4xx64vYd9FYQnM": {
-        "route": "31分析導論(高等微積分)/31.04陳俊全/上學期期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1rBGxRSNAbylSwZZtzI0oOJFtOdx_fj05",
-                "name": "109上陳俊全分析導論一期中考.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1SYDoJOKufKHWbcBkRUGwO8Ra_a0vER-T": {
-        "route": "31分析導論(高等微積分)/31.02張志中",
-        "folder": [],
-        "file": [
-            {
-                "url": "1gxk-ISV2563sZOz7gBuHe73Or1xjtypm",
-                "name": "481140_17FAnaMid-2c.pdf"
+                "file_count": 3
             },
             {
-                "url": "1PAUpaXWrbLaKZEE4qfOjx8WPaKXvdeRh",
-                "name": "481140_17FAnaMid-1a.pdf"
-            },
-            {
-                "url": "1c3pTKBW0b1n2g42CLdkKDvfM7o5kMsqJ",
-                "name": "104下張志中分析導論期中考.PDF"
-            },
-            {
-                "url": "1hGNMu70wzaoGLPh286xsPFVXSSsknLzI",
-                "name": "103上張志中高等微積分期中考.PDF"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "1osf-GCd6ZnUn4fgmWaJ6U4xUcqMVFMxD": {
-        "route": "31分析導論(高等微積分)/31.03王振男",
-        "folder": [
-            {
-                "url": "1JmlZa6QAUq89QFrKzdIxol15ADyUU9ZK",
-                "name": "上學期期中考",
-                "file_count": 1
-            },
-            {
-                "url": "1fHm1mBU8IrO8I2Aa1100FkHLZUzVbgML",
+                "url": "1EbqTbAjEDEiCTGpunPF4GIWji2vgIWjh",
                 "name": "上學期期末考",
-                "file_count": 1
+                "file_count": 7
             }
         ],
         "file": [],
         "dir_count": 2,
-        "file_count": 2
+        "file_count": 10
     },
-    "1JmlZa6QAUq89QFrKzdIxol15ADyUU9ZK": {
-        "route": "31分析導論(高等微積分)/31.03王振男/上學期期中考",
+    "1AKuzw296b4-p34aNZoD7J13sFCLlZg25": {
+        "route": "31貨幣銀行學/9.03謝德宗/上學期期中考",
         "folder": [],
         "file": [
             {
-                "url": "1ZzB8fEXyLfHNC7TMk2OgcVfUWZJm-wkV",
-                "name": "108上王振男分析導論一期中考.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1fHm1mBU8IrO8I2Aa1100FkHLZUzVbgML": {
-        "route": "31分析導論(高等微積分)/31.03王振男/上學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "12VltbCWrBPWTrzMEcPAPVyVO84hwarEl",
-                "name": "108上王振男分析導論一期末考.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1sM-aDmHfmxGaqjZpFaibmjF67m1QW6nN": {
-        "route": "31分析導論(高等微積分)/31.01陳金次",
-        "folder": [
-            {
-                "url": "1ExX6LSaaES616NiXrODzi60GnnnRyHS-",
-                "name": "上學期期考",
-                "file_count": 6
+                "url": "1IDAyUSo8m9tNN2DBnCYJg_LNDHXrjVjq",
+                "name": "103上謝德宗期中考與解答.pdf"
             },
             {
-                "url": "1HDcROoaL2xvl2iv6m3GVHWZiE4y3lK4X",
-                "name": "課程評價",
-                "file_count": 1
+                "url": "1oj8GmF1KesNjX0oQnWbujxrXGqIyO_LH",
+                "name": "104上謝德宗貨銀期中考.pdf"
             },
             {
-                "url": "1HvFprsxfy9Ov6ZYbefxa5hzVf0BptLEu",
-                "name": "下學期期考",
-                "file_count": 3
-            },
-            {
-                "url": "1artYN_B9ds31U7-tsGPkj2M29xNCvZ-E",
-                "name": "習題",
-                "file_count": 8
-            }
-        ],
-        "file": [],
-        "dir_count": 4,
-        "file_count": 18
-    },
-    "1ExX6LSaaES616NiXrODzi60GnnnRyHS-": {
-        "route": "31分析導論(高等微積分)/31.01陳金次/上學期期考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1ujETeKkUf8Nlua0cKZQtTgEJrD3CW6Zn",
-                "name": "101上陳金次高微期末考.pdf"
-            },
-            {
-                "url": "1mh9C4yHLaMvFKJuyDh425ipPIY5Xk9B4",
-                "name": "101上陳金次高微期中考2.pdf"
-            },
-            {
-                "url": "1z_dFEdjdhCgiNTO6Bpfr1_YCLacWzeDv",
-                "name": "101上陳金次高微期中考1.pdf"
-            },
-            {
-                "url": "1wP4w7XJNWZZWWaS0cfaiXPdoFU5q05rT",
-                "name": "100上陳金次高微期末考.pdf"
-            },
-            {
-                "url": "1yW6kQv83GSmU1ShnHKj7XW1oFmAuPz5O",
-                "name": "100上陳金次高微期中考2.pdf"
-            },
-            {
-                "url": "1mh_GAtpr5GIxH-0JxEVHCyi2Prq8VcxN",
-                "name": "100上陳金次高微期中考1.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 6
-    },
-    "1HDcROoaL2xvl2iv6m3GVHWZiE4y3lK4X": {
-        "route": "31分析導論(高等微積分)/31.01陳金次/課程評價",
-        "folder": [],
-        "file": [
-            {
-                "url": "1TP8PFe_uKqdOz2EoxqstjCOhgR8r893k",
-                "name": "高等微積分-陳金次.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1HvFprsxfy9Ov6ZYbefxa5hzVf0BptLEu": {
-        "route": "31分析導論(高等微積分)/31.01陳金次/下學期期考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1DKv6DpLDCXahlSDqtIHbrG0zG5nWXzSV",
-                "name": "100下陳金次高微期末考.pdf"
-            },
-            {
-                "url": "1fjxbz5jgfEYfYo4SPoaPGSzCVUCURJbc",
-                "name": "100下陳金次高微期中考2.pdf"
-            },
-            {
-                "url": "12l5-QgeeVp_K3V0fg1Wg3b9YwzWBBaLU",
-                "name": "100下陳金次高微期中考1.pdf"
+                "url": "1wkIskvYsqQyzY2fmtFk7LrTENmG2jbRB",
+                "name": "107上謝德宗貨銀期中考與解答.pdf"
             }
         ],
         "dir_count": 0,
         "file_count": 3
     },
-    "1artYN_B9ds31U7-tsGPkj2M29xNCvZ-E": {
-        "route": "31分析導論(高等微積分)/31.01陳金次/習題",
+    "1EbqTbAjEDEiCTGpunPF4GIWji2vgIWjh": {
+        "route": "31貨幣銀行學/9.03謝德宗/上學期期末考",
         "folder": [],
         "file": [
             {
-                "url": "1ZL4ize_cQball_wP98kFq2nKTK8aW_PM",
-                "name": "96上陳金次高微寒假作業與解答.pdf"
+                "url": "1mNKCvQLBeYrtjhxE842zFYadjktHfx7E",
+                "name": "104上謝德宗貨銀期末考與解答.pdf"
             },
             {
-                "url": "1zIuvYrqtHCg6VWFRF3cKE8DXRJziPjQb",
-                "name": "96下陳金次高微習題與解答11-17.pdf"
+                "url": "10ZBqp6TCYybN0pRdjpmKG6mrDjTGuPl8",
+                "name": "100上謝德宗貨銀期末考與解答.pdf"
             },
             {
-                "url": "1Pnl43nwBlN8kYopB1YR_TU9n31QX6v6c",
-                "name": "96上陳金次高微習題與解答1-9.pdf"
+                "url": "1OoHCilSf75mg81qZjUK_GGSDB7aCuolN",
+                "name": "103上謝德宗貨銀期末考與解答.pdf"
             },
             {
-                "url": "1-Y6B_jSoMW5SJQRmWxojR8EataXIWIZK",
-                "name": "101上陳金次高微習題1-9.pdf"
+                "url": "1W9nQC8b71jD9usOC4-Zw8tRzXdpu9rWX",
+                "name": "103上謝德宗期末考與解答.pdf"
             },
             {
-                "url": "18wyDBx-KY-HkbJyFPnlp_Bwn0v4l_dkZ",
-                "name": "101上陳金次高微寒假作業.pdf"
+                "url": "1WtykTJbzaSUNj3QAF2rZREqxcdGaC4YP",
+                "name": "107上謝德宗貨銀期末考與解答.pdf"
             },
             {
-                "url": "1rB0NaRWL83XYzCejmcGyjpb3L08XRHTR",
-                "name": "100下陳金次高微習題與解答10-17.pdf"
+                "url": "1dIEAxM8tNP1-DbcegzIAjy2YxxlJ9T7j",
+                "name": "98上謝德宗貨銀期末考與解答.pdf"
             },
             {
-                "url": "1I9ObPR5OZbeiRCa8_dzf6S_gqNKrSrhq",
-                "name": "100上陳金次高微習題與解答1-9.pdf"
-            },
-            {
-                "url": "1w1BD3TPRwWdekzdZLl7E0D1hogIdJobC",
-                "name": "100上陳金次高微寒假作業與解答.pdf"
+                "url": "1pXAFG2U6H8BK9vrr5-C6sJCWpRuqQVy8",
+                "name": "102上謝德宗貨銀期末考與解答.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 8
+        "file_count": 7
+    },
+    "1Y7OuyB6-yWBpe7Y6bTwKx1Ao1uQJ2QQz": {
+        "route": "31貨幣銀行學/9.01李怡庭",
+        "folder": [
+            {
+                "url": "1H0mF5gVGT0XLCtSnI-6EPsDP-KIV6SC_",
+                "name": "下學期期中考",
+                "file_count": 5
+            },
+            {
+                "url": "1KvM91yKixHTxQnY615YQCbNyY9fmRuo6",
+                "name": "上學期期末考",
+                "file_count": 4
+            },
+            {
+                "url": "1ehbF6w0LngcMEOQuf0dggiJPkmhElDNN",
+                "name": "下學期期末考",
+                "file_count": 5
+            },
+            {
+                "url": "1gk-p2UiebBHXnmU0FLn9FP_6rPSm1lUC",
+                "name": "課程評價",
+                "file_count": 2
+            },
+            {
+                "url": "1lntCy1Xb0aOGyWLKGRvGG-h5yUtLu_a3",
+                "name": "上學期期中考",
+                "file_count": 7
+            }
+        ],
+        "file": [],
+        "dir_count": 5,
+        "file_count": 23
+    },
+    "1H0mF5gVGT0XLCtSnI-6EPsDP-KIV6SC_": {
+        "route": "31貨幣銀行學/9.01李怡庭/下學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1ocPCT0gnl3Sv_4q9VUzBAMwDbxRniphy",
+                "name": "貨銀103下期中考.jpg"
+            },
+            {
+                "url": "1C1aVhk6vX1vHCzZXQGSuCnmIIx23YLgm",
+                "name": "98下李怡庭貨銀期中考.pdf"
+            },
+            {
+                "url": "1L5SgeCP4miPpVlu6_tKeKWbcuvjEBlh4",
+                "name": "108下李怡庭貨銀期中考與解答.pdf"
+            },
+            {
+                "url": "1e0UBvvI1dvoedr3h0KYAsX3iwdD5-5Yw",
+                "name": "97下李怡庭貨銀期中考.pdf"
+            },
+            {
+                "url": "1oKdh6KLfoLke29Sbxjm1cfnG1Zsntm3n",
+                "name": "101下李怡庭貨銀期中考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 5
+    },
+    "1KvM91yKixHTxQnY615YQCbNyY9fmRuo6": {
+        "route": "31貨幣銀行學/9.01李怡庭/上學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1Kz9FoZYXupt3CWD7p3wQGP6QqZt6o3cQ",
+                "name": "108上李怡庭貨銀期末考與解答.pdf"
+            },
+            {
+                "url": "1ZYki-EbAkcIxhI0MSV2ppUC6nJFGwc-z",
+                "name": "97上李怡庭貨銀期末考.pdf"
+            },
+            {
+                "url": "1wDqvv9K4bckOPK9ouHaJpz1Tcl1dVr6E",
+                "name": "103學年度上學期貨銀期末考.pdf"
+            },
+            {
+                "url": "1wTIE0nZYk7EczG6hyrHPCBsRC9MzvTBK",
+                "name": "98上李怡庭貨銀期末考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "1ehbF6w0LngcMEOQuf0dggiJPkmhElDNN": {
+        "route": "31貨幣銀行學/9.01李怡庭/下學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "13OKBl8J-ZBi5kGoliHSPuM6XlabtgCr_",
+                "name": "108下李怡庭貨銀期末考非選與解答.pdf"
+            },
+            {
+                "url": "1b4ZwC0k47A2fsTl_9ohFIRy34eqS2xhc",
+                "name": "100下李怡庭貨銀期末考.pdf"
+            },
+            {
+                "url": "1b8Gl6W-xurz0zQFFPXnyeO08Yzqmyd8h",
+                "name": "106下李怡庭貨銀期末考題目.pdf"
+            },
+            {
+                "url": "1pMxlIqU0F536gJsd9I4rnrkvYovq7iYo",
+                "name": "98下李怡庭貨銀期末考.pdf"
+            },
+            {
+                "url": "1q3tys0OTiN84oTOl-07obqZIr9rdC07J",
+                "name": "93下李怡庭貨銀期末考與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 5
+    },
+    "1gk-p2UiebBHXnmU0FLn9FP_6rPSm1lUC": {
+        "route": "31貨幣銀行學/9.01李怡庭/課程評價",
+        "folder": [],
+        "file": [
+            {
+                "url": "1_lwkWVWF7XaMrRkfNUHCb2yIj7dfkwqO",
+                "name": "貨幣銀行學-李怡庭 .pdf"
+            },
+            {
+                "url": "1hU8mE1eGV5oEz8XUDT8tE3I6BtKq2YsG",
+                "name": "課程ptt評價貨銀-李怡庭.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 2
+    },
+    "1lntCy1Xb0aOGyWLKGRvGG-h5yUtLu_a3": {
+        "route": "31貨幣銀行學/9.01李怡庭/上學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1bD4zDFZtf4RVcyNkDjj5tvq1sQA3N09b",
+                "name": "106上李怡庭貨銀學期中考-2.jpg"
+            },
+            {
+                "url": "1nuU_Hf1Hu104Dgrx37ozzj4DHi3HPiy-",
+                "name": "106上李怡庭貨銀學期中考-1.jpg"
+            },
+            {
+                "url": "1G3odDCBW22ipzlt6WxMwu3y5dSeR_X0v",
+                "name": "101上李怡庭貨銀期中考.pdf"
+            },
+            {
+                "url": "1-a0oe4wJqZOxIypnCkZg14NnkpPkLJPm",
+                "name": "103學年度上學期期中期末考.pdf"
+            },
+            {
+                "url": "1OrCXNSgY0R6fFvmTFST2n-Hf3ucdRgdL",
+                "name": "108上李怡庭貨銀期中考.pdf"
+            },
+            {
+                "url": "1SIx6Yj1HlNOeXB5Xdnh3R_8e7DCyA4Or",
+                "name": "98上李怡庭貨銀學期中考.pdf"
+            },
+            {
+                "url": "1WrNMqtcV7kiAtZDEOiaMW-D_xWfzSmXZ",
+                "name": "97上李怡庭貨銀期中考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 7
+    },
+    "1ehDzUAEG9dUyeCECvHRr-eE7p1WJUEVz": {
+        "route": "31貨幣銀行學/9.02陳南光",
+        "folder": [
+            {
+                "url": "1dYIwFqWvwUsmRbb7fuO33CnR5jTqnTZu",
+                "name": "課程評價",
+                "file_count": 1
+            },
+            {
+                "url": "1hK_wDYkKYuy0DlsyUwt-IZqSnCBrAKjN",
+                "name": "下學期期末",
+                "file_count": 1
+            },
+            {
+                "url": "1o7bsOCmysvRYIjphGLxotyciUv_927qR",
+                "name": "上學期期中",
+                "file_count": 3
+            }
+        ],
+        "file": [],
+        "dir_count": 3,
+        "file_count": 5
+    },
+    "1dYIwFqWvwUsmRbb7fuO33CnR5jTqnTZu": {
+        "route": "31貨幣銀行學/9.02陳南光/課程評價",
+        "folder": [],
+        "file": [
+            {
+                "url": "1slIHJbjxjEpsJVPph-J7USSCZu_UN5TF",
+                "name": "課程ptt評價貨銀-陳南光.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1hK_wDYkKYuy0DlsyUwt-IZqSnCBrAKjN": {
+        "route": "31貨幣銀行學/9.02陳南光/下學期期末",
+        "folder": [],
+        "file": [
+            {
+                "url": "1wtzBTCx219Y-InMlTCG6I-z50uorci-Z",
+                "name": "110下陳南光貨銀期末考題目.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1o7bsOCmysvRYIjphGLxotyciUv_927qR": {
+        "route": "31貨幣銀行學/9.02陳南光/上學期期中",
+        "folder": [],
+        "file": [
+            {
+                "url": "1IsY7xSzUDaXP6ansFk8B5eR5pMVtU5XA",
+                "name": "102上陳南光貨銀期中考題目.pdf"
+            },
+            {
+                "url": "1iGiIb9a8fAmmsaM4uZuwULE9lkoBG_Cg",
+                "name": "101上陳南光貨銀期中考題目.pdf"
+            },
+            {
+                "url": "1sIqgV1K7U0HLf_P-CuV1tMpuajVfrg2K",
+                "name": "103上陳南光貨銀期中考題目.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
     }
 }

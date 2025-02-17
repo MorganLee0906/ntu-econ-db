@@ -1,62 +1,55 @@
 {
-    "1oPrCgPxCPFpYnGhQDqpNf8oFxwxEZ74K": {
-        "route": "33高等統計推論",
+    "16vtrWG94Z6Mtq8pcV6BnCUFLe03g42Z8": {
+        "route": "33商事法總論及公司法",
         "folder": [
             {
-                "url": "1mB9LCHviTWcF91q94u9YLFOw8ldQRT33",
-                "name": "33.02江金倉",
-                "file_count": 1
+                "url": "1q8DKcR06utsuCaXIASB5ao3VB8VXHFB8",
+                "name": "33-03_楊岳平",
+                "file_count": 2
             },
             {
-                "url": "1qk4KBSe9PI0mP4QaNW6Hc_gd6elb7CEP",
-                "name": "33.01陳宏",
-                "file_count": 2
+                "url": "1L32oJzjOB6vHtlSCykupP9eW33e6_QDL",
+                "name": "33-01_黃銘傑",
+                "file_count": 0
+            },
+            {
+                "url": "1UlVNeE5g1TV-AcZO-fE9uMKMPKZtG8_b",
+                "name": "33-02_蕭富山",
+                "file_count": 0
             }
         ],
         "file": [],
-        "dir_count": 2,
-        "file_count": 3
-    },
-    "1mB9LCHviTWcF91q94u9YLFOw8ldQRT33": {
-        "route": "33高等統計推論/33.02江金倉",
-        "folder": [],
-        "file": [
-            {
-                "url": "1c4QRP5c8g0itrP9hkKdjr3cYd4Jku0eW",
-                "name": "高等統計推論-江金倉.PDF"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1qk4KBSe9PI0mP4QaNW6Hc_gd6elb7CEP": {
-        "route": "33高等統計推論/33.01陳宏",
-        "folder": [
-            {
-                "url": "18hytDx3Xjn8S-lB7Xt-1d01HOdJqI__8",
-                "name": "課程評價",
-                "file_count": 1
-            }
-        ],
-        "file": [
-            {
-                "url": "1pyn8PsD1Ga9MVSjls8pKdXkRmzDut0cD",
-                "name": "101上陳宏高統推期中考.pdf"
-            }
-        ],
-        "dir_count": 1,
+        "dir_count": 3,
         "file_count": 2
     },
-    "18hytDx3Xjn8S-lB7Xt-1d01HOdJqI__8": {
-        "route": "33高等統計推論/33.01陳宏/課程評價",
+    "1q8DKcR06utsuCaXIASB5ao3VB8VXHFB8": {
+        "route": "33商事法總論及公司法/33-03_楊岳平",
         "folder": [],
         "file": [
             {
-                "url": "12Qnd2Gzdh5RgEv9lK4q-Uw0pwns5bXwl",
-                "name": "高等統計推論-陳宏.pdf"
+                "url": "1U3B9R_lDVGfv-5W2b0vZ73C9JtwDoaKI",
+                "name": "107下楊岳平商事法期末考解答.pdf"
+            },
+            {
+                "url": "11MnkRM1ETxB5QxU4-pg0myR5VeOMLyDt",
+                "name": "106下楊岳平商事法期末考解答.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 1
+        "file_count": 2
+    },
+    "1L32oJzjOB6vHtlSCykupP9eW33e6_QDL": {
+        "route": "33商事法總論及公司法/33-01_黃銘傑",
+        "folder": [],
+        "file": [],
+        "dir_count": 0,
+        "file_count": 0
+    },
+    "1UlVNeE5g1TV-AcZO-fE9uMKMPKZtG8_b": {
+        "route": "33商事法總論及公司法/33-02_蕭富山",
+        "folder": [],
+        "file": [],
+        "dir_count": 0,
+        "file_count": 0
     }
 }

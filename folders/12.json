@@ -1,487 +1,102 @@
 {
-    "10LsGfb2kLMzWCAgwbjKiX5Gy-GUkqxAu": {
-        "route": "12計量經濟學導論暨實習",
+    "1FmVKnPkcW9jbFlTjKc46rdui0PnvUZ1u": {
+        "route": "12民法概要",
         "folder": [
             {
-                "url": "13WsitJQT5SDcvH8ajmGTi7UmbiH49D5M",
-                "name": "12-04_朱建達",
+                "url": "16joJldaO7tKQKvK9H94oSTPn6a2K34s0",
+                "name": "12-02_李素華",
+                "file_count": 1
+            },
+            {
+                "url": "1N8Ec-0ZMQ2EVMwzzoVeyrs1iVwQQOOYr",
+                "name": "12-01_黃詩淳",
                 "file_count": 6
-            },
-            {
-                "url": "10QgCXYwMQkBG1wZQ4btmCmVxV5kZlkyU",
-                "name": "12-02_張勝凱",
-                "file_count": 0
-            },
-            {
-                "url": "10UdtmRDVCKWnqWoAkROlNfpzODrdAsXS",
-                "name": "12-03_陳冠銘",
-                "file_count": 2
-            },
-            {
-                "url": "10NgLqWhKyhHkhyGgEpLcx7uHKKMHMwsp",
-                "name": "12-01_駱明慶",
-                "file_count": 66
-            }
-        ],
-        "file": [],
-        "dir_count": 4,
-        "file_count": 74
-    },
-    "13WsitJQT5SDcvH8ajmGTi7UmbiH49D5M": {
-        "route": "12計量經濟學導論暨實習/12-04_朱建達",
-        "folder": [
-            {
-                "url": "13eSa0ClEdlPDqZhFko5JhhfnxdOU04CT",
-                "name": "02_期末考",
-                "file_count": 3
-            },
-            {
-                "url": "13XlCTMCT5b3PCIrSZGRB40wUYrnayd7P",
-                "name": "01_期中考",
-                "file_count": 3
             }
         ],
         "file": [],
         "dir_count": 2,
+        "file_count": 7
+    },
+    "16joJldaO7tKQKvK9H94oSTPn6a2K34s0": {
+        "route": "12民法概要/12-02_李素華",
+        "folder": [],
+        "file": [
+            {
+                "url": "1thVVDcUHhibfykpqhzJ1Dwr32VUHbUr_",
+                "name": "民法法條（最後修法日期110.01.20）.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1N8Ec-0ZMQ2EVMwzzoVeyrs1iVwQQOOYr": {
+        "route": "12民法概要/12-01_黃詩淳",
+        "folder": [
+            {
+                "url": "1TmxFj2CaCvJXr7aLbIG_ucaoP3cS_OSU",
+                "name": "課堂講義解答及筆記",
+                "file_count": 0
+            },
+            {
+                "url": "1lWgcwRLT_1oVTD9tuem9zmPviFSzTdpl",
+                "name": "歷年評價文",
+                "file_count": 1
+            },
+            {
+                "url": "1wctj1JXpP-88b8mBcnFs98vaYjalr4q2",
+                "name": "課本問題解答",
+                "file_count": 5
+            }
+        ],
+        "file": [],
+        "dir_count": 3,
         "file_count": 6
     },
-    "13eSa0ClEdlPDqZhFko5JhhfnxdOU04CT": {
-        "route": "12計量經濟學導論暨實習/12-04_朱建達/02_期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "13gGKRBUXf6DhXzTI-vqMSVGGc88vNzHP",
-                "name": "106下朱建達計量期末考.pdf"
-            },
-            {
-                "url": "13mEJrg0NRzlsUCHrZngoUUXqsxxS1Dtv",
-                "name": "104下朱建達計量期末考題目.PDF"
-            },
-            {
-                "url": "13pGt5YCZqpXrqGsPdPCnlJN2-FNwLkaq",
-                "name": "104下朱建達計量期末考答案.PDF"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "13XlCTMCT5b3PCIrSZGRB40wUYrnayd7P": {
-        "route": "12計量經濟學導論暨實習/12-04_朱建達/01_期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "13tcFSPB5jvXj3ETNTGp-lsLFvsMZ7qn4",
-                "name": "106下朱建達計量期中考.pdf"
-            },
-            {
-                "url": "13upi7B_7F-6Vj1MaODWR6MwfwAStlVEe",
-                "name": "104下朱建達計量期中考題目.PDF"
-            },
-            {
-                "url": "145iR4O1vzzCZ6E2dHUnU4C4Ifr46PDir",
-                "name": "104下朱建達計量期中考答案.PDF"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "10QgCXYwMQkBG1wZQ4btmCmVxV5kZlkyU": {
-        "route": "12計量經濟學導論暨實習/12-02_張勝凱",
+    "1TmxFj2CaCvJXr7aLbIG_ucaoP3cS_OSU": {
+        "route": "12民法概要/12-01_黃詩淳/課堂講義解答及筆記",
         "folder": [],
         "file": [],
         "dir_count": 0,
         "file_count": 0
     },
-    "10UdtmRDVCKWnqWoAkROlNfpzODrdAsXS": {
-        "route": "12計量經濟學導論暨實習/12-03_陳冠銘",
-        "folder": [
-            {
-                "url": "13HpP1QvcY7lJzdsdP2moMD4ILVha2Meh",
-                "name": "02_期末考",
-                "file_count": 1
-            },
-            {
-                "url": "13GwKzwx4LaSz6QRvLkHoBuWjo1v7gIWR",
-                "name": "01_期中考",
-                "file_count": 1
-            }
-        ],
-        "file": [],
-        "dir_count": 2,
-        "file_count": 2
-    },
-    "13HpP1QvcY7lJzdsdP2moMD4ILVha2Meh": {
-        "route": "12計量經濟學導論暨實習/12-03_陳冠銘/02_期末考",
+    "1lWgcwRLT_1oVTD9tuem9zmPviFSzTdpl": {
+        "route": "12民法概要/12-01_黃詩淳/歷年評價文",
         "folder": [],
         "file": [
             {
-                "url": "13PHjDerrtwUx90Hk4BJ32UQmj4w7ypFe",
-                "name": "112-2_陳冠銘_計量導_期末考_題目及答案.pdf"
+                "url": "1FPzbBvGiQ0lu3Uvq2n50FWiMubjZ0Bgc",
+                "name": "101學年度課程評價-黃詩淳-1.pdf"
             }
         ],
         "dir_count": 0,
         "file_count": 1
     },
-    "13GwKzwx4LaSz6QRvLkHoBuWjo1v7gIWR": {
-        "route": "12計量經濟學導論暨實習/12-03_陳冠銘/01_期中考",
+    "1wctj1JXpP-88b8mBcnFs98vaYjalr4q2": {
+        "route": "12民法概要/12-01_黃詩淳/課本問題解答",
         "folder": [],
         "file": [
             {
-                "url": "13PfQoBaORiagioflTxmjoSDpG9BFXT7w",
-                "name": "112-2_陳冠銘_計量導_期中考_練習題及答案.pdf"
+                "url": "1HKulDtJuarNLPyvyG5SRGHyOsXQ60Ziw",
+                "name": "民法概要乙期末考提問回覆.pdf"
+            },
+            {
+                "url": "1XwnNY_08E3uqApIHUX5ShLAU9rq43UiY",
+                "name": "民法概要乙期末考提問回覆2.pdf"
+            },
+            {
+                "url": "1z-BbOMMt8ANE2nog8akOBTmCNxDVEO-u",
+                "name": "民法概要乙期中考試問題答覆3.pdf"
+            },
+            {
+                "url": "1H6P9bzK1JX5aqBpRV1RxmP-B6lI7yIVM",
+                "name": "民法概要乙期中考試問題答覆2.pdf"
+            },
+            {
+                "url": "1LRb0TdzK91jBlmOKJe0n3VxBmdYmvyDG",
+                "name": "民法概要乙期中考試問題答覆1.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 1
-    },
-    "10NgLqWhKyhHkhyGgEpLcx7uHKKMHMwsp": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶",
-        "folder": [
-            {
-                "url": "15dbyuKmX3LA8Ggd_GugLL4oESnLseKWI",
-                "name": "06_下學期實習講義",
-                "file_count": 1
-            },
-            {
-                "url": "15WCU2xSGFJAqof2wC7vKYg547csvJsas",
-                "name": "05_下學期習題",
-                "file_count": 1
-            },
-            {
-                "url": "14CiIx62HoivQtLUpX0DeqfTn5MmZGKW1",
-                "name": "04_下學期小考",
-                "file_count": 19
-            },
-            {
-                "url": "13E8d0Kasevg8fRC8nZhdVgR5Q6hNhqxZ",
-                "name": "01_期初考",
-                "file_count": 2
-            },
-            {
-                "url": "11BveBbFlrdTosPV7eXWHQLRfpv2YGXMY",
-                "name": "03_期末考",
-                "file_count": 21
-            },
-            {
-                "url": "10XcYURJedHP2b2AegiU_BlnRUigN_p1D",
-                "name": "02_期中考",
-                "file_count": 22
-            }
-        ],
-        "file": [],
-        "dir_count": 6,
-        "file_count": 66
-    },
-    "15dbyuKmX3LA8Ggd_GugLL4oESnLseKWI": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶/06_下學期實習講義",
-        "folder": [],
-        "file": [
-            {
-                "url": "15gOGd6VfwQEm_EZIIscrn3zGJFD38pNh",
-                "name": "98下駱明慶統計STATA實習講義.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "15WCU2xSGFJAqof2wC7vKYg547csvJsas": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶/05_下學期習題",
-        "folder": [],
-        "file": [
-            {
-                "url": "15bHyyB6lzP-4WV-_gGyPunBeO2n_PUva",
-                "name": "98下駱明慶統計習題與解答1-10.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "14CiIx62HoivQtLUpX0DeqfTn5MmZGKW1": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶/04_下學期小考",
-        "folder": [],
-        "file": [
-            {
-                "url": "150u3GO0d_C-VgCeZwcVnrm63GjcHWOtI",
-                "name": "104下駱明慶計量第二次小考題目+解答.pdf"
-            },
-            {
-                "url": "151WLd8EfP0TYCVfmLBF4ZbhWdwMzLiEL",
-                "name": "104下駱明慶計量第一次小考題目+解答.pdf"
-            },
-            {
-                "url": "153NBAOnrJF435dcQ4FOy9aHZlJOcCovI",
-                "name": "102下駱明慶計量第三次小考題目+解答.pdf"
-            },
-            {
-                "url": "158UrgEKwHqDZba6MB-dkhnNYQrlB7Py9",
-                "name": "102下駱明慶計量第一次小考題目+解答.pdf"
-            },
-            {
-                "url": "158WQDZEhniBa3XzjB_U64asyPDs979Hs",
-                "name": "102下駱明慶計量第二次小考題目+解答.pdf"
-            },
-            {
-                "url": "15HQLFFjOyr_WOOCJ44e8q16r9gig60xh",
-                "name": "102下駱明慶計量第五次小考題目+解答.pdf"
-            },
-            {
-                "url": "15HkbyQHh0N-7tENWNgvFEYpBR89ZoWv6",
-                "name": "102下駱明慶計量第四次小考題目+解答.pdf"
-            },
-            {
-                "url": "15LVIQ7bS5Tf8RNyNH06FEKTPJxg1mgpb",
-                "name": "103下駱明慶計量第一次小考題目+解答.pdf"
-            },
-            {
-                "url": "15TSjqOC1G2QES42zZQYDkuOah2J2QjY9",
-                "name": "103下駱明慶計量第二次小考題目+解答.pdf"
-            },
-            {
-                "url": "14Gd-m3VOEcIAVnKtwLaywJsmsQaG4hSd",
-                "name": "109下駱明慶計量第一次小考與解答.pdf"
-            },
-            {
-                "url": "14KcvXftf0h_ptbLi_tn6dhNIW6Xzb5yM",
-                "name": "105下駱明慶計量第一次小考題目+解答.pdf"
-            },
-            {
-                "url": "14NaXtXhXCWUQcq3Ice4BlJgG_20ZZqgs",
-                "name": "106下駱明慶計量第二次小考題目.pdf"
-            },
-            {
-                "url": "14Q8-Mir5ylq5cnOUhtpggCthVOaqOhOf",
-                "name": "106下駱明慶計量第二次小考解答.pdf"
-            },
-            {
-                "url": "14VEa-JCfR3C9Ndz4bVv73OD3pjZBI-3u",
-                "name": "107年駱明慶統計第二次小考題目.pdf"
-            },
-            {
-                "url": "14n1Jd3O1Q5i10N8ISeg7X2wBoDfEvS8g",
-                "name": "107年駱明慶統計第一次小考題目.pdf"
-            },
-            {
-                "url": "14rH1Z4Ft3I4gMLzah4pupKFdKcrJoYHJ",
-                "name": "106下駱明慶計量第一次小考題目+解答.pdf"
-            },
-            {
-                "url": "14spiLljfNnkA-vWXerkQzDI7iz0aT9lu",
-                "name": "98下駱明慶統計小考與解答1-4.pdf"
-            },
-            {
-                "url": "14vQhrGUNCPAT_H17qttZm51FJd2myrgY",
-                "name": "107年駱明慶統計第一次小考解答.pdf"
-            },
-            {
-                "url": "14z71B77FEQycI7u3cjgto2pYWi-qPEig",
-                "name": "107年駱明慶統計第二次小考解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 19
-    },
-    "13E8d0Kasevg8fRC8nZhdVgR5Q6hNhqxZ": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶/01_期初考",
-        "folder": [],
-        "file": [
-            {
-                "url": "13EwuP278T2WjMyOVKYfW4Ec5IGaIpBK0",
-                "name": "108-2_駱明慶_計量_期初考_題目及解答.pdf"
-            },
-            {
-                "url": "13FuFw0hCN2aaHQc_4bOCNWBoX3i7twaI",
-                "name": "109-2_駱明慶_計量_期初考_題目及解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 2
-    },
-    "11BveBbFlrdTosPV7eXWHQLRfpv2YGXMY": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶/03_期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "134O4XUsNYCE2WFQ2wwRFkyQSgHQlWLkU",
-                "name": "109下駱明慶計量期末考題目及解答.pdf"
-            },
-            {
-                "url": "11rOSTwUQ6Gk4G0_GjdOsLuqNg-iGg8Ob",
-                "name": "110下駱明慶計量期末考題目及解答.pdf"
-            },
-            {
-                "url": "1296L3nfC3LHTIgZ_83KhNOnea_J0ljm-",
-                "name": "101下駱明慶計量期末考答案.pdf"
-            },
-            {
-                "url": "122dEF8uPyGery_61zaBGXZEe02KtSH1V",
-                "name": "100下駱明慶計量期末考答案.pdf"
-            },
-            {
-                "url": "12GgChIHmBVDa8rz_udb45CviCKQre1f4",
-                "name": "100下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "12TiiFrbLyPdMbQZugXc3H6xsglmUt34k",
-                "name": "101下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "12UYtteakRBerpThjWqb5y2aq_EcyCzBI",
-                "name": "102下駱明慶計量期末考答案.pdf"
-            },
-            {
-                "url": "12XlSZgE5lkpt-f2phTFAB0UWs0q-FLng",
-                "name": "102下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "12YJmLMUYjXqF5TdFrKKv2gPO-xoFqdHN",
-                "name": "103下駱明慶計量期末考解答.pdf"
-            },
-            {
-                "url": "12fTquO_nYFIp361Q5LlQKne4001Q62on",
-                "name": "103下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "12icoMvAC5On_Uipf39j2G1rWSdxgmmr-",
-                "name": "104下駱明慶計量期末考解答.pdf"
-            },
-            {
-                "url": "12lKjsqkNBuf_f8XloPcULzvuGA_v2G_l",
-                "name": "104下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "12mhoxzx9sO8uhIDarbX_1LquCBaC0sen",
-                "name": "105下駱明慶計量期末考答案.pdf"
-            },
-            {
-                "url": "12qr1ic5ZAiSydTxpzNkiMpBmr9SL9SJw",
-                "name": "107年駱明慶統計期末考題目.pdf"
-            },
-            {
-                "url": "12vihnv3WjgfqhHyqNNVX7q_TTKevR8zr",
-                "name": "107年駱明慶統計期末考解答.pdf"
-            },
-            {
-                "url": "12x11BVIrThJhd8NTA3fN0tB300Pr76U-",
-                "name": "105下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "11zxyG1tZXoqz71NXMqrwkc2ghIN3p3Bb",
-                "name": "99下駱明慶計量期末考答案.pdf"
-            },
-            {
-                "url": "125WC5TyqMRyGLBqzctDK4YAKy1AXGREt",
-                "name": "99下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "134h-_O5yYDTrDP4kZeBHbKzMqAId1QRM",
-                "name": "109下駱明慶計量期末考解答.pdf"
-            },
-            {
-                "url": "136ZT6_03Dngh0yfvGNURff4ZDxY9bSZX",
-                "name": "108下駱明慶計量期末考題目.pdf"
-            },
-            {
-                "url": "137ny76LnBW0wRhMy76Y85Ncd9VLknAVL",
-                "name": "108下駱明慶計量期末考解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 21
-    },
-    "10XcYURJedHP2b2AegiU_BlnRUigN_p1D": {
-        "route": "12計量經濟學導論暨實習/12-01_駱明慶/02_期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "11cJdTbLIMQfFICoRf2r4--VxkMP8dvdg",
-                "name": "109下駱明慶計量期中考題目及解答.pdf"
-            },
-            {
-                "url": "1OAoK6McE9wFSrwzOZZD9ezS7REaqpROI",
-                "name": "103下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "1Gc7H_HvFMbckoDeUJ-x7VP1eKGdRmkzI",
-                "name": "103下駱明慶計量期中考解答.pdf"
-            },
-            {
-                "url": "1vYAltLW6FWSgISzQPlMAw-M-Pg5FOAaj",
-                "name": "102下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "1yTrcgQkYl1UNBUr5Cb47y_xijA0_qZb3",
-                "name": "102下駱明慶計量期中考答案.pdf"
-            },
-            {
-                "url": "14zJ2PJ4lb2GXWFiwjg5LqA9hZgbJ2sYF",
-                "name": "101下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "1_rx6SC5hWAW0HB0aoVvH-tbgNAzhb9gp",
-                "name": "101下駱明慶計量期中考答案.pdf"
-            },
-            {
-                "url": "107jm3mpVbvu4XRmYh3bQWx-J7hwG5hps",
-                "name": "100下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "1xyTTHJQFdo_vet5ZbifJkVzYBMFvOKkS",
-                "name": "100下駱明慶計量期中考答案.pdf"
-            },
-            {
-                "url": "1lPP8NkgDau0J2luHWnPG0GPnRSWxvAkd",
-                "name": "99下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "1TgXRqOY_zzCMOaF6zpm8NJSqCf168S2R",
-                "name": "99下駱明慶計量期中考答案.pdf"
-            },
-            {
-                "url": "11FhELFseM5RV_iGyxzlu1OtxDXYlxLz_",
-                "name": "104下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "11EL60Fri7TUsYDUtppJ4vQJMJTQNnya3",
-                "name": "104下駱明慶計量期中考解答.pdf"
-            },
-            {
-                "url": "11HXM27o1ygBOobwDrhvs9BIlynProbcA",
-                "name": "105下駱明慶計量期中考答案.pdf"
-            },
-            {
-                "url": "11JUKsinImA6nkku3q2jEVs4_Q9imXZbI",
-                "name": "105下駱明慶計量期中考解答.pdf"
-            },
-            {
-                "url": "11KAlBgeX09vs7Fn06VsN0Cfolj2B-Bii",
-                "name": "105下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "11NaWnUU-EhA8BmcjU-dP92Xi6-HO1T9u",
-                "name": "106下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "11Np7WeCN_NJjONSEcQgMbztVt3-uFrih",
-                "name": "106下駱明慶計量期中考解答.pdf"
-            },
-            {
-                "url": "11YBuWLYRw8aHELHzjv6A7SkBGJJtwBse",
-                "name": "107年駱明慶統計期中考題目.pdf"
-            },
-            {
-                "url": "11YSmWFhDK6LwvNq411Iq1XH6kcK0_fZJ",
-                "name": "107年駱明慶統計期中考解答.pdf"
-            },
-            {
-                "url": "11g23FvrDvicGlZFDCh3dKG2j0z4wz7am",
-                "name": "108下駱明慶計量期中考題目.pdf"
-            },
-            {
-                "url": "11qp8-cvi33wafGcFAmk-fyH3XiisUp-Y",
-                "name": "108下駱明慶計量期中考解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 22
+        "file_count": 5
     }
 }

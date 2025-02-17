@@ -1,55 +1,83 @@
 {
-    "1c_9cbonKwR4M80PJaz5tmDcJIMvMLlnq": {
-        "route": "81個體經濟理論三四",
+    "1yaTwJ7UNByUp32zbyF1dAtBESxHUIwJX": {
+        "route": "81數量方法入門",
         "folder": [
             {
-                "url": "1-sIlcWOHqmrEMbm4B7tIHXrRUhJiJHWZ",
-                "name": "81.01蔡崇聖(三上)",
-                "file_count": 0
+                "url": "16hJWfHZwVOOUFeL74IpG5g78z_tmbDDu",
+                "name": "81-03_統開",
+                "file_count": 1
             },
             {
-                "url": "1E5f_aSpH8bNHe2qoQyctfj7jEk3FROor",
-                "name": "81.02陳恭平(三下)",
-                "file_count": 0
+                "url": "1Pwn-4zvUcd528fK5RsRa2OMOrJPoB9yZ",
+                "name": "81-02_朱玉琦",
+                "file_count": 2
             },
             {
-                "url": "1obvjU2HsFDht5DfN_LwgP-XzW6DstQBE",
-                "name": "81.03金善鐸(四上)",
-                "file_count": 0
-            },
-            {
-                "url": "1srYqrsss3ULldtzzxsuQLD9Xwu6mCp9W",
-                "name": "81.04潘萬祥(四下)",
+                "url": "1Hs96hUa1vToqiV0mj5gsvG6TdkujROiW",
+                "name": "81-01_陳釗而",
                 "file_count": 0
             }
         ],
         "file": [],
-        "dir_count": 4,
-        "file_count": 0
+        "dir_count": 3,
+        "file_count": 3
     },
-    "1-sIlcWOHqmrEMbm4B7tIHXrRUhJiJHWZ": {
-        "route": "81個體經濟理論三四/81.01蔡崇聖(三上)",
+    "16hJWfHZwVOOUFeL74IpG5g78z_tmbDDu": {
+        "route": "81數量方法入門/81-03_統開",
         "folder": [],
-        "file": [],
+        "file": [
+            {
+                "url": "1Ud1Z21lK3fg3-V6Atz56mt9VxLdN4V30",
+                "name": "112-2_數量方法入門_期末考_題目及答案（詳解：陳俊廷）.pdf"
+            }
+        ],
         "dir_count": 0,
-        "file_count": 0
+        "file_count": 1
     },
-    "1E5f_aSpH8bNHe2qoQyctfj7jEk3FROor": {
-        "route": "81個體經濟理論三四/81.02陳恭平(三下)",
+    "1Pwn-4zvUcd528fK5RsRa2OMOrJPoB9yZ": {
+        "route": "81數量方法入門/81-02_朱玉琦",
+        "folder": [
+            {
+                "url": "12I0YS4biJNCXZMRCehxhPEXX322gkPeD",
+                "name": "期中考",
+                "file_count": 1
+            },
+            {
+                "url": "1u1NQGdnEGlgkb0J-GlyFqUGE8BFgu_pg",
+                "name": "期末考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 2
+    },
+    "12I0YS4biJNCXZMRCehxhPEXX322gkPeD": {
+        "route": "81數量方法入門/81-02_朱玉琦/期中考",
         "folder": [],
-        "file": [],
+        "file": [
+            {
+                "url": "1Gg9Gd1WQv92hlV5GVnzyov6bmFBdp7Hm",
+                "name": "110上朱玉琦數量方法入門期中考.pdf"
+            }
+        ],
         "dir_count": 0,
-        "file_count": 0
+        "file_count": 1
     },
-    "1obvjU2HsFDht5DfN_LwgP-XzW6DstQBE": {
-        "route": "81個體經濟理論三四/81.03金善鐸(四上)",
+    "1u1NQGdnEGlgkb0J-GlyFqUGE8BFgu_pg": {
+        "route": "81數量方法入門/81-02_朱玉琦/期末考",
         "folder": [],
-        "file": [],
+        "file": [
+            {
+                "url": "17D-ED7lFm-JMv-7qXHG28-WC9GR5Ex6K",
+                "name": "110上朱玉琦數量方法入門期末考.pdf"
+            }
+        ],
         "dir_count": 0,
-        "file_count": 0
+        "file_count": 1
     },
-    "1srYqrsss3ULldtzzxsuQLD9Xwu6mCp9W": {
-        "route": "81個體經濟理論三四/81.04潘萬祥(四下)",
+    "1Hs96hUa1vToqiV0mj5gsvG6TdkujROiW": {
+        "route": "81數量方法入門/81-01_陳釗而",
         "folder": [],
         "file": [],
         "dir_count": 0,

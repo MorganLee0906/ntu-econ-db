@@ -1,272 +1,61 @@
 {
-    "1r4t278NZLPcoIk9sByHyHBUYqDzRJn8f": {
-        "route": "35賽局論",
+    "1Z5bF2SACNg6lhUsVyiPS_4ssAwCchyPO": {
+        "route": "35市場設計",
         "folder": [
             {
-                "url": "1A6hgVa2j2Ngizk73OgyFu_TWFurxG90V",
-                "name": "35.03蔡崇聖",
-                "file_count": 1
-            },
-            {
-                "url": "14TZvTl1pQeFqc5zo85yzbtzuAPRrabe4",
-                "name": "35.02黃景沂",
-                "file_count": 6
-            },
-            {
-                "url": "1zOsiuiZFenQfdEm_D-0EiVVgm3oGudeE",
-                "name": "35.01古慧雯",
-                "file_count": 26
+                "url": "1zj5I1xjWAjXVSvL_RnACdeANTtjxS_tN",
+                "name": "25.1陳慶池",
+                "file_count": 3
             }
         ],
         "file": [],
-        "dir_count": 3,
-        "file_count": 33
+        "dir_count": 1,
+        "file_count": 3
     },
-    "1A6hgVa2j2Ngizk73OgyFu_TWFurxG90V": {
-        "route": "35賽局論/35.03蔡崇聖",
-        "folder": [],
-        "file": [
-            {
-                "url": "1le0j4c7OmJMomjVC98GrXYcyefqSa6Cu",
-                "name": "賽局理論-蔡崇聖.PDF"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "14TZvTl1pQeFqc5zo85yzbtzuAPRrabe4": {
-        "route": "35賽局論/35.02黃景沂",
+    "1zj5I1xjWAjXVSvL_RnACdeANTtjxS_tN": {
+        "route": "35市場設計/25.1陳慶池",
         "folder": [
             {
-                "url": "14X2dSgiRjYm_JgRcaSuID1gHJDVhGWsF",
+                "url": "1BqjS6FfRDu_xhlQZdfwBYirGhqn8Hg3R",
                 "name": "期末考",
-                "file_count": 3
+                "file_count": 1
             },
             {
-                "url": "1f_tSwIWxwf456kJFAGnoIiJ7JGg3IVC5",
+                "url": "1mD-tcIQyoq8ig_xkX6DQYVPrF1tIcu63",
                 "name": "期中考",
-                "file_count": 3
+                "file_count": 2
             }
         ],
         "file": [],
         "dir_count": 2,
-        "file_count": 6
-    },
-    "14X2dSgiRjYm_JgRcaSuID1gHJDVhGWsF": {
-        "route": "35賽局論/35.02黃景沂/期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1Vitjxk26szS1FvE4fqnZSDzrrKmRyhgS",
-                "name": "110上黃景沂賽局論期末考題目及解答.pdf"
-            },
-            {
-                "url": "1HrJnjk4V6SDEVg2XFsWPch5DNQkQ5La5",
-                "name": "109上黃景沂賽局論期末考題目.pdf"
-            },
-            {
-                "url": "1YXDFtSQdAalqp4-_Mny-8FmChVKKaEKV",
-                "name": "109上黃景沂賽局論期末考解答.pdf"
-            }
-        ],
-        "dir_count": 0,
         "file_count": 3
     },
-    "1f_tSwIWxwf456kJFAGnoIiJ7JGg3IVC5": {
-        "route": "35賽局論/35.02黃景沂/期中考",
+    "1BqjS6FfRDu_xhlQZdfwBYirGhqn8Hg3R": {
+        "route": "35市場設計/25.1陳慶池/期末考",
         "folder": [],
         "file": [
             {
-                "url": "1p4ZXGnKMmH1lJLBr0ZZuLlkUBLlhKK_u",
-                "name": "110上黃景沂賽局論期中考題目及解答.pdf"
-            },
-            {
-                "url": "1_c8uBYzyJgi57wBEYu_dQh7CWe6djp4N",
-                "name": "109上黃景沂賽局論期中考題目.pdf"
-            },
-            {
-                "url": "1OIumgZLxlfvmEXEqAV9_pgwXSqcrnlaA",
-                "name": "109上黃景沂賽局論期中考解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "1zOsiuiZFenQfdEm_D-0EiVVgm3oGudeE": {
-        "route": "35賽局論/35.01古慧雯",
-        "folder": [
-            {
-                "url": "1-RlODOtsjbEmXXAPVK5PXRoWWYxp_wky",
-                "name": "期中考",
-                "file_count": 1
-            },
-            {
-                "url": "1Ne1CnODhv_A9HqxF0Bb_BRqCKNRLKfXH",
-                "name": "100下習題",
-                "file_count": 7
-            },
-            {
-                "url": "1UELX-nL1ZadWMoLWGnOXruLEl6GPqLRF",
-                "name": "102下",
-                "file_count": 7
-            },
-            {
-                "url": "1tUw5ezBl4tYFw1WEkzV6YazMAvIMoJXg",
-                "name": "期末考",
-                "file_count": 3
-            },
-            {
-                "url": "1zrHbK8YPfFtNQvqUqF-bZTQkW74ocYgg",
-                "name": "101上",
-                "file_count": 8
-            }
-        ],
-        "file": [],
-        "dir_count": 5,
-        "file_count": 26
-    },
-    "1-RlODOtsjbEmXXAPVK5PXRoWWYxp_wky": {
-        "route": "35賽局論/35.01古慧雯/期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1UL1gury-lQvtB0P1fwkvtBOzLouuCFQ8",
-                "name": "108上古慧雯賽局論期中考與解答.pdf"
+                "url": "1-Yr7Vs5pJ3Skxv0LptelzNoCmTPe2z6g",
+                "name": "112-2_陳慶池_市場設計_期中考_題目.pdf"
             }
         ],
         "dir_count": 0,
         "file_count": 1
     },
-    "1Ne1CnODhv_A9HqxF0Bb_BRqCKNRLKfXH": {
-        "route": "35賽局論/35.01古慧雯/100下習題",
+    "1mD-tcIQyoq8ig_xkX6DQYVPrF1tIcu63": {
+        "route": "35市場設計/25.1陳慶池/期中考",
         "folder": [],
         "file": [
             {
-                "url": "1PMUKH40V7n5yC2nn6tEGIcvaoyi48LVc",
-                "name": "100下古慧雯賽局論習題與解答Ch9.pdf"
+                "url": "1SRTK4jbjtPnKwuhhKP3o-5Sa4sgaXaEC",
+                "name": "112-1_陳慶池_市場設計_期末考_題目p1.jpg.jpg"
             },
             {
-                "url": "1JTKn8Bw3hMzg9gsjZiUJg0AdWebmVbo4",
-                "name": "100下古慧雯賽局論習題與解答Ch7.pdf"
-            },
-            {
-                "url": "1sFt2iaEpJWy2ex_xb92aUqLSixOUrPRr",
-                "name": "100下古慧雯賽局論習題與解答Ch3.pdf"
-            },
-            {
-                "url": "15_yB0MMqfLgVHb4_Jp8ze31-a07GBwAk",
-                "name": "100下古慧雯賽局論習題與解答Ch2.pdf"
-            },
-            {
-                "url": "11mML38vgZnI2-mIfQjarXt_DGg02yZbr",
-                "name": "100下古慧雯賽局論習題與解答Ch21.pdf"
-            },
-            {
-                "url": "1JpkWCJhQkwlOBQ6AChCPp5G3VkJlx_V-",
-                "name": "100下古慧雯賽局論習題與解答Ch11.pdf"
-            },
-            {
-                "url": "1TLY4z6r7Un2n4sQhMf86jm_haVx5KNJk",
-                "name": "100下古慧雯賽局論習題與解答Ch12.pdf"
+                "url": "1ibxKthUKnTW7rknzp11rlCSiBGPWJ_YI",
+                "name": "112-1_陳慶池_市場設計_期末考_題目p1.jpg"
             }
         ],
         "dir_count": 0,
-        "file_count": 7
-    },
-    "1UELX-nL1ZadWMoLWGnOXruLEl6GPqLRF": {
-        "route": "35賽局論/35.01古慧雯/102下",
-        "folder": [],
-        "file": [
-            {
-                "url": "1JJRq8LQpYVeENZo5-CRETNM8q6nndBev",
-                "name": "102下古慧雯賽局論習題與解答CH9.pdf"
-            },
-            {
-                "url": "1Auqf7RkNqHwJWFheN_dg2IFwnmvFm3Yz",
-                "name": "102下古慧雯賽局論習題與解答CH3.pdf"
-            },
-            {
-                "url": "1iGYUW7bPbu7NaJ_s0jkWG3YhQkgU7qfY",
-                "name": "102下古慧雯賽局論習題與解答CH7.pdf"
-            },
-            {
-                "url": "1S2IgRLIKJMPJbthdWIZarmBTJcdu_KMe",
-                "name": "102下古慧雯賽局論習題與解答CH2.pdf"
-            },
-            {
-                "url": "1AkCJlIR5qCASsYDtFslws1iTtzccfrI0",
-                "name": "102下古慧雯賽局論習題與解答CH21.pdf"
-            },
-            {
-                "url": "14E3r4Q6xdBrfisLZPv6ZoakZk9lYm9kt",
-                "name": "102下古慧雯賽局論習題與解答CH12.pdf"
-            },
-            {
-                "url": "1giUJSkNnOihEz3SV0w0ubDNd_SKPc0G5",
-                "name": "102下古慧雯賽局論習題與解答CH11.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 7
-    },
-    "1tUw5ezBl4tYFw1WEkzV6YazMAvIMoJXg": {
-        "route": "35賽局論/35.01古慧雯/期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "16kEcnYf83-8BWNFgEt5yLlI6HXHTSLES",
-                "name": "108上古慧雯賽局論期末考.pdf"
-            },
-            {
-                "url": "1SWt9PV4DpmJ62_AGbunqz9tKzAZ_0iA6",
-                "name": "101上古慧雯賽局論期末考與解答.pdf"
-            },
-            {
-                "url": "1zaFdvXONtu9LkwN1ql17FLvNNk8KwPPv",
-                "name": "102下古慧雯賽局論期末考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "1zrHbK8YPfFtNQvqUqF-bZTQkW74ocYgg": {
-        "route": "35賽局論/35.01古慧雯/101上",
-        "folder": [],
-        "file": [
-            {
-                "url": "1MpakKXKG382yOt3gPD13AgK4V_-nKThG",
-                "name": "101上古慧雯賽局論習題與解答Ch16.pdf"
-            },
-            {
-                "url": "1zd66y4JjSQR7Lm_BcqxlEdZUQuCSBy16",
-                "name": "101上古慧雯賽局論習題與解答Ch9.pdf"
-            },
-            {
-                "url": "1EXJIPbQjYin8ZRDwnhcJ7AA9Xpj4rnjw",
-                "name": "101上古慧雯賽局論習題與解答Ch7.pdf"
-            },
-            {
-                "url": "1e1d2w5VH6flkiU3TTgqIRVYPtF48Y0go",
-                "name": "101上古慧雯賽局論習題與解答Ch3.pdf"
-            },
-            {
-                "url": "1mgB9iuKoJ1D9wIzmHiWBNCHZI_XVpzBN",
-                "name": "101上古慧雯賽局論習題與解答Ch2.pdf"
-            },
-            {
-                "url": "1ubuena_XZ5de5uF-P9RaFPWaJFVinyBb",
-                "name": "101上古慧雯賽局論習題與解答Ch21.pdf"
-            },
-            {
-                "url": "191l4yr98VXY-Ud5c_a8XF6aLJadoGWa3",
-                "name": "101上古慧雯賽局論習題與解答Ch12.pdf"
-            },
-            {
-                "url": "1pswrI5whrY7_FSBt3mbF-XQQJYsPRH9W",
-                "name": "101上古慧雯賽局論習題與解答Ch11.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 8
+        "file_count": 2
     }
 }

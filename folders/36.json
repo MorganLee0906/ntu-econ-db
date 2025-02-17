@@ -1,45 +1,22 @@
 {
-    "1f61akOWBrxRMqyBDlSNtn2ZD7sacL2QN": {
-        "route": "36台灣產業組織與發展",
+    "1Qu0Zdym4e9WHPfsIb4hYnj6p4C6XxhyY": {
+        "route": "36教育經濟學",
         "folder": [
             {
-                "url": "1PBAA39H084fRgdPH7TulJAT5Du8fFnGa",
-                "name": "36.01陳正倉",
-                "file_count": 2
+                "url": "1A6tt5Dablx_6pzNlCi8O1W1ksD7sWDWW",
+                "name": "41.01駱明慶",
+                "file_count": 0
             }
         ],
         "file": [],
         "dir_count": 1,
-        "file_count": 2
+        "file_count": 0
     },
-    "1PBAA39H084fRgdPH7TulJAT5Du8fFnGa": {
-        "route": "36台灣產業組織與發展/36.01陳正倉",
-        "folder": [
-            {
-                "url": "11kdq_2yOLJJVH8Y77Dk5p_gje_C2pGYt",
-                "name": "課程評價",
-                "file_count": 1
-            }
-        ],
-        "file": [
-            {
-                "url": "1w8Uhh9SADQTA7ESA-oXLdZRKcSlTxL1e",
-                "name": "台灣產業組織與發展練習題.pdf"
-            }
-        ],
-        "dir_count": 1,
-        "file_count": 2
-    },
-    "11kdq_2yOLJJVH8Y77Dk5p_gje_C2pGYt": {
-        "route": "36台灣產業組織與發展/36.01陳正倉/課程評價",
+    "1A6tt5Dablx_6pzNlCi8O1W1ksD7sWDWW": {
+        "route": "36教育經濟學/41.01駱明慶",
         "folder": [],
-        "file": [
-            {
-                "url": "1EWSmNJ-IouvWMPrhBoG18rw0AGWsuQv0",
-                "name": "台灣產業組織與發展-陳正倉 .pdf"
-            }
-        ],
+        "file": [],
         "dir_count": 0,
-        "file_count": 1
+        "file_count": 0
     }
 }

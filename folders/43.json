@@ -1,84 +1,233 @@
 {
-    "1YHxrF8UDy8uBU2lNosNQEEVSMDT0f1Np": {
-        "route": "43經濟學的政策運用",
+    "1xqqN5k7nIBcPWwTOdcpTw22T8xCsK_Zu": {
+        "route": "43國際金融",
         "folder": [
             {
-                "url": "18n-r1eUJLJSkf8uMEcm35Wb48T_7TkT4",
+                "url": "1iuztYOTGZm28KnTBlQtt0Y9S8fUkFZLx",
+                "name": "11.04許嘉棟",
+                "file_count": 1
+            },
+            {
+                "url": "1KIWf5EgvX8Xrq8LT_EJTj2fpqz5I0kS4",
+                "name": "11.03曹添旺",
+                "file_count": 3
+            },
+            {
+                "url": "1e9V49shx7DKZBJmx4dKWAA6Equ7YO0Jf",
+                "name": "11.05陳旭昇",
+                "file_count": 6
+            },
+            {
+                "url": "1earUM0gsIN_oiF55C-2M1XHYYNzG-PcE",
+                "name": "11.01許振明",
+                "file_count": 1
+            },
+            {
+                "url": "1k49EKolpFI8mBoK2CS-2iL7jIDrMIGTt",
+                "name": "11.02柏木昌成",
+                "file_count": 3
+            }
+        ],
+        "file": [],
+        "dir_count": 5,
+        "file_count": 14
+    },
+    "1iuztYOTGZm28KnTBlQtt0Y9S8fUkFZLx": {
+        "route": "43國際金融/11.04許嘉棟",
+        "folder": [
+            {
+                "url": "1VVDJ7NPW0lUpsE8lpD7Kq0PtJzDWwt3i",
+                "name": "期末考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1VVDJ7NPW0lUpsE8lpD7Kq0PtJzDWwt3i": {
+        "route": "43國際金融/11.04許嘉棟/期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1UREqUqAZGgqStUa3BhtG44DdujmO0734",
+                "name": "102下許嘉棟國金期末考題目.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1KIWf5EgvX8Xrq8LT_EJTj2fpqz5I0kS4": {
+        "route": "43國際金融/11.03曹添旺",
+        "folder": [
+            {
+                "url": "15rrd5ClaX-7QWHA8ilo77H9Bf0H7GHia",
                 "name": "期末考",
                 "file_count": 2
             },
             {
-                "url": "1orY9kwKt8LP2nQOuG13LJrEA7LXdx7_Y",
-                "name": "課程內容（專欄文章）",
-                "file_count": 10
+                "url": "1DX53arroWqTCCYvk6kfHCLOmbjzsRoli",
+                "name": "上課講義",
+                "file_count": 0
+            },
+            {
+                "url": "1LfsnUz7FvTKVg49P5ZrRZkTwDgSpCXnw",
+                "name": "課本習題解答(老師指定作業)",
+                "file_count": 0
+            },
+            {
+                "url": "1xFYStJbGLWiMjI8BliX6c6RrtlLtTe1w",
+                "name": "期中考",
+                "file_count": 1
             }
         ],
         "file": [],
-        "dir_count": 2,
-        "file_count": 12
+        "dir_count": 4,
+        "file_count": 3
     },
-    "18n-r1eUJLJSkf8uMEcm35Wb48T_7TkT4": {
-        "route": "43經濟學的政策運用/期末考",
+    "15rrd5ClaX-7QWHA8ilo77H9Bf0H7GHia": {
+        "route": "43國際金融/11.03曹添旺/期末考",
         "folder": [],
         "file": [
             {
-                "url": "1_wdcyEMdGldGTauWPC6fLFqPw3njlKW2",
-                "name": "110下陳博志政策運用期末考題目.pdf"
+                "url": "1CQAKwp1D7ODE7ytUlaXgyHVZD-27OhlF",
+                "name": "102下曹添旺國金期末考題目.pdf"
             },
             {
-                "url": "1tI5s8IpsA5cZPznjnEgPDbVfzwg1nmUw",
-                "name": "109下陳博志政策運用期末考題目.pdf"
+                "url": "1a4Gea-3czA9g-ObUG2vJ_W5lgocW7wpg",
+                "name": "100下曹添旺國際金融題目.pdf"
             }
         ],
         "dir_count": 0,
         "file_count": 2
     },
-    "1orY9kwKt8LP2nQOuG13LJrEA7LXdx7_Y": {
-        "route": "43經濟學的政策運用/課程內容（專欄文章）",
+    "1DX53arroWqTCCYvk6kfHCLOmbjzsRoli": {
+        "route": "43國際金融/11.03曹添旺/上課講義",
+        "folder": [],
+        "file": [],
+        "dir_count": 0,
+        "file_count": 0
+    },
+    "1LfsnUz7FvTKVg49P5ZrRZkTwDgSpCXnw": {
+        "route": "43國際金融/11.03曹添旺/課本習題解答(老師指定作業)",
+        "folder": [],
+        "file": [],
+        "dir_count": 0,
+        "file_count": 0
+    },
+    "1xFYStJbGLWiMjI8BliX6c6RrtlLtTe1w": {
+        "route": "43國際金融/11.03曹添旺/期中考",
         "folder": [],
         "file": [
             {
-                "url": "1sn7Yotx7ulwgwqzKrPdG0oa8eA-uLhvq",
-                "name": "week9.pdf"
-            },
-            {
-                "url": "1frjJ9_JLdX9MMJFYFxswMMWc-aihXTpH",
-                "name": "week7.pdf"
-            },
-            {
-                "url": "1arusll3tkG7C9-4N7nqPpXhIKaZxyUFg",
-                "name": "week6.pdf"
-            },
-            {
-                "url": "1JqXwdIAMn9Qp2ixgZKFWfdprbHOE2JIe",
-                "name": "week5.pdf"
-            },
-            {
-                "url": "17T3CktvIW5dcxhCkyZt4bZ0mxxm1lJnN",
-                "name": "week4.pdf"
-            },
-            {
-                "url": "11Xslq23lduMznIkA3iSk9HhIiyvYFgR-",
-                "name": "week3.pdf"
-            },
-            {
-                "url": "17ZeH5oA07-pOfBvndn9eAUjG-eCy-UgP",
-                "name": "week2.pdf"
-            },
-            {
-                "url": "1HfZxcVwbUITesbD6ObO5P7gIHdMB_tJT",
-                "name": "week1.pdf"
-            },
-            {
-                "url": "1LMJiXiAFis46Iqj2z8febYmfFCteHrQS",
-                "name": "week12.pdf"
-            },
-            {
-                "url": "12nV2v-CSJGGzEnw2xm27b97uCnz4kHqm",
-                "name": "week10.pdf"
+                "url": "1W3ilR0bnqPH3jlIRI8XL44dwkU8vs14c",
+                "name": "102下國際金融期中考題目.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 10
+        "file_count": 1
+    },
+    "1e9V49shx7DKZBJmx4dKWAA6Equ7YO0Jf": {
+        "route": "43國際金融/11.05陳旭昇",
+        "folder": [
+            {
+                "url": "1B06gGMcnsB02TR6lZqwwLLKavwGvxmvJ",
+                "name": "下學期期末考",
+                "file_count": 1
+            },
+            {
+                "url": "1JX4uwxoxM0eBNylGZIzGlYQvOWBZOXrQ",
+                "name": "下學期期中考",
+                "file_count": 5
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 6
+    },
+    "1B06gGMcnsB02TR6lZqwwLLKavwGvxmvJ": {
+        "route": "43國際金融/11.05陳旭昇/下學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1iH6jlpWmD3d1C93ekMUXPavu5oLjWv3E",
+                "name": "108下陳旭昇國際金融期末考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1JX4uwxoxM0eBNylGZIzGlYQvOWBZOXrQ": {
+        "route": "43國際金融/11.05陳旭昇/下學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1_P6TcBAVcUvjdwdNO6Olyr-qNDG-uOjS",
+                "name": "109下陳旭昇國際金融期中考題目.pdf"
+            },
+            {
+                "url": "12LMFoXFqxC7OoveScfQr9AeoPe7qAdQ8",
+                "name": "109下陳旭昇國際金融期中考解答.pdf"
+            },
+            {
+                "url": "1R2u4gn_Eo2gQhUTfU0cW7hSPtSnLvaTb",
+                "name": "110下陳旭昇國際金融期中考題目.pdf"
+            },
+            {
+                "url": "1ZO4pzTfN48mEOnK8GopOIRJDBG2OndxF",
+                "name": "107下陳旭昇國際金融期中考.pdf"
+            },
+            {
+                "url": "1oP0HdJERMUXFJqGtjAWXAnltGNP6B-E2",
+                "name": "108下陳旭昇國際金融期中考與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 5
+    },
+    "1earUM0gsIN_oiF55C-2M1XHYYNzG-PcE": {
+        "route": "43國際金融/11.01許振明",
+        "folder": [
+            {
+                "url": "1jXdfZqE1HCeTVDXfCoc0KbO3OFUraq_6",
+                "name": "上學期期中考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1jXdfZqE1HCeTVDXfCoc0KbO3OFUraq_6": {
+        "route": "43國際金融/11.01許振明/上學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1Y01Fu7SLp56_2Onkf4ASvmNYYySmO9w_",
+                "name": "100上許振明國金期中考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1k49EKolpFI8mBoK2CS-2iL7jIDrMIGTt": {
+        "route": "43國際金融/11.02柏木昌成",
+        "folder": [],
+        "file": [
+            {
+                "url": "13c_KdWBU8Hvzdu9TpSWkwWSdznOVPfHF",
+                "name": "International+Economics2C+2nd+Edition(Rob.pdf"
+            },
+            {
+                "url": "1ICDgu1zKJyIbgk86T2qgmLF8OVowzowc",
+                "name": "internationalfinince.pdf"
+            },
+            {
+                "url": "1p7-VSMvjmx3p9NgcFXrNLkvu896bATcN",
+                "name": "課程ptt評價國際金融-柏木昌成.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
     }
 }
