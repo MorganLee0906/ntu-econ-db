@@ -4,26 +4,26 @@
         "folder": [
             {
                 "url": "1AIVklS9JH8QawMdC_8CmV1HzYUXsARHP",
-                "name": "9.03謝德宗",
+                "name": "31-03_謝德宗",
                 "file_count": 10
             },
             {
-                "url": "1Y7OuyB6-yWBpe7Y6bTwKx1Ao1uQJ2QQz",
-                "name": "9.01李怡庭",
-                "file_count": 23
+                "url": "1ehDzUAEG9dUyeCECvHRr-eE7p1WJUEVz",
+                "name": "31-02_陳南光",
+                "file_count": 5
             },
             {
-                "url": "1ehDzUAEG9dUyeCECvHRr-eE7p1WJUEVz",
-                "name": "9.02陳南光",
-                "file_count": 5
+                "url": "1Y7OuyB6-yWBpe7Y6bTwKx1Ao1uQJ2QQz",
+                "name": "31-01_李怡庭",
+                "file_count": 24
             }
         ],
         "file": [],
         "dir_count": 3,
-        "file_count": 38
+        "file_count": 39
     },
     "1AIVklS9JH8QawMdC_8CmV1HzYUXsARHP": {
-        "route": "31貨幣銀行學/9.03謝德宗",
+        "route": "31貨幣銀行學/31-03_謝德宗",
         "folder": [
             {
                 "url": "1AKuzw296b4-p34aNZoD7J13sFCLlZg25",
@@ -41,7 +41,7 @@
         "file_count": 10
     },
     "1AKuzw296b4-p34aNZoD7J13sFCLlZg25": {
-        "route": "31貨幣銀行學/9.03謝德宗/上學期期中考",
+        "route": "31貨幣銀行學/31-03_謝德宗/上學期期中考",
         "folder": [],
         "file": [
             {
@@ -61,7 +61,7 @@
         "file_count": 3
     },
     "1EbqTbAjEDEiCTGpunPF4GIWji2vgIWjh": {
-        "route": "31貨幣銀行學/9.03謝德宗/上學期期末考",
+        "route": "31貨幣銀行學/31-03_謝德宗/上學期期末考",
         "folder": [],
         "file": [
             {
@@ -96,13 +96,80 @@
         "dir_count": 0,
         "file_count": 7
     },
+    "1ehDzUAEG9dUyeCECvHRr-eE7p1WJUEVz": {
+        "route": "31貨幣銀行學/31-02_陳南光",
+        "folder": [
+            {
+                "url": "1dYIwFqWvwUsmRbb7fuO33CnR5jTqnTZu",
+                "name": "課程評價",
+                "file_count": 1
+            },
+            {
+                "url": "1hK_wDYkKYuy0DlsyUwt-IZqSnCBrAKjN",
+                "name": "下學期期末",
+                "file_count": 1
+            },
+            {
+                "url": "1o7bsOCmysvRYIjphGLxotyciUv_927qR",
+                "name": "上學期期中",
+                "file_count": 3
+            }
+        ],
+        "file": [],
+        "dir_count": 3,
+        "file_count": 5
+    },
+    "1dYIwFqWvwUsmRbb7fuO33CnR5jTqnTZu": {
+        "route": "31貨幣銀行學/31-02_陳南光/課程評價",
+        "folder": [],
+        "file": [
+            {
+                "url": "1slIHJbjxjEpsJVPph-J7USSCZu_UN5TF",
+                "name": "課程ptt評價貨銀-陳南光.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1hK_wDYkKYuy0DlsyUwt-IZqSnCBrAKjN": {
+        "route": "31貨幣銀行學/31-02_陳南光/下學期期末",
+        "folder": [],
+        "file": [
+            {
+                "url": "1wtzBTCx219Y-InMlTCG6I-z50uorci-Z",
+                "name": "110下陳南光貨銀期末考題目.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1o7bsOCmysvRYIjphGLxotyciUv_927qR": {
+        "route": "31貨幣銀行學/31-02_陳南光/上學期期中",
+        "folder": [],
+        "file": [
+            {
+                "url": "1IsY7xSzUDaXP6ansFk8B5eR5pMVtU5XA",
+                "name": "102上陳南光貨銀期中考題目.pdf"
+            },
+            {
+                "url": "1iGiIb9a8fAmmsaM4uZuwULE9lkoBG_Cg",
+                "name": "101上陳南光貨銀期中考題目.pdf"
+            },
+            {
+                "url": "1sIqgV1K7U0HLf_P-CuV1tMpuajVfrg2K",
+                "name": "103上陳南光貨銀期中考題目.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
+    },
     "1Y7OuyB6-yWBpe7Y6bTwKx1Ao1uQJ2QQz": {
-        "route": "31貨幣銀行學/9.01李怡庭",
+        "route": "31貨幣銀行學/31-01_李怡庭",
         "folder": [
             {
                 "url": "1H0mF5gVGT0XLCtSnI-6EPsDP-KIV6SC_",
                 "name": "下學期期中考",
-                "file_count": 5
+                "file_count": 6
             },
             {
                 "url": "1KvM91yKixHTxQnY615YQCbNyY9fmRuo6",
@@ -127,12 +194,16 @@
         ],
         "file": [],
         "dir_count": 5,
-        "file_count": 23
+        "file_count": 24
     },
     "1H0mF5gVGT0XLCtSnI-6EPsDP-KIV6SC_": {
-        "route": "31貨幣銀行學/9.01李怡庭/下學期期中考",
+        "route": "31貨幣銀行學/31-01_李怡庭/下學期期中考",
         "folder": [],
         "file": [
+            {
+                "url": "19sNjiMhRy5uzVlUUuMvmGas30nW5x1bH",
+                "name": "113_2_貨銀mid.pdf"
+            },
             {
                 "url": "1ocPCT0gnl3Sv_4q9VUzBAMwDbxRniphy",
                 "name": "貨銀103下期中考.jpg"
@@ -155,10 +226,10 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 5
+        "file_count": 6
     },
     "1KvM91yKixHTxQnY615YQCbNyY9fmRuo6": {
-        "route": "31貨幣銀行學/9.01李怡庭/上學期期末考",
+        "route": "31貨幣銀行學/31-01_李怡庭/上學期期末考",
         "folder": [],
         "file": [
             {
@@ -182,7 +253,7 @@
         "file_count": 4
     },
     "1ehbF6w0LngcMEOQuf0dggiJPkmhElDNN": {
-        "route": "31貨幣銀行學/9.01李怡庭/下學期期末考",
+        "route": "31貨幣銀行學/31-01_李怡庭/下學期期末考",
         "folder": [],
         "file": [
             {
@@ -210,7 +281,7 @@
         "file_count": 5
     },
     "1gk-p2UiebBHXnmU0FLn9FP_6rPSm1lUC": {
-        "route": "31貨幣銀行學/9.01李怡庭/課程評價",
+        "route": "31貨幣銀行學/31-01_李怡庭/課程評價",
         "folder": [],
         "file": [
             {
@@ -226,7 +297,7 @@
         "file_count": 2
     },
     "1lntCy1Xb0aOGyWLKGRvGG-h5yUtLu_a3": {
-        "route": "31貨幣銀行學/9.01李怡庭/上學期期中考",
+        "route": "31貨幣銀行學/31-01_李怡庭/上學期期中考",
         "folder": [],
         "file": [
             {
@@ -260,72 +331,5 @@
         ],
         "dir_count": 0,
         "file_count": 7
-    },
-    "1ehDzUAEG9dUyeCECvHRr-eE7p1WJUEVz": {
-        "route": "31貨幣銀行學/9.02陳南光",
-        "folder": [
-            {
-                "url": "1dYIwFqWvwUsmRbb7fuO33CnR5jTqnTZu",
-                "name": "課程評價",
-                "file_count": 1
-            },
-            {
-                "url": "1hK_wDYkKYuy0DlsyUwt-IZqSnCBrAKjN",
-                "name": "下學期期末",
-                "file_count": 1
-            },
-            {
-                "url": "1o7bsOCmysvRYIjphGLxotyciUv_927qR",
-                "name": "上學期期中",
-                "file_count": 3
-            }
-        ],
-        "file": [],
-        "dir_count": 3,
-        "file_count": 5
-    },
-    "1dYIwFqWvwUsmRbb7fuO33CnR5jTqnTZu": {
-        "route": "31貨幣銀行學/9.02陳南光/課程評價",
-        "folder": [],
-        "file": [
-            {
-                "url": "1slIHJbjxjEpsJVPph-J7USSCZu_UN5TF",
-                "name": "課程ptt評價貨銀-陳南光.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1hK_wDYkKYuy0DlsyUwt-IZqSnCBrAKjN": {
-        "route": "31貨幣銀行學/9.02陳南光/下學期期末",
-        "folder": [],
-        "file": [
-            {
-                "url": "1wtzBTCx219Y-InMlTCG6I-z50uorci-Z",
-                "name": "110下陳南光貨銀期末考題目.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1o7bsOCmysvRYIjphGLxotyciUv_927qR": {
-        "route": "31貨幣銀行學/9.02陳南光/上學期期中",
-        "folder": [],
-        "file": [
-            {
-                "url": "1IsY7xSzUDaXP6ansFk8B5eR5pMVtU5XA",
-                "name": "102上陳南光貨銀期中考題目.pdf"
-            },
-            {
-                "url": "1iGiIb9a8fAmmsaM4uZuwULE9lkoBG_Cg",
-                "name": "101上陳南光貨銀期中考題目.pdf"
-            },
-            {
-                "url": "1sIqgV1K7U0HLf_P-CuV1tMpuajVfrg2K",
-                "name": "103上陳南光貨銀期中考題目.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
     }
 }

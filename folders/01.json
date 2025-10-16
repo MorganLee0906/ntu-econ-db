@@ -3,87 +3,137 @@
         "route": "01經濟學原理與實習",
         "folder": [
             {
+                "url": "13AGV3UTIkzJjWvDcObxJ0elk6IaDvqsz",
+                "name": "01-14_廖珮如",
+                "file_count": 6
+            },
+            {
                 "url": "1S0pz2pzUAyrXSuA1kCAxu02qzzCdXOye",
-                "name": "1.13 高恩琵",
+                "name": "01-13_高恩琵",
                 "file_count": 1
             },
             {
                 "url": "1hW-bWj43B6mVPiIUUorKIJAGsRsVPTBx",
-                "name": "1.12江淳芳",
-                "file_count": 1
+                "name": "01-12_江淳芳",
+                "file_count": 8
             },
             {
-                "url": "15yHsOOG2PxvBz3E_-9-B1KazbVUdFHlZ",
-                "name": "1.04魏凱立",
-                "file_count": 12
+                "url": "1eaanzjgYeOTr0zbkQBVz4ZC-23IX_Rr_",
+                "name": "01-11_樊家忠",
+                "file_count": 23
             },
             {
                 "url": "17c0PU0LUdu4rNeZZKCR3XU_pG1-qvFKl",
-                "name": "1.10馮勃翰",
+                "name": "01-10_馮勃翰",
                 "file_count": 2
+            },
+            {
+                "url": "17q1VIEHeKZWt6l620FtRvuATqGoIuuC0",
+                "name": "01-09_陳旭昇",
+                "file_count": 1
+            },
+            {
+                "url": "1N-DZZv_dRHcBz--QjIciYd-kCc_DUGNz",
+                "name": "01-08_蔡崇聖",
+                "file_count": 6
+            },
+            {
+                "url": "15QQ4EV92aLLJ1r1TSk_L57JAstAy5zyq",
+                "name": "01-07_張清溪",
+                "file_count": 1
+            },
+            {
+                "url": "1CIo6eM5l0LL5ZiYpPcvBbkW2ixYyHjru",
+                "name": "01-06_王道一",
+                "file_count": 10
+            },
+            {
+                "url": "15O4j91GL9aTBy5pix_E_aKVuonGJfZsL",
+                "name": "01-05_葉淑貞",
+                "file_count": 4
+            },
+            {
+                "url": "15yHsOOG2PxvBz3E_-9-B1KazbVUdFHlZ",
+                "name": "01-04_魏凱立",
+                "file_count": 12
+            },
+            {
+                "url": "1VS0ehxetHRdaI18t-KerfM757DQ33dkR",
+                "name": "01-03_吳聰敏",
+                "file_count": 23
+            },
+            {
+                "url": "1QEHMD7jRLD5pl1ZNNQc7t8ucnLfnTUx0",
+                "name": "01-02_駱明慶",
+                "file_count": 103
+            },
+            {
+                "url": "1w5wujPY5xe13GcQ8yKriICRSsr19rs3T",
+                "name": "01-01_林明仁",
+                "file_count": 113
+            },
+            {
+                "url": "1PXs8kXmVrz2XMQ7zuKM2UXC5iKevt2HL",
+                "name": "01-00_暑修",
+                "file_count": 24
             },
             {
                 "url": "1Ay6lu2jqcmNcyp6OmcaDdpQ_cItQgZUS",
                 "name": "1.99Mankiw習題解答",
                 "file_count": 2
-            },
-            {
-                "url": "1CIo6eM5l0LL5ZiYpPcvBbkW2ixYyHjru",
-                "name": "1.06王道一",
-                "file_count": 10
-            },
-            {
-                "url": "1N-DZZv_dRHcBz--QjIciYd-kCc_DUGNz",
-                "name": "1.08蔡崇聖",
-                "file_count": 6
-            },
-            {
-                "url": "1QEHMD7jRLD5pl1ZNNQc7t8ucnLfnTUx0",
-                "name": "1.02駱明慶",
-                "file_count": 103
-            },
-            {
-                "url": "1eaanzjgYeOTr0zbkQBVz4ZC-23IX_Rr_",
-                "name": "1.11樊家忠",
-                "file_count": 23
-            },
-            {
-                "url": "1w5wujPY5xe13GcQ8yKriICRSsr19rs3T",
-                "name": "1.01林明仁",
-                "file_count": 116
-            },
-            {
-                "url": "15O4j91GL9aTBy5pix_E_aKVuonGJfZsL",
-                "name": "1.05葉淑貞",
-                "file_count": 4
-            },
-            {
-                "url": "15QQ4EV92aLLJ1r1TSk_L57JAstAy5zyq",
-                "name": "1.07張清溪",
-                "file_count": 1
-            },
-            {
-                "url": "17q1VIEHeKZWt6l620FtRvuATqGoIuuC0",
-                "name": "1.09陳旭昇",
-                "file_count": 1
-            },
-            {
-                "url": "1PXs8kXmVrz2XMQ7zuKM2UXC5iKevt2HL",
-                "name": "1.00暑修",
-                "file_count": 24
-            },
-            {
-                "url": "1VS0ehxetHRdaI18t-KerfM757DQ33dkR",
-                "name": "1.03吳聰敏",
-                "file_count": 23
             }
         ],
         "file": [],
-        "dir_count": 15,
-        "file_count": 329
+        "dir_count": 16,
+        "file_count": 339
+    },
+    "13AGV3UTIkzJjWvDcObxJ0elk6IaDvqsz": {
+        "route": "01經濟學原理與實習/01-14_廖珮如",
+        "folder": [
+            {
+                "url": "1PsS2k9O8pxq-QlMKDicezm-wTGTlRsMR",
+                "name": "作業",
+                "file_count": 6
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 6
+    },
+    "1PsS2k9O8pxq-QlMKDicezm-wTGTlRsMR": {
+        "route": "01經濟學原理與實習/01-14_廖珮如/作業",
+        "folder": [],
+        "file": [
+            {
+                "url": "1bh17atchpceQE4zNKXJNzkCG1PJW6CUz",
+                "name": "112-2_廖珮如_總經原_作業3參考答案.pdf"
+            },
+            {
+                "url": "11nXyvE5EHEkGpJhIw2kJ9xRth7-mP3ks",
+                "name": "112-2_廖珮如_總經原_作業3.pdf"
+            },
+            {
+                "url": "17KGVcSU_YHLpvHr0lc3LLpQETsM6BbCu",
+                "name": "112-2_廖珮如_總經原_作業2參考答案.pdf"
+            },
+            {
+                "url": "125aMFqZ2K27WbG8dY6y4OKs-UDc3diI2",
+                "name": "112-2_廖珮如_總經原_作業2.pdf"
+            },
+            {
+                "url": "1TL8iUc6fe57NOtRiRcvdD7bo9uU1M0ga",
+                "name": "112-2_廖珮如_總經原_作業1參考答案.pdf"
+            },
+            {
+                "url": "10AixyXvqEjqKhxx3V1LQ7P1zT9MZoS3I",
+                "name": "112-2_廖珮如_總經原_作業1.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 6
     },
     "1S0pz2pzUAyrXSuA1kCAxu02qzzCdXOye": {
-        "route": "01經濟學原理與實習/1.13 高恩琵",
+        "route": "01經濟學原理與實習/01-13_高恩琵",
         "folder": [
             {
                 "url": "1Zds97xde_be9IsuFiONLdTtwB8uK1MAe",
@@ -96,7 +146,7 @@
         "file_count": 1
     },
     "1Zds97xde_be9IsuFiONLdTtwB8uK1MAe": {
-        "route": "01經濟學原理與實習/1.13 高恩琵/總經原",
+        "route": "01經濟學原理與實習/01-13_高恩琵/總經原",
         "folder": [],
         "file": [
             {
@@ -108,19 +158,631 @@
         "file_count": 1
     },
     "1hW-bWj43B6mVPiIUUorKIJAGsRsVPTBx": {
-        "route": "01經濟學原理與實習/1.12江淳芳",
-        "folder": [],
+        "route": "01經濟學原理與實習/01-12_江淳芳",
+        "folder": [
+            {
+                "url": "19o4PWFXdCiqKjfVwnXwIDlt0vIobtxpk",
+                "name": "作業",
+                "file_count": 6
+            }
+        ],
         "file": [
             {
                 "url": "1Q-5cTPIsiYsZyNibzlUlH0PxzZX_OnGh",
-                "name": "111-1 江淳芳 個經原 期中考"
+                "name": "111-1_江淳芳_個經原_期中考.pdf"
+            },
+            {
+                "url": "10HcBz8PX4FLAbl9Ugh73rYCbwaKwKDmk",
+                "name": "112-1_江淳芳_個經原_期中考.pdf"
+            }
+        ],
+        "dir_count": 1,
+        "file_count": 8
+    },
+    "19o4PWFXdCiqKjfVwnXwIDlt0vIobtxpk": {
+        "route": "01經濟學原理與實習/01-12_江淳芳/作業",
+        "folder": [],
+        "file": [
+            {
+                "url": "1OR6gmgyWzTw9qEe74aWJeHKS-A3Q2JWC",
+                "name": "112-1_江淳芳_個經原_作業4參考答案.pdf"
+            },
+            {
+                "url": "1yFtcbOe5yGVrOxvaWA00IU9cKAdI3Bay",
+                "name": "112-1_江淳芳_個經原_作業6參考答案.pdf"
+            },
+            {
+                "url": "1VcL8dofWkfLLafsrG2fv5IEqIxDkPrki",
+                "name": "112-1_江淳芳_個經原_作業5參考答案.pdf"
+            },
+            {
+                "url": "1ftV1pBrRTtCXojB-c_dRcp5hqcnPwICn",
+                "name": "112-1_江淳芳_個經原_作業3參考答案.pdf"
+            },
+            {
+                "url": "1rkJKQqxLZv5oo-KccRDSd6i7aos0uoI_",
+                "name": "112-1_江淳芳_個經原_作業2參考答案.pdf"
+            },
+            {
+                "url": "13ri4gMCAev85pV_MB-YrAdwcItoT7TNF",
+                "name": "112-1_江淳芳_個經原_作業1參考答案.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 6
+    },
+    "1eaanzjgYeOTr0zbkQBVz4ZC-23IX_Rr_": {
+        "route": "01經濟學原理與實習/01-11_樊家忠",
+        "folder": [
+            {
+                "url": "11w1GKerbxlQcrpmi2bzmMNflSVYEHMOg",
+                "name": "總經原",
+                "file_count": 11
+            },
+            {
+                "url": "1KSJRFLLD2sVGphC0iXXX1eYBKbKZxfqk",
+                "name": "個經原",
+                "file_count": 12
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 23
+    },
+    "11w1GKerbxlQcrpmi2bzmMNflSVYEHMOg": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/總經原",
+        "folder": [
+            {
+                "url": "1YDBasbBTjcbkPbfn7RwziU1wWzC1Bmld",
+                "name": "109",
+                "file_count": 4
+            },
+            {
+                "url": "1_NGCxh8PCPB7iu1PTLT6yEXpB3EbWaN7",
+                "name": "110",
+                "file_count": 4
+            },
+            {
+                "url": "158HaZ9HgO7kZ4avvzf8e_W5Y9DGnMIpT",
+                "name": "111",
+                "file_count": 3
+            }
+        ],
+        "file": [],
+        "dir_count": 3,
+        "file_count": 11
+    },
+    "1YDBasbBTjcbkPbfn7RwziU1wWzC1Bmld": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/總經原/109",
+        "folder": [],
+        "file": [
+            {
+                "url": "1edJwSYRFT09uwYxhbpjoERuo2qinNKyK",
+                "name": "macro 109 final.pdf"
+            },
+            {
+                "url": "1rIEtw3q6w4jNhHlZjWxF6b5hneJi7Rp1",
+                "name": "macro 109 mid.pdf"
+            },
+            {
+                "url": "1I_bwL1mAfU5jVy3xPoAnK_YOQ8HkYTUz",
+                "name": "macro 109 final ans sheet.pdf"
+            },
+            {
+                "url": "1bevjzlwbrgOCxj0vs_gV_VkkmUSR5LJd",
+                "name": "macro 109 mid ans sheet.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "1_NGCxh8PCPB7iu1PTLT6yEXpB3EbWaN7": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/總經原/110",
+        "folder": [],
+        "file": [
+            {
+                "url": "173dLHvpeUEqnsgYupbawNbJSaPeA8bWT",
+                "name": "macro 110 mid.pdf"
+            },
+            {
+                "url": "1jWQexo3Sjx0arPOsOhpgZf8-ZaNITSFz",
+                "name": "macro 110 final.pdf"
+            },
+            {
+                "url": "1a0Q35HprIrdXydUi5_dD7lsbzl9s1Omk",
+                "name": "macro 110 mid ans sheet.pdf"
+            },
+            {
+                "url": "1pG1pRzBy26zrPJp5BNh-xSvPmZsXgv-_",
+                "name": "macro 110 final ans sheet.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "158HaZ9HgO7kZ4avvzf8e_W5Y9DGnMIpT": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/總經原/111",
+        "folder": [],
+        "file": [
+            {
+                "url": "1cy50SeSGCJjnLZiYqyAjIXApKnHEIauU",
+                "name": "macro 111 final.pdf"
+            },
+            {
+                "url": "1y5GufDGVGTh0n-hUTJwVL7A2LdI7pNmy",
+                "name": "notes for prin. macro. final.pdf"
+            },
+            {
+                "url": "1s6wt1l3isP3GCTSEOQeDDxEJdBRsCfCR",
+                "name": "macro 111 mid.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
+    },
+    "1KSJRFLLD2sVGphC0iXXX1eYBKbKZxfqk": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/個經原",
+        "folder": [
+            {
+                "url": "1oVZdT0h_MnCsirxSfAUmHPYb2eMuQn5V",
+                "name": "112",
+                "file_count": 2
+            },
+            {
+                "url": "11ndj-IXJ_DFyb26K44rxyXbUQ2Lq1pE-",
+                "name": "109",
+                "file_count": 4
+            },
+            {
+                "url": "1XjO5NM9sYfuWggHV8aOJI0m9Gmns2kQu",
+                "name": "111",
+                "file_count": 2
+            },
+            {
+                "url": "1uA97o_vkkQrlngpCdCYi4jL0iRPUwvtZ",
+                "name": "110",
+                "file_count": 4
+            }
+        ],
+        "file": [],
+        "dir_count": 4,
+        "file_count": 12
+    },
+    "1oVZdT0h_MnCsirxSfAUmHPYb2eMuQn5V": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/個經原/112",
+        "folder": [],
+        "file": [
+            {
+                "url": "17ni_RPytny_r7sp8wk7rRG0GHBwGZucb",
+                "name": "final_2023F-ans (1) (1)-1.pdf"
+            },
+            {
+                "url": "1rLA4zu1dRe11kSrAE44HOuGfsM7Du8v2",
+                "name": "midterm_2023F_ans.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 2
+    },
+    "11ndj-IXJ_DFyb26K44rxyXbUQ2Lq1pE-": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/個經原/109",
+        "folder": [],
+        "file": [
+            {
+                "url": "19Cfqyj8jfLwmeXS7EVLqg2-TOTSBF46P",
+                "name": "micro 109 final.pdf"
+            },
+            {
+                "url": "1H-BxZscp1durou3p56X2jkdrgJh3sVMM",
+                "name": "micro 109 mid.pdf"
+            },
+            {
+                "url": "1LVZZdCWx7jEKsDad5wq6tV_JjYR_0_Tm",
+                "name": "micro 109 mid ans sheet.pdf"
+            },
+            {
+                "url": "1unylPXg7OmoTKQwNSfquKGcvu4FTZZgj",
+                "name": "micro 109 final ans sheet.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "1XjO5NM9sYfuWggHV8aOJI0m9Gmns2kQu": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/個經原/111",
+        "folder": [],
+        "file": [
+            {
+                "url": "1S_zWNe2EdAgGduP_6iPlmolm8Rz6w1xN",
+                "name": "micro 111 mid.pdf"
+            },
+            {
+                "url": "1kE-4iRWqQOoV1cPJUquNyXl_Er2rfWb8",
+                "name": "micro 111 final.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 2
+    },
+    "1uA97o_vkkQrlngpCdCYi4jL0iRPUwvtZ": {
+        "route": "01經濟學原理與實習/01-11_樊家忠/個經原/110",
+        "folder": [],
+        "file": [
+            {
+                "url": "15VGr2SZdBYPsHen4ewRdk_OLVmowrHVV",
+                "name": "micro 110 final.pdf"
+            },
+            {
+                "url": "1NnluaUEv_GZ5UwMS20rbOz1iGvT9SQCv",
+                "name": "micro 110 mid.pdf"
+            },
+            {
+                "url": "1FG4v2diAaHF5FaNk1lyFUak_LpN9z9bx",
+                "name": "micro 110 final ans sheet.pdf"
+            },
+            {
+                "url": "1on9fpU3Rf0rHfEDN545l2hi8PHseqhUU",
+                "name": "micro 110 mid ans sheet.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "17c0PU0LUdu4rNeZZKCR3XU_pG1-qvFKl": {
+        "route": "01經濟學原理與實習/01-10_馮勃翰",
+        "folder": [
+            {
+                "url": "1iAnyLPrJals4i-8laDGHv0cUcU5292RU",
+                "name": "期考",
+                "file_count": 2
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 2
+    },
+    "1iAnyLPrJals4i-8laDGHv0cUcU5292RU": {
+        "route": "01經濟學原理與實習/01-10_馮勃翰/期考",
+        "folder": [
+            {
+                "url": "17klbB73n3gVnD7bOy0N8HwGzOjy0k8Hf",
+                "name": "上學期期中考",
+                "file_count": 1
+            },
+            {
+                "url": "1evqe2Q68w3iPuJFP5HKRm7_OES8Y810s",
+                "name": "上學期期末考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 2
+    },
+    "17klbB73n3gVnD7bOy0N8HwGzOjy0k8Hf": {
+        "route": "01經濟學原理與實習/01-10_馮勃翰/期考/上學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1sEnYcEChjA4XKeCyld39SVnZphPaUoLB",
+                "name": "107上馮勃翰經原期中考與解答.pdf"
             }
         ],
         "dir_count": 0,
         "file_count": 1
     },
+    "1evqe2Q68w3iPuJFP5HKRm7_OES8Y810s": {
+        "route": "01經濟學原理與實習/01-10_馮勃翰/期考/上學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1bD4dMs99yUNEgQjMrfhnaZuy4sdNh0tg",
+                "name": "107上馮勃翰經原期末考與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "17q1VIEHeKZWt6l620FtRvuATqGoIuuC0": {
+        "route": "01經濟學原理與實習/01-09_陳旭昇",
+        "folder": [
+            {
+                "url": "1UFcwFcuwNmEs9cnfFIcM3rcH_LPDQ3Z2",
+                "name": "期考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1UFcwFcuwNmEs9cnfFIcM3rcH_LPDQ3Z2": {
+        "route": "01經濟學原理與實習/01-09_陳旭昇/期考",
+        "folder": [
+            {
+                "url": "1XzrQzKGdwXpsEYNQ3HhLUpvk9K7_Qv6l",
+                "name": "下學期期末考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1XzrQzKGdwXpsEYNQ3HhLUpvk9K7_Qv6l": {
+        "route": "01經濟學原理與實習/01-09_陳旭昇/期考/下學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1Yo7Vtx1mk5OMoyAlcejPz3-u2iP-j086",
+                "name": "105下陳旭昇經原期末考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1N-DZZv_dRHcBz--QjIciYd-kCc_DUGNz": {
+        "route": "01經濟學原理與實習/01-08_蔡崇聖",
+        "folder": [
+            {
+                "url": "1Ga06F-tyA6iLfQIBEHbPj6GH9_FEfUiK",
+                "name": "小考",
+                "file_count": 4
+            },
+            {
+                "url": "1YPgtwoGHvnsBb8KlW6jvePdD5ODT7OOQ",
+                "name": "期考",
+                "file_count": 2
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 6
+    },
+    "1Ga06F-tyA6iLfQIBEHbPj6GH9_FEfUiK": {
+        "route": "01經濟學原理與實習/01-08_蔡崇聖/小考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1p6uFZkR639ieK8KSMT4fw1WsbCkmmWTW",
+                "name": "經濟學原理105上Quiz 4 -Answer.pdf"
+            },
+            {
+                "url": "1S0eWMc1E7eUXbRS4PitpLnRHGPpsLnRm",
+                "name": "經濟學原理105上Quiz 3-Answer.pdf"
+            },
+            {
+                "url": "1zF__nZsU8uOuhyu5009mY2CyW_98ngFA",
+                "name": "經濟學原理105上Quiz 2 -Answer.pdf"
+            },
+            {
+                "url": "1igZYAArndOrAkjvMLlLMf2tuSt4QrWQE",
+                "name": "經濟學原理105上Quiz 1 -Answer.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "1YPgtwoGHvnsBb8KlW6jvePdD5ODT7OOQ": {
+        "route": "01經濟學原理與實習/01-08_蔡崇聖/期考",
+        "folder": [
+            {
+                "url": "1TENed3Akpihlt4uwVSkyWiYbg2g7kM6z",
+                "name": "上學期期中考",
+                "file_count": 1
+            },
+            {
+                "url": "1uHztndDzTgJ88MXG33H_sTSZvApNRHXv",
+                "name": "上學期期末考",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 2,
+        "file_count": 2
+    },
+    "1TENed3Akpihlt4uwVSkyWiYbg2g7kM6z": {
+        "route": "01經濟學原理與實習/01-08_蔡崇聖/期考/上學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "19WwJWz1OjnwWO0byVAsYRnGnbeLH4s3q",
+                "name": "105上 Midterm.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1uHztndDzTgJ88MXG33H_sTSZvApNRHXv": {
+        "route": "01經濟學原理與實習/01-08_蔡崇聖/期考/上學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1fgM4nIWTEq0v6u4qixraC7yhq2M9QVD8",
+                "name": "309067_Final Exam Answer.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "15QQ4EV92aLLJ1r1TSk_L57JAstAy5zyq": {
+        "route": "01經濟學原理與實習/01-07_張清溪",
+        "folder": [
+            {
+                "url": "1AypXW1MorVeiAMgxFcUnQ06plCwyGYJO",
+                "name": "歷年評價文",
+                "file_count": 1
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 1
+    },
+    "1AypXW1MorVeiAMgxFcUnQ06plCwyGYJO": {
+        "route": "01經濟學原理與實習/01-07_張清溪/歷年評價文",
+        "folder": [],
+        "file": [
+            {
+                "url": "19HRwg-qKcNCQah37-nFEhm3h4lv_qLRl",
+                "name": "PTT評價-張清溪.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1CIo6eM5l0LL5ZiYpPcvBbkW2ixYyHjru": {
+        "route": "01經濟學原理與實習/01-06_王道一",
+        "folder": [
+            {
+                "url": "1FH5tiqA45F_tegDVPz7937Q0BqTelC7m",
+                "name": "歷年評價文",
+                "file_count": 3
+            },
+            {
+                "url": "1X6pqvQvWCuqqxzC1JorLgpiDRIm4pU_O",
+                "name": "小考",
+                "file_count": 1
+            },
+            {
+                "url": "1fwHQoubQlYWQpEOlwwbyn-F1WFI_Gzd2",
+                "name": "期考",
+                "file_count": 6
+            }
+        ],
+        "file": [],
+        "dir_count": 3,
+        "file_count": 10
+    },
+    "1FH5tiqA45F_tegDVPz7937Q0BqTelC7m": {
+        "route": "01經濟學原理與實習/01-06_王道一/歷年評價文",
+        "folder": [],
+        "file": [
+            {
+                "url": "1TAojTht4It6EZF6KdEtxTZ-2F3qIsble",
+                "name": "102學年度課程評價-王道一-1.pdf"
+            },
+            {
+                "url": "1iiJWJUyoONGLg0VQrgco89Hrt6uIHrcC",
+                "name": "101學年度課程評價-王道一教授2.pdf"
+            },
+            {
+                "url": "1lt6Dn7Q_Gqo2hrSs5rIZSnbreo21JRyY",
+                "name": "101學年度課程評價-王道一教授1.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
+    },
+    "1X6pqvQvWCuqqxzC1JorLgpiDRIm4pU_O": {
+        "route": "01經濟學原理與實習/01-06_王道一/小考",
+        "folder": [],
+        "file": [
+            {
+                "url": "19YVg8K1awk1wKXOtdO-6gbRNnun5i91E",
+                "name": "103上王道一經原小考1.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1fwHQoubQlYWQpEOlwwbyn-F1WFI_Gzd2": {
+        "route": "01經濟學原理與實習/01-06_王道一/期考",
+        "folder": [
+            {
+                "url": "1Cw2HIppel3t3AwZmfIJmmo3ZwK_8oyNA",
+                "name": "上學期期中考",
+                "file_count": 3
+            },
+            {
+                "url": "1wt5cqxbdhUXryoAo74odCKUzadS_4tC2",
+                "name": "上學期期末考",
+                "file_count": 2
+            }
+        ],
+        "file": [
+            {
+                "url": "1eV7SPiAB7sW2QPhBM2d9EnPAwQ3gcRZO",
+                "name": "111-1 王道一 個經原 期中考.pdf"
+            }
+        ],
+        "dir_count": 2,
+        "file_count": 6
+    },
+    "1Cw2HIppel3t3AwZmfIJmmo3ZwK_8oyNA": {
+        "route": "01經濟學原理與實習/01-06_王道一/期考/上學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1akVy0zfY4K8meadf3G7YneE9WfQV0tK5",
+                "name": "102上王道一經原期中考.pdf"
+            },
+            {
+                "url": "1FSRhb0GYjPZgxF95SlOfy86mO1YNqAje",
+                "name": "103上王道一經原期中考.pdf"
+            },
+            {
+                "url": "1tK_1C3ItY6t-U19Ldu8cVz-EiyAiCuQX",
+                "name": "101上王道一經原期中考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 3
+    },
+    "1wt5cqxbdhUXryoAo74odCKUzadS_4tC2": {
+        "route": "01經濟學原理與實習/01-06_王道一/期考/上學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "11dYQEcThZFYRxIY7oPaStUIeyuaHqQay",
+                "name": "102上王道一經原期末考.pdf"
+            },
+            {
+                "url": "1vhPhvi38EmGkpgg1VEAhjacPkrO5l2QH",
+                "name": "101上王道一經原期末考.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 2
+    },
+    "15O4j91GL9aTBy5pix_E_aKVuonGJfZsL": {
+        "route": "01經濟學原理與實習/01-05_葉淑貞",
+        "folder": [
+            {
+                "url": "1gLRF2dd2TliFtumaMYZS8_7N_m8bcwEA",
+                "name": "講義",
+                "file_count": 4
+            }
+        ],
+        "file": [],
+        "dir_count": 1,
+        "file_count": 4
+    },
+    "1gLRF2dd2TliFtumaMYZS8_7N_m8bcwEA": {
+        "route": "01經濟學原理與實習/01-05_葉淑貞/講義",
+        "folder": [],
+        "file": [
+            {
+                "url": "1oRfcHYWOyarf1aUdX436YXIRcAUhyUJE",
+                "name": "100上葉淑貞經原講義Ch8-9.pdf"
+            },
+            {
+                "url": "1s5eRWN7xNkEAZeWz_3tnZ9CJxCqD0Z2m",
+                "name": "100上葉淑貞經原講義Ch1-3.pdf"
+            },
+            {
+                "url": "1uJEgnS3y25IYe1rzf8H5W9ST0XvHLw-B",
+                "name": "100上葉淑貞經原講義Ch4-6.pdf"
+            },
+            {
+                "url": "1ByP-9ut4b_Or5sbJu7EGuVEYjLPy3l9t",
+                "name": "100上葉淑貞經原講義Ch7.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
     "15yHsOOG2PxvBz3E_-9-B1KazbVUdFHlZ": {
-        "route": "01經濟學原理與實習/1.04魏凱立",
+        "route": "01經濟學原理與實習/01-04_魏凱立",
         "folder": [
             {
                 "url": "15CvBK3GcCsS3Wnj0hHVA0Wji1sYG_8av",
@@ -143,7 +805,7 @@
         "file_count": 12
     },
     "15CvBK3GcCsS3Wnj0hHVA0Wji1sYG_8av": {
-        "route": "01經濟學原理與實習/1.04魏凱立/小考",
+        "route": "01經濟學原理與實習/01-04_魏凱立/小考",
         "folder": [],
         "file": [
             {
@@ -167,7 +829,7 @@
         "file_count": 4
     },
     "1ZayQOOpvzCc5Z8fkZ_2fBtiwxdmD9UdW": {
-        "route": "01經濟學原理與實習/1.04魏凱立/期考",
+        "route": "01經濟學原理與實習/01-04_魏凱立/期考",
         "folder": [
             {
                 "url": "10mxoXK_jpaW8DEqV-u2TN7vNJMhjzLer",
@@ -195,7 +857,7 @@
         "file_count": 6
     },
     "10mxoXK_jpaW8DEqV-u2TN7vNJMhjzLer": {
-        "route": "01經濟學原理與實習/1.04魏凱立/期考/下學期期中考",
+        "route": "01經濟學原理與實習/01-04_魏凱立/期考/下學期期中考",
         "folder": [],
         "file": [
             {
@@ -211,7 +873,7 @@
         "file_count": 2
     },
     "19Xzzf8AG5DpKslkS5_Gp5i9XN1mRH_LM": {
-        "route": "01經濟學原理與實習/1.04魏凱立/期考/下學期期末考",
+        "route": "01經濟學原理與實習/01-04_魏凱立/期考/下學期期末考",
         "folder": [],
         "file": [
             {
@@ -227,7 +889,7 @@
         "file_count": 2
     },
     "1LxnSA_izuE03ilAKyceeV2BwNDDLiuAy": {
-        "route": "01經濟學原理與實習/1.04魏凱立/期考/上學期期末考",
+        "route": "01經濟學原理與實習/01-04_魏凱立/期考/上學期期末考",
         "folder": [],
         "file": [
             {
@@ -239,7 +901,7 @@
         "file_count": 1
     },
     "1U-xpnD0R7vms-rwe9C3E57fYyY8XxxYD": {
-        "route": "01經濟學原理與實習/1.04魏凱立/期考/上學期期中考",
+        "route": "01經濟學原理與實習/01-04_魏凱立/期考/上學期期中考",
         "folder": [],
         "file": [
             {
@@ -251,7 +913,7 @@
         "file_count": 1
     },
     "1gypUcPlbH_NMUnqt1rGrfx2SBZl_yxsR": {
-        "route": "01經濟學原理與實習/1.04魏凱立/歷年評價文",
+        "route": "01經濟學原理與實習/01-04_魏凱立/歷年評價文",
         "folder": [],
         "file": [
             {
@@ -266,290 +928,200 @@
         "dir_count": 0,
         "file_count": 2
     },
-    "17c0PU0LUdu4rNeZZKCR3XU_pG1-qvFKl": {
-        "route": "01經濟學原理與實習/1.10馮勃翰",
+    "1VS0ehxetHRdaI18t-KerfM757DQ33dkR": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏",
         "folder": [
             {
-                "url": "1iAnyLPrJals4i-8laDGHv0cUcU5292RU",
+                "url": "1ASaPl9nHaqGR2g69jOVQVtGxlktNJ419",
                 "name": "期考",
-                "file_count": 2
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 2
-    },
-    "1iAnyLPrJals4i-8laDGHv0cUcU5292RU": {
-        "route": "01經濟學原理與實習/1.10馮勃翰/期考",
-        "folder": [
-            {
-                "url": "17klbB73n3gVnD7bOy0N8HwGzOjy0k8Hf",
-                "name": "上學期期中考",
-                "file_count": 1
+                "file_count": 20
             },
             {
-                "url": "1evqe2Q68w3iPuJFP5HKRm7_OES8Y810s",
-                "name": "上學期期末考",
-                "file_count": 1
-            }
-        ],
-        "file": [],
-        "dir_count": 2,
-        "file_count": 2
-    },
-    "17klbB73n3gVnD7bOy0N8HwGzOjy0k8Hf": {
-        "route": "01經濟學原理與實習/1.10馮勃翰/期考/上學期期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1sEnYcEChjA4XKeCyld39SVnZphPaUoLB",
-                "name": "107上馮勃翰經原期中考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1evqe2Q68w3iPuJFP5HKRm7_OES8Y810s": {
-        "route": "01經濟學原理與實習/1.10馮勃翰/期考/上學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1bD4dMs99yUNEgQjMrfhnaZuy4sdNh0tg",
-                "name": "107上馮勃翰經原期末考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1Ay6lu2jqcmNcyp6OmcaDdpQ_cItQgZUS": {
-        "route": "01經濟學原理與實習/1.99Mankiw習題解答",
-        "folder": [
-            {
-                "url": "1CGYRatnFed7tw-74b3rvoliyIf-clWSs",
-                "name": "第六版",
-                "file_count": 2
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 2
-    },
-    "1CGYRatnFed7tw-74b3rvoliyIf-clWSs": {
-        "route": "01經濟學原理與實習/1.99Mankiw習題解答/第六版",
-        "folder": [],
-        "file": [
-            {
-                "url": "11g-t3OTHOXrIuMojch0rhT1BPiT98wyY",
-                "name": "Mankiw6eAnswersCh1-10.pdf"
-            },
-            {
-                "url": "1_sJ6hD3g8jxa53zk0yUQRmojB-WVtpSr",
-                "name": "Mankiw6eAnswersCh11-20.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 2
-    },
-    "1CIo6eM5l0LL5ZiYpPcvBbkW2ixYyHjru": {
-        "route": "01經濟學原理與實習/1.06王道一",
-        "folder": [
-            {
-                "url": "1FH5tiqA45F_tegDVPz7937Q0BqTelC7m",
+                "url": "1NQZRGsdJ2h-LJNUTD08YQaAtyTviTcHz",
                 "name": "歷年評價文",
-                "file_count": 3
-            },
-            {
-                "url": "1X6pqvQvWCuqqxzC1JorLgpiDRIm4pU_O",
-                "name": "小考",
                 "file_count": 1
             },
             {
-                "url": "1fwHQoubQlYWQpEOlwwbyn-F1WFI_Gzd2",
-                "name": "期考",
-                "file_count": 6
+                "url": "1ZY68chvk9Sbv50YAGJiWW9ozBQnHeW-O",
+                "name": "課本習題解答",
+                "file_count": 2
             }
         ],
         "file": [],
         "dir_count": 3,
-        "file_count": 10
+        "file_count": 23
     },
-    "1FH5tiqA45F_tegDVPz7937Q0BqTelC7m": {
-        "route": "01經濟學原理與實習/1.06王道一/歷年評價文",
-        "folder": [],
-        "file": [
-            {
-                "url": "1TAojTht4It6EZF6KdEtxTZ-2F3qIsble",
-                "name": "102學年度課程評價-王道一-1.pdf"
-            },
-            {
-                "url": "1iiJWJUyoONGLg0VQrgco89Hrt6uIHrcC",
-                "name": "101學年度課程評價-王道一教授2.pdf"
-            },
-            {
-                "url": "1lt6Dn7Q_Gqo2hrSs5rIZSnbreo21JRyY",
-                "name": "101學年度課程評價-王道一教授1.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "1X6pqvQvWCuqqxzC1JorLgpiDRIm4pU_O": {
-        "route": "01經濟學原理與實習/1.06王道一/小考",
-        "folder": [],
-        "file": [
-            {
-                "url": "19YVg8K1awk1wKXOtdO-6gbRNnun5i91E",
-                "name": "103上王道一經原小考1.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1fwHQoubQlYWQpEOlwwbyn-F1WFI_Gzd2": {
-        "route": "01經濟學原理與實習/1.06王道一/期考",
+    "1ASaPl9nHaqGR2g69jOVQVtGxlktNJ419": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/期考",
         "folder": [
             {
-                "url": "1Cw2HIppel3t3AwZmfIJmmo3ZwK_8oyNA",
-                "name": "上學期期中考",
-                "file_count": 3
-            },
-            {
-                "url": "1wt5cqxbdhUXryoAo74odCKUzadS_4tC2",
-                "name": "上學期期末考",
-                "file_count": 2
-            }
-        ],
-        "file": [
-            {
-                "url": "1eV7SPiAB7sW2QPhBM2d9EnPAwQ3gcRZO",
-                "name": "111-1 王道一 個經原 期中考.pdf"
-            }
-        ],
-        "dir_count": 2,
-        "file_count": 6
-    },
-    "1Cw2HIppel3t3AwZmfIJmmo3ZwK_8oyNA": {
-        "route": "01經濟學原理與實習/1.06王道一/期考/上學期期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1akVy0zfY4K8meadf3G7YneE9WfQV0tK5",
-                "name": "102上王道一經原期中考.pdf"
-            },
-            {
-                "url": "1FSRhb0GYjPZgxF95SlOfy86mO1YNqAje",
-                "name": "103上王道一經原期中考.pdf"
-            },
-            {
-                "url": "1tK_1C3ItY6t-U19Ldu8cVz-EiyAiCuQX",
-                "name": "101上王道一經原期中考.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "1wt5cqxbdhUXryoAo74odCKUzadS_4tC2": {
-        "route": "01經濟學原理與實習/1.06王道一/期考/上學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "11dYQEcThZFYRxIY7oPaStUIeyuaHqQay",
-                "name": "102上王道一經原期末考.pdf"
-            },
-            {
-                "url": "1vhPhvi38EmGkpgg1VEAhjacPkrO5l2QH",
-                "name": "101上王道一經原期末考.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 2
-    },
-    "1N-DZZv_dRHcBz--QjIciYd-kCc_DUGNz": {
-        "route": "01經濟學原理與實習/1.08蔡崇聖",
-        "folder": [
-            {
-                "url": "1Ga06F-tyA6iLfQIBEHbPj6GH9_FEfUiK",
-                "name": "小考",
+                "url": "1lLNXNtDkFEyTqd5hQyaFagqNiIkBqyYH",
+                "name": "下學期期中考",
                 "file_count": 4
             },
             {
-                "url": "1YPgtwoGHvnsBb8KlW6jvePdD5ODT7OOQ",
-                "name": "期考",
-                "file_count": 2
+                "url": "1R4wKlIpOcrg1qDapHXsiQLCv3NA_XuxV",
+                "name": "上學期期末考",
+                "file_count": 5
+            },
+            {
+                "url": "1TN-CyHDkZdTxI0eyAos2s8nLPvqoKIvm",
+                "name": "上學期期中考",
+                "file_count": 6
+            },
+            {
+                "url": "1fmZDOTNL7OAZLMzrpwWvRW6U7OrWDxqP",
+                "name": "下學期期末考",
+                "file_count": 4
             }
         ],
-        "file": [],
-        "dir_count": 2,
-        "file_count": 6
+        "file": [
+            {
+                "url": "1eUaNHx7QlncTCOo3k18XYGr5AvxO2dxn",
+                "name": "吳聰敏經原考題網址(2010~2012).txt"
+            }
+        ],
+        "dir_count": 4,
+        "file_count": 20
     },
-    "1Ga06F-tyA6iLfQIBEHbPj6GH9_FEfUiK": {
-        "route": "01經濟學原理與實習/1.08蔡崇聖/小考",
+    "1lLNXNtDkFEyTqd5hQyaFagqNiIkBqyYH": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/期考/下學期期中考",
         "folder": [],
         "file": [
             {
-                "url": "1p6uFZkR639ieK8KSMT4fw1WsbCkmmWTW",
-                "name": "經濟學原理105上Quiz 4 -Answer.pdf"
+                "url": "1YCMuaeju62x_WkS_Z_LjGYoZ7M0j9zUw",
+                "name": "103下吳聰敏經原期中考與解答.pdf"
             },
             {
-                "url": "1S0eWMc1E7eUXbRS4PitpLnRHGPpsLnRm",
-                "name": "經濟學原理105上Quiz 3-Answer.pdf"
+                "url": "1trrM4dw_NBcz1eBiHx3YOcmdJ-jPYZSJ",
+                "name": "102下吳聰敏經原期中考題與解答.pdf"
             },
             {
-                "url": "1zF__nZsU8uOuhyu5009mY2CyW_98ngFA",
-                "name": "經濟學原理105上Quiz 2 -Answer.pdf"
+                "url": "1FG9jV7E45sHMMvGgKyzyaPhtIa0B2Dr_",
+                "name": "101下吳聰敏經原期中考與解答.pdf"
             },
             {
-                "url": "1igZYAArndOrAkjvMLlLMf2tuSt4QrWQE",
-                "name": "經濟學原理105上Quiz 1 -Answer.pdf"
+                "url": "1hVC2vt0PLlmQXrBBxJcLBfolym-5NIvn",
+                "name": "100下吳聰敏經原期中考與解答.pdf"
             }
         ],
         "dir_count": 0,
         "file_count": 4
     },
-    "1YPgtwoGHvnsBb8KlW6jvePdD5ODT7OOQ": {
-        "route": "01經濟學原理與實習/1.08蔡崇聖/期考",
-        "folder": [
+    "1R4wKlIpOcrg1qDapHXsiQLCv3NA_XuxV": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/期考/上學期期末考",
+        "folder": [],
+        "file": [
             {
-                "url": "1TENed3Akpihlt4uwVSkyWiYbg2g7kM6z",
-                "name": "上學期期中考",
-                "file_count": 1
+                "url": "1PnyZmAy4OJvIcDvUe1QG-gWiZZu9l2Tn",
+                "name": "99上吳聰敏經原期末考與解答.pdf"
             },
             {
-                "url": "1uHztndDzTgJ88MXG33H_sTSZvApNRHXv",
-                "name": "上學期期末考",
-                "file_count": 1
+                "url": "1w0vZJ6pe1w7YAp_ZyHyizN7PilL_PcRF",
+                "name": "103上吳聰敏經原期末考與解答.pdf"
+            },
+            {
+                "url": "1nosaifXHl2gs47BvizayLjVE_SxdIpHo",
+                "name": "102上吳聰敏經原期末考與解答.pdf"
+            },
+            {
+                "url": "1mrm0p-QGJBODPBB_D1cSZP-efPfMUZov",
+                "name": "101上吳聰敏經原期末考與解答.pdf"
+            },
+            {
+                "url": "1KWkHGxkGsZPNsXcZS4PxJQL8oYWLLxUS",
+                "name": "100上吳聰敏經原期末考與解答.pdf"
             }
         ],
-        "file": [],
-        "dir_count": 2,
+        "dir_count": 0,
+        "file_count": 5
+    },
+    "1TN-CyHDkZdTxI0eyAos2s8nLPvqoKIvm": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/期考/上學期期中考",
+        "folder": [],
+        "file": [
+            {
+                "url": "13X0gLA0Zh9zQ9meOCrtMTstql7YS_uX0",
+                "name": "99上吳聰敏經原期中考與解答.pdf"
+            },
+            {
+                "url": "10yzFCkid34PWDIc73RlIXJ84cXZXGnwn",
+                "name": "110上吳聰敏經原期中考題目.pdf"
+            },
+            {
+                "url": "1absv7vFY96aCV1BRjuGTk2okwA2I6aih",
+                "name": "103上吳聰敏經原期中考與解答.pdf"
+            },
+            {
+                "url": "1hQX1TkUbyYTGKF1xNeR9nC7knxZOoesS",
+                "name": "102上吳聰敏經原期中考題與解答.pdf"
+            },
+            {
+                "url": "109J1VgppIi55KSmH-74q3mYE3UZy-5CT",
+                "name": "100上吳聰敏經原期中考與解答.pdf"
+            },
+            {
+                "url": "1LinbZuU-hiXRuiX2rLEaKODH4m-YAh8C",
+                "name": "101上吳聰敏經原期中考與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 6
+    },
+    "1fmZDOTNL7OAZLMzrpwWvRW6U7OrWDxqP": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/期考/下學期期末考",
+        "folder": [],
+        "file": [
+            {
+                "url": "1gWyhHtQiW6iyaPou05MB79zvw9gPxK4o",
+                "name": "103下吳聰敏經原期末考與解答.pdf"
+            },
+            {
+                "url": "1TAZ8E9lvsClbVNUZzlpmHbOtpfMN54K3",
+                "name": "101下吳聰敏經原期末考與解答.pdf"
+            },
+            {
+                "url": "1bMVk3sf0HgTdREJYBY2Xn6IZocTh51HA",
+                "name": "102下吳聰敏經原期末考題與解答.pdf"
+            },
+            {
+                "url": "1qsYtMV_jVyOJQ8xd5m60lSlD9CJWIW9G",
+                "name": "100下吳聰敏經原期末考與解答.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 4
+    },
+    "1NQZRGsdJ2h-LJNUTD08YQaAtyTviTcHz": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/歷年評價文",
+        "folder": [],
+        "file": [
+            {
+                "url": "1DB1_qiFHAcXb-fHwQRfDG6_NR3y1_dnO",
+                "name": "PTT評價-吳聰敏.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 1
+    },
+    "1ZY68chvk9Sbv50YAGJiWW9ozBQnHeW-O": {
+        "route": "01經濟學原理與實習/01-03_吳聰敏/課本習題解答",
+        "folder": [],
+        "file": [
+            {
+                "url": "1fs8O00MDmMxRrTDjNJJSBYJr8r88mGaH",
+                "name": "100下吳聰敏經原課本偶數題解答.pdf"
+            },
+            {
+                "url": "1mNyTrcQK0B904fYIsqlDwb_EsyOtpMYd",
+                "name": "100上吳聰敏經原課本偶數題解答.pdf"
+            }
+        ],
+        "dir_count": 0,
         "file_count": 2
     },
-    "1TENed3Akpihlt4uwVSkyWiYbg2g7kM6z": {
-        "route": "01經濟學原理與實習/1.08蔡崇聖/期考/上學期期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "19WwJWz1OjnwWO0byVAsYRnGnbeLH4s3q",
-                "name": "105上 Midterm.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1uHztndDzTgJ88MXG33H_sTSZvApNRHXv": {
-        "route": "01經濟學原理與實習/1.08蔡崇聖/期考/上學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1fgM4nIWTEq0v6u4qixraC7yhq2M9QVD8",
-                "name": "309067_Final Exam Answer.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
     "1QEHMD7jRLD5pl1ZNNQc7t8ucnLfnTUx0": {
-        "route": "01經濟學原理與實習/1.02駱明慶",
+        "route": "01經濟學原理與實習/01-02_駱明慶",
         "folder": [
             {
                 "url": "1IdH_qDGzDhdEy5goCvrWDeykw7zz79Iy",
@@ -577,7 +1149,7 @@
         "file_count": 103
     },
     "1IdH_qDGzDhdEy5goCvrWDeykw7zz79Iy": {
-        "route": "01經濟學原理與實習/1.02駱明慶/習題",
+        "route": "01經濟學原理與實習/01-02_駱明慶/習題",
         "folder": [
             {
                 "url": "11Haxtpm7C7HZ4x24WnDgnRin93tlP0co",
@@ -610,7 +1182,7 @@
         "file_count": 41
     },
     "11Haxtpm7C7HZ4x24WnDgnRin93tlP0co": {
-        "route": "01經濟學原理與實習/1.02駱明慶/習題/99上學期習題",
+        "route": "01經濟學原理與實習/01-02_駱明慶/習題/99上學期習題",
         "folder": [],
         "file": [
             {
@@ -626,7 +1198,7 @@
         "file_count": 2
     },
     "14LoSCW-CKNRSj8Si4YuEguT11ZR-V8Dx": {
-        "route": "01經濟學原理與實習/1.02駱明慶/習題/99下學期習題",
+        "route": "01經濟學原理與實習/01-02_駱明慶/習題/99下學期習題",
         "folder": [],
         "file": [
             {
@@ -642,7 +1214,7 @@
         "file_count": 2
     },
     "1dYevGo8smGXneqGVyGl2EGR3LY4oBJt5": {
-        "route": "01經濟學原理與實習/1.02駱明慶/習題/105上學期習題",
+        "route": "01經濟學原理與實習/01-02_駱明慶/習題/105上學期習題",
         "folder": [],
         "file": [
             {
@@ -726,7 +1298,7 @@
         "file_count": 19
     },
     "1jefwKKQjs8jZMcxnQNWVMhJA6wzTqkyI": {
-        "route": "01經濟學原理與實習/1.02駱明慶/習題/100上學期習題",
+        "route": "01經濟學原理與實習/01-02_駱明慶/習題/100上學期習題",
         "folder": [],
         "file": [
             {
@@ -742,7 +1314,7 @@
         "file_count": 2
     },
     "1uAHimecIgXGPrrJnTFOrZ7L-4HDHlV0A": {
-        "route": "01經濟學原理與實習/1.02駱明慶/習題/105下學期習題",
+        "route": "01經濟學原理與實習/01-02_駱明慶/習題/105下學期習題",
         "folder": [],
         "file": [
             {
@@ -814,7 +1386,7 @@
         "file_count": 16
     },
     "1b5n3cCeYOPPZKhJ5xI1nNCGa6U1mjI05": {
-        "route": "01經濟學原理與實習/1.02駱明慶/歷年評價文",
+        "route": "01經濟學原理與實習/01-02_駱明慶/歷年評價文",
         "folder": [],
         "file": [
             {
@@ -834,7 +1406,7 @@
         "file_count": 3
     },
     "18JOzI-wNnTX2RLv3JsqOZ7w6Y8Q5hE6b": {
-        "route": "01經濟學原理與實習/1.02駱明慶/期考",
+        "route": "01經濟學原理與實習/01-02_駱明慶/期考",
         "folder": [
             {
                 "url": "1PzPIMlhxqbpfUBQk8rZuD3K9OENSMNHs",
@@ -862,7 +1434,7 @@
         "file_count": 43
     },
     "1PzPIMlhxqbpfUBQk8rZuD3K9OENSMNHs": {
-        "route": "01經濟學原理與實習/1.02駱明慶/期考/下學期期中考",
+        "route": "01經濟學原理與實習/01-02_駱明慶/期考/下學期期中考",
         "folder": [],
         "file": [
             {
@@ -894,7 +1466,7 @@
         "file_count": 6
     },
     "1768puKSc7o7d-ZPQXEOixwdHLqL9Vbif": {
-        "route": "01經濟學原理與實習/1.02駱明慶/期考/上學期期中考",
+        "route": "01經濟學原理與實習/01-02_駱明慶/期考/上學期期中考",
         "folder": [],
         "file": [
             {
@@ -970,7 +1542,7 @@
         "file_count": 17
     },
     "1T20mx5mRQ7rV4HbF2AIEiIH5zRKZo4Ha": {
-        "route": "01經濟學原理與實習/1.02駱明慶/期考/上學期期末考",
+        "route": "01經濟學原理與實習/01-02_駱明慶/期考/上學期期末考",
         "folder": [],
         "file": [
             {
@@ -1030,7 +1602,7 @@
         "file_count": 13
     },
     "1otSUoVlnaDswzR3JZoIHwB1o4kGduqLM": {
-        "route": "01經濟學原理與實習/1.02駱明慶/期考/下學期期末考",
+        "route": "01經濟學原理與實習/01-02_駱明慶/期考/下學期期末考",
         "folder": [],
         "file": [
             {
@@ -1066,7 +1638,7 @@
         "file_count": 7
     },
     "1phQ08qMIUVhqPH7V-Xy5tbew1ChBHFR6": {
-        "route": "01經濟學原理與實習/1.02駱明慶/小考",
+        "route": "01經濟學原理與實習/01-02_駱明慶/小考",
         "folder": [
             {
                 "url": "1D7g8RNuePK5HQ4Fs0rCsaCIJTyvWJb8N",
@@ -1084,7 +1656,7 @@
         "file_count": 16
     },
     "1D7g8RNuePK5HQ4Fs0rCsaCIJTyvWJb8N": {
-        "route": "01經濟學原理與實習/1.02駱明慶/小考/105下學期",
+        "route": "01經濟學原理與實習/01-02_駱明慶/小考/105下學期",
         "folder": [],
         "file": [
             {
@@ -1124,7 +1696,7 @@
         "file_count": 8
     },
     "1Xrv55hvV_ySqtvZCZ-UJZtNmLmXygNiY": {
-        "route": "01經濟學原理與實習/1.02駱明慶/小考/105上學期",
+        "route": "01經濟學原理與實習/01-02_駱明慶/小考/105上學期",
         "folder": [],
         "file": [
             {
@@ -1163,250 +1735,23 @@
         "dir_count": 0,
         "file_count": 8
     },
-    "1eaanzjgYeOTr0zbkQBVz4ZC-23IX_Rr_": {
-        "route": "01經濟學原理與實習/1.11樊家忠",
-        "folder": [
-            {
-                "url": "11w1GKerbxlQcrpmi2bzmMNflSVYEHMOg",
-                "name": "總經原",
-                "file_count": 11
-            },
-            {
-                "url": "1KSJRFLLD2sVGphC0iXXX1eYBKbKZxfqk",
-                "name": "個經原",
-                "file_count": 12
-            }
-        ],
-        "file": [],
-        "dir_count": 2,
-        "file_count": 23
-    },
-    "11w1GKerbxlQcrpmi2bzmMNflSVYEHMOg": {
-        "route": "01經濟學原理與實習/1.11樊家忠/總經原",
-        "folder": [
-            {
-                "url": "1YDBasbBTjcbkPbfn7RwziU1wWzC1Bmld",
-                "name": "109",
-                "file_count": 4
-            },
-            {
-                "url": "1_NGCxh8PCPB7iu1PTLT6yEXpB3EbWaN7",
-                "name": "110",
-                "file_count": 4
-            },
-            {
-                "url": "158HaZ9HgO7kZ4avvzf8e_W5Y9DGnMIpT",
-                "name": "111",
-                "file_count": 3
-            }
-        ],
-        "file": [],
-        "dir_count": 3,
-        "file_count": 11
-    },
-    "1YDBasbBTjcbkPbfn7RwziU1wWzC1Bmld": {
-        "route": "01經濟學原理與實習/1.11樊家忠/總經原/109",
-        "folder": [],
-        "file": [
-            {
-                "url": "1edJwSYRFT09uwYxhbpjoERuo2qinNKyK",
-                "name": "macro 109 final.pdf"
-            },
-            {
-                "url": "1rIEtw3q6w4jNhHlZjWxF6b5hneJi7Rp1",
-                "name": "macro 109 mid.pdf"
-            },
-            {
-                "url": "1I_bwL1mAfU5jVy3xPoAnK_YOQ8HkYTUz",
-                "name": "macro 109 final ans sheet.pdf"
-            },
-            {
-                "url": "1bevjzlwbrgOCxj0vs_gV_VkkmUSR5LJd",
-                "name": "macro 109 mid ans sheet.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "1_NGCxh8PCPB7iu1PTLT6yEXpB3EbWaN7": {
-        "route": "01經濟學原理與實習/1.11樊家忠/總經原/110",
-        "folder": [],
-        "file": [
-            {
-                "url": "173dLHvpeUEqnsgYupbawNbJSaPeA8bWT",
-                "name": "macro 110 mid.pdf"
-            },
-            {
-                "url": "1jWQexo3Sjx0arPOsOhpgZf8-ZaNITSFz",
-                "name": "macro 110 final.pdf"
-            },
-            {
-                "url": "1a0Q35HprIrdXydUi5_dD7lsbzl9s1Omk",
-                "name": "macro 110 mid ans sheet.pdf"
-            },
-            {
-                "url": "1pG1pRzBy26zrPJp5BNh-xSvPmZsXgv-_",
-                "name": "macro 110 final ans sheet.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "158HaZ9HgO7kZ4avvzf8e_W5Y9DGnMIpT": {
-        "route": "01經濟學原理與實習/1.11樊家忠/總經原/111",
-        "folder": [],
-        "file": [
-            {
-                "url": "1cy50SeSGCJjnLZiYqyAjIXApKnHEIauU",
-                "name": "macro 111 final.pdf"
-            },
-            {
-                "url": "1y5GufDGVGTh0n-hUTJwVL7A2LdI7pNmy",
-                "name": "notes for prin. macro. final.pdf"
-            },
-            {
-                "url": "1s6wt1l3isP3GCTSEOQeDDxEJdBRsCfCR",
-                "name": "macro 111 mid.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 3
-    },
-    "1KSJRFLLD2sVGphC0iXXX1eYBKbKZxfqk": {
-        "route": "01經濟學原理與實習/1.11樊家忠/個經原",
-        "folder": [
-            {
-                "url": "1oVZdT0h_MnCsirxSfAUmHPYb2eMuQn5V",
-                "name": "112",
-                "file_count": 2
-            },
-            {
-                "url": "11ndj-IXJ_DFyb26K44rxyXbUQ2Lq1pE-",
-                "name": "109",
-                "file_count": 4
-            },
-            {
-                "url": "1XjO5NM9sYfuWggHV8aOJI0m9Gmns2kQu",
-                "name": "111",
-                "file_count": 2
-            },
-            {
-                "url": "1uA97o_vkkQrlngpCdCYi4jL0iRPUwvtZ",
-                "name": "110",
-                "file_count": 4
-            }
-        ],
-        "file": [],
-        "dir_count": 4,
-        "file_count": 12
-    },
-    "1oVZdT0h_MnCsirxSfAUmHPYb2eMuQn5V": {
-        "route": "01經濟學原理與實習/1.11樊家忠/個經原/112",
-        "folder": [],
-        "file": [
-            {
-                "url": "17ni_RPytny_r7sp8wk7rRG0GHBwGZucb",
-                "name": "final_2023F-ans (1) (1)-1.pdf"
-            },
-            {
-                "url": "1rLA4zu1dRe11kSrAE44HOuGfsM7Du8v2",
-                "name": "midterm_2023F_ans.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 2
-    },
-    "11ndj-IXJ_DFyb26K44rxyXbUQ2Lq1pE-": {
-        "route": "01經濟學原理與實習/1.11樊家忠/個經原/109",
-        "folder": [],
-        "file": [
-            {
-                "url": "19Cfqyj8jfLwmeXS7EVLqg2-TOTSBF46P",
-                "name": "micro 109 final.pdf"
-            },
-            {
-                "url": "1H-BxZscp1durou3p56X2jkdrgJh3sVMM",
-                "name": "micro 109 mid.pdf"
-            },
-            {
-                "url": "1LVZZdCWx7jEKsDad5wq6tV_JjYR_0_Tm",
-                "name": "micro 109 mid ans sheet.pdf"
-            },
-            {
-                "url": "1unylPXg7OmoTKQwNSfquKGcvu4FTZZgj",
-                "name": "micro 109 final ans sheet.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "1XjO5NM9sYfuWggHV8aOJI0m9Gmns2kQu": {
-        "route": "01經濟學原理與實習/1.11樊家忠/個經原/111",
-        "folder": [],
-        "file": [
-            {
-                "url": "1S_zWNe2EdAgGduP_6iPlmolm8Rz6w1xN",
-                "name": "micro 111 mid.pdf"
-            },
-            {
-                "url": "1kE-4iRWqQOoV1cPJUquNyXl_Er2rfWb8",
-                "name": "micro 111 final.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 2
-    },
-    "1uA97o_vkkQrlngpCdCYi4jL0iRPUwvtZ": {
-        "route": "01經濟學原理與實習/1.11樊家忠/個經原/110",
-        "folder": [],
-        "file": [
-            {
-                "url": "15VGr2SZdBYPsHen4ewRdk_OLVmowrHVV",
-                "name": "micro 110 final.pdf"
-            },
-            {
-                "url": "1NnluaUEv_GZ5UwMS20rbOz1iGvT9SQCv",
-                "name": "micro 110 mid.pdf"
-            },
-            {
-                "url": "1FG4v2diAaHF5FaNk1lyFUak_LpN9z9bx",
-                "name": "micro 110 final ans sheet.pdf"
-            },
-            {
-                "url": "1on9fpU3Rf0rHfEDN545l2hi8PHseqhUU",
-                "name": "micro 110 mid ans sheet.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
     "1w5wujPY5xe13GcQ8yKriICRSsr19rs3T": {
-        "route": "01經濟學原理與實習/1.01林明仁",
+        "route": "01經濟學原理與實習/01-01_林明仁",
         "folder": [
             {
                 "url": "11eF5jrFtLRoSd3ZkLMa767CIr9EGTsNt",
                 "name": "期考",
-                "file_count": 30
+                "file_count": 34
             },
             {
                 "url": "13hxSGC1d9xyQtPpDWNhzYGpOodsYjb35",
                 "name": "作業",
-                "file_count": 38
-            },
-            {
-                "url": "1LG6gBOpszz_4rY4FQiokG2CcOkZCEhGz",
-                "name": "111-2林明仁_總經原",
-                "file_count": 15
+                "file_count": 62
             },
             {
                 "url": "1RYLvOzy3-4GReYx4v4UaLbdybU71BxTR",
                 "name": "課堂",
                 "file_count": 8
-            },
-            {
-                "url": "1dxDjJ19SpdUfrlyGXBEkZ21eYwR7OGJM",
-                "name": "111-1林明仁_個經原",
-                "file_count": 16
             },
             {
                 "url": "1kKf9iAHa7uKTt9Y8mjqom0SYX-rymguM",
@@ -1425,21 +1770,21 @@
             }
         ],
         "file": [],
-        "dir_count": 8,
-        "file_count": 116
+        "dir_count": 6,
+        "file_count": 113
     },
     "11eF5jrFtLRoSd3ZkLMa767CIr9EGTsNt": {
-        "route": "01經濟學原理與實習/1.01林明仁/期考",
+        "route": "01經濟學原理與實習/01-01_林明仁/期考",
         "folder": [
             {
                 "url": "11mIgsVSlFK06-p3UZ7fhEwpMkz6T3JYR",
                 "name": " 下學期期中考",
-                "file_count": 7
+                "file_count": 8
             },
             {
                 "url": "1PvCqT6rx5H6vRW8xfUaF9vHpgATTYEP-",
                 "name": "上學期期中考",
-                "file_count": 9
+                "file_count": 10
             },
             {
                 "url": "1mJAnU6gRILuKwawbVqK4mO5to_ZTcjn8",
@@ -1449,22 +1794,42 @@
             {
                 "url": "1-TC_woi0LsAVLFpLHwXC0d57KGG2L2Ik",
                 "name": "上學期期末考",
-                "file_count": 7
+                "file_count": 8
             },
             {
                 "url": "1__xxeptkMAhZh0KBHHJtnX-dP9lKHPOj",
                 "name": "下學期期末考",
-                "file_count": 6
+                "file_count": 7
             }
         ],
         "file": [],
         "dir_count": 5,
-        "file_count": 30
+        "file_count": 34
     },
     "11mIgsVSlFK06-p3UZ7fhEwpMkz6T3JYR": {
-        "route": "01經濟學原理與實習/1.01林明仁/期考/ 下學期期中考",
+        "route": "01經濟學原理與實習/01-01_林明仁/期考/ 下學期期中考",
         "folder": [],
         "file": [
+            {
+                "url": "11JQyuiaUhrcLtV4SpGkT5tPDPERax4HO",
+                "name": "098-2_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
+                "url": "1ii1Z5PBuAxW3JVKBBE9AgVBhTJlxXMBg",
+                "name": "099-2_林明仁_經原_期中考_題目.pdf"
+            },
+            {
+                "url": "1h-OcMMn6CELwBnardjGHyYwd_pFkk9PA",
+                "name": "102-2_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
+                "url": "1bbF-pJftrfEFzWSAZp0kV6G1hE20AC1-",
+                "name": "107-2_林明仁_經原_期中考_題目及解答.pdf"
+            },
+            {
+                "url": "1h9KlfjXQFXAGXasBXb_7cqIBxSEGUXYO",
+                "name": "113-2_林明仁_經原_期中考_題目及解答.pdf"
+            },
             {
                 "url": "1-31zsqzpTyvhYmqZiJ-CT2HcDm6g3pdR",
                 "name": "110-2_林明仁_經原_期中考_題目及解答.pdf"
@@ -1476,31 +1841,19 @@
             {
                 "url": "10Cxu4qTWeecY2GfNdPNyj4ryDZhMmWxC",
                 "name": "111-2_林明仁_經原_期中考_題目及解答.pdf"
-            },
-            {
-                "url": "11JQyuiaUhrcLtV4SpGkT5tPDPERax4HO",
-                "name": "98下林明仁經原期中考.pdf"
-            },
-            {
-                "url": "1ii1Z5PBuAxW3JVKBBE9AgVBhTJlxXMBg",
-                "name": "99下林明仁經原期中考.pdf"
-            },
-            {
-                "url": "1bbF-pJftrfEFzWSAZp0kV6G1hE20AC1-",
-                "name": "107下林明仁經原期中考與解答.pdf"
-            },
-            {
-                "url": "1h-OcMMn6CELwBnardjGHyYwd_pFkk9PA",
-                "name": "102下林明仁經原期中考與解答.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 7
+        "file_count": 8
     },
     "1PvCqT6rx5H6vRW8xfUaF9vHpgATTYEP-": {
-        "route": "01經濟學原理與實習/1.01林明仁/期考/上學期期中考",
+        "route": "01經濟學原理與實習/01-01_林明仁/期考/上學期期中考",
         "folder": [],
         "file": [
+            {
+                "url": "1rZTuiocnAQelDAkrn0gVVdnjbsxcIZz4",
+                "name": "113-1_林明仁_經原_期中考_題目及解答.pdf"
+            },
             {
                 "url": "1-rQw0k6blii4i96phtofo4LoAK4s0MEe",
                 "name": "111-1_林明仁_經原_期中考_題目及解答.pdf"
@@ -1539,10 +1892,10 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 9
+        "file_count": 10
     },
     "1mJAnU6gRILuKwawbVqK4mO5to_ZTcjn8": {
-        "route": "01經濟學原理與實習/1.01林明仁/期考/期初考",
+        "route": "01經濟學原理與實習/01-01_林明仁/期考/期初考",
         "folder": [],
         "file": [
             {
@@ -1554,9 +1907,33 @@
         "file_count": 1
     },
     "1-TC_woi0LsAVLFpLHwXC0d57KGG2L2Ik": {
-        "route": "01經濟學原理與實習/1.01林明仁/期考/上學期期末考",
+        "route": "01經濟學原理與實習/01-01_林明仁/期考/上學期期末考",
         "folder": [],
         "file": [
+            {
+                "url": "1wBGggnvFe2PTfVsNg7XMOWcwd9GOV8vI",
+                "name": "103-1_林明仁_經原_期末考_題目.pdf"
+            },
+            {
+                "url": "14f7cGTm5kUyVlO3R9ujsX9GNxP72TzLx",
+                "name": "102-1_林明仁_經原_期末考_題目.pdf"
+            },
+            {
+                "url": "1B5OANQ2aEHkKV25qiyRthiJWGfRSC_y-",
+                "name": "099-1_林明仁_經原_期末考_題目.pdf"
+            },
+            {
+                "url": "1tNeW41C_PxaSiTcTYV-GZKC-RodnFZAY",
+                "name": "098-1_林明仁_經原_期末考_題目.pdf"
+            },
+            {
+                "url": "14zEdsIjZZJb5ujDEHcOeERbQqhD9776H",
+                "name": "097-1_林明仁_經原_期末考_題目.pdf"
+            },
+            {
+                "url": "1STr_LOwYfDHFhJmI07ALl5qmNGwUtn7F",
+                "name": "113-1_林明仁_經原_期末考_題目與解答.pdf"
+            },
             {
                 "url": "100rL5fQp2Vh2TdTGMhyy0XedWVITLuHe",
                 "name": "112-1_林明仁_經原_期末考_題目及解答.pdf"
@@ -1564,35 +1941,35 @@
             {
                 "url": "1-zIFRRs0joVW2FMQq85R7e3iCkjtv5V4",
                 "name": "111-1_林明仁_經原_期末考_題目及解答.pdf"
-            },
-            {
-                "url": "1B5OANQ2aEHkKV25qiyRthiJWGfRSC_y-",
-                "name": "99上林明仁經原期末考.pdf"
-            },
-            {
-                "url": "1tNeW41C_PxaSiTcTYV-GZKC-RodnFZAY",
-                "name": "98上林明仁經原期末考.pdf"
-            },
-            {
-                "url": "14zEdsIjZZJb5ujDEHcOeERbQqhD9776H",
-                "name": "97上林明仁經原期末考.pdf"
-            },
-            {
-                "url": "14f7cGTm5kUyVlO3R9ujsX9GNxP72TzLx",
-                "name": "102上林明仁經原期末考.pdf"
-            },
-            {
-                "url": "1wBGggnvFe2PTfVsNg7XMOWcwd9GOV8vI",
-                "name": "103上林明仁經原期末考.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 7
+        "file_count": 8
     },
     "1__xxeptkMAhZh0KBHHJtnX-dP9lKHPOj": {
-        "route": "01經濟學原理與實習/1.01林明仁/期考/下學期期末考",
+        "route": "01經濟學原理與實習/01-01_林明仁/期考/下學期期末考",
         "folder": [],
         "file": [
+            {
+                "url": "1fNZyd4yCEisgs0dndL2Oq0PcnnX696BD",
+                "name": "098-2_林明仁_經原_期末考_題目及解答.pdf"
+            },
+            {
+                "url": "1YDj2Q07K_H4UEAU5WlR7TA-EV_D6Ti78",
+                "name": "099-2林明仁_經原_期末考_題目.pdf"
+            },
+            {
+                "url": "1v_E1Saiu1P_xhguVT5_JHXpNMdvRh_7c",
+                "name": "102-2林明仁_經原_期末考_題目及解答.pdf"
+            },
+            {
+                "url": "1q0QO9kDb4ToGfwMr14bjndDH_MVZjRzu",
+                "name": "107-2_林明仁_經原_期末考_題目及解答.pdf"
+            },
+            {
+                "url": "178zVWSd-WmvpIsdxBsMI0s-q-fj90qVp",
+                "name": "113-2_林明仁_經原_期末考_題目及解答.pdf"
+            },
             {
                 "url": "10I2rkyUEHRtxg2hjTnrJ3SVXQ4poSmFh",
                 "name": "112-2_林明仁_經原_期末考_題目及解答.pdf"
@@ -1600,44 +1977,38 @@
             {
                 "url": "10G175ArDjYBFNplR_faMxIaT9YePaHo7",
                 "name": "111-2_林明仁_經原_期末考_題目及解答.pdf"
-            },
-            {
-                "url": "1YDj2Q07K_H4UEAU5WlR7TA-EV_D6Ti78",
-                "name": "99下林明仁經原期末考.pdf"
-            },
-            {
-                "url": "1fNZyd4yCEisgs0dndL2Oq0PcnnX696BD",
-                "name": "98下林明仁經原期末考.pdf"
-            },
-            {
-                "url": "1q0QO9kDb4ToGfwMr14bjndDH_MVZjRzu",
-                "name": "107下林明仁經原期末考與解答.pdf"
-            },
-            {
-                "url": "1v_E1Saiu1P_xhguVT5_JHXpNMdvRh_7c",
-                "name": "102下林明仁經原期末考.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 6
+        "file_count": 7
     },
     "13hxSGC1d9xyQtPpDWNhzYGpOodsYjb35": {
-        "route": "01經濟學原理與實習/1.01林明仁/作業",
+        "route": "01經濟學原理與實習/01-01_林明仁/作業",
         "folder": [
             {
-                "url": "1GCtSICx8p4YT7OvVB5wvFCEg9cRVDcdk",
-                "name": "104下學期作業",
-                "file_count": 8
+                "url": "1OFoVND5pbPLC4v_2thEHn_l6NgXBI13Y",
+                "name": "111-2作業",
+                "file_count": 12
             },
             {
                 "url": "1jTMg5g3tXPfJRWjBKUMcTMYuf2sSQSYf",
-                "name": "103上學期作業",
+                "name": "103-1作業",
                 "file_count": 10
             },
             {
                 "url": "1nhupD9n1MnNIfBF0HkIdsSyTuqYfvVuK",
-                "name": "104 上學期作業",
+                "name": "104-1作業",
                 "file_count": 16
+            },
+            {
+                "url": "1GCtSICx8p4YT7OvVB5wvFCEg9cRVDcdk",
+                "name": "104-2作業",
+                "file_count": 8
+            },
+            {
+                "url": "1dFYUkHshFLQ2BqC5g0FOFbNMmb1hD_P8",
+                "name": "111-1作業",
+                "file_count": 12
             }
         ],
         "file": [
@@ -1658,51 +2029,67 @@
                 "name": "Homework_1_Solution - Raelyn Lin.pdf"
             }
         ],
-        "dir_count": 3,
-        "file_count": 38
+        "dir_count": 5,
+        "file_count": 62
     },
-    "1GCtSICx8p4YT7OvVB5wvFCEg9cRVDcdk": {
-        "route": "01經濟學原理與實習/1.01林明仁/作業/104下學期作業",
+    "1OFoVND5pbPLC4v_2thEHn_l6NgXBI13Y": {
+        "route": "01經濟學原理與實習/01-01_林明仁/作業/111-2作業",
         "folder": [],
         "file": [
             {
-                "url": "19xl_PQYIegMzZstZyAWTlDjl1OEf9690",
-                "name": "104下作業8.pdf"
+                "url": "1zS_90W1O5ZuUy3BBx0vY09qBjwCduz5M",
+                "name": "111-2_林明仁_經原_作業_作業四_解答.pdf"
             },
             {
-                "url": "1pLiNANtgV2Hb80qy2yyvIV1RqMOW1Hg7",
-                "name": "104下作業7.pdf"
+                "url": "18ZL8kmDjLyPkwH574KVpSXLxShhLT3r7",
+                "name": "111-2_林明仁_經原_作業_作業四.pdf"
             },
             {
-                "url": "1fwMA7z3RD799eM8I0zuPHVnuZzA_WGuv",
-                "name": "104下作業6.pdf"
+                "url": "1H0ai33dqsez2s-wqSW8ImdQTgutTwTqb",
+                "name": "111-2_林明仁_經原_作業_作業六_解答.pdf"
             },
             {
-                "url": "1DcKUffD2WA7NsYeHihMzb6Ygp4Qvcm3s",
-                "name": "104下作業4.pdf"
+                "url": "15_k9zFNj2E6B7tHT7U5TyXLh9fIQ2rs0",
+                "name": "111-2_林明仁_經原_作業_作業六.pdf"
             },
             {
-                "url": "1LW1dZzWdRcePRM3B8UXEZn2o_-1Jb2Hi",
-                "name": "104下作業5.pdf"
+                "url": "1OpQh6FU_B2Jgx7F_9VxCQ0KS1ldg8ucv",
+                "name": "111-2_林明仁_經原_作業_作業五_解答.pdf"
             },
             {
-                "url": "1N_fMt2UH5aT7vhr3QIjOfB6ZA0sYAf4l",
-                "name": "104下作業3.pdf"
+                "url": "1HSffr1xFBQgIqUKWkHHiSA6nmCq8DIZt",
+                "name": "111-2_林明仁_經原_作業_作業五.pdf"
             },
             {
-                "url": "1LTkqDnbasLeb6htauH8JnI_w_o22JjPe",
-                "name": "104下作業2.pdf"
+                "url": "1jScnjvXOgXjF4gBsXni-wNO5AhKxmGP0",
+                "name": "111-2_林明仁_經原_作業_作業三.pdf"
             },
             {
-                "url": "1Kygy6YTcsj7Jy07V2GBk1IVCpxXa4Z3b",
-                "name": "104下作業1.pdf"
+                "url": "199YhaeAw7Od0f3w_HraKGKprUescO1eX",
+                "name": "111-2_林明仁_經原_作業_作業三 _ 解答.pdf"
+            },
+            {
+                "url": "1ZT1kXxwQNGclmFhBDru7JjE-6B6PtJlI",
+                "name": "111-2_林明仁_經原_作業_作業二_解答.pdf"
+            },
+            {
+                "url": "1vvdZQhLt8s-vdTLnjxEitax1GmpbPdTZ",
+                "name": "111-2_林明仁_經原_作業_作業二.pdf"
+            },
+            {
+                "url": "1xGLHrYRCTk4ToQvkOEhCPBzyAHiGVvGa",
+                "name": "111-2_林明仁_經原_作業_作業一_解答.pdf"
+            },
+            {
+                "url": "1yE5E_Pmfo5z5kIKa2YZ7Liw2ocU-SCR3",
+                "name": "111-2_林明仁_經原_作業_作業一.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 8
+        "file_count": 12
     },
     "1jTMg5g3tXPfJRWjBKUMcTMYuf2sSQSYf": {
-        "route": "01經濟學原理與實習/1.01林明仁/作業/103上學期作業",
+        "route": "01經濟學原理與實習/01-01_林明仁/作業/103-1作業",
         "folder": [],
         "file": [
             {
@@ -1750,7 +2137,7 @@
         "file_count": 10
     },
     "1nhupD9n1MnNIfBF0HkIdsSyTuqYfvVuK": {
-        "route": "01經濟學原理與實習/1.01林明仁/作業/104 上學期作業",
+        "route": "01經濟學原理與實習/01-01_林明仁/作業/104-1作業",
         "folder": [],
         "file": [
             {
@@ -1821,76 +2208,104 @@
         "dir_count": 0,
         "file_count": 16
     },
-    "1LG6gBOpszz_4rY4FQiokG2CcOkZCEhGz": {
-        "route": "01經濟學原理與實習/1.01林明仁/111-2林明仁_總經原",
+    "1GCtSICx8p4YT7OvVB5wvFCEg9cRVDcdk": {
+        "route": "01經濟學原理與實習/01-01_林明仁/作業/104-2作業",
         "folder": [],
         "file": [
             {
-                "url": "101oowyiknUOH7NL5HKwUp1g8XjCfHZM4",
-                "name": "111_2_midterm_Q.pdf"
+                "url": "19xl_PQYIegMzZstZyAWTlDjl1OEf9690",
+                "name": "104下作業8.pdf"
             },
             {
-                "url": "1Y1v1I70mvrMq_EFKeJFPMfO4YVgnMFgZ",
-                "name": "111_2_final_sol.pdf"
+                "url": "1pLiNANtgV2Hb80qy2yyvIV1RqMOW1Hg7",
+                "name": "104下作業7.pdf"
             },
             {
-                "url": "1HSffr1xFBQgIqUKWkHHiSA6nmCq8DIZt",
-                "name": "作業五.pdf"
+                "url": "1fwMA7z3RD799eM8I0zuPHVnuZzA_WGuv",
+                "name": "104下作業6.pdf"
             },
             {
-                "url": "1xGLHrYRCTk4ToQvkOEhCPBzyAHiGVvGa",
-                "name": "作業一_解答.pdf"
+                "url": "1DcKUffD2WA7NsYeHihMzb6Ygp4Qvcm3s",
+                "name": "104下作業4.pdf"
             },
             {
-                "url": "1H0ai33dqsez2s-wqSW8ImdQTgutTwTqb",
-                "name": "作業六_解答.pdf"
+                "url": "1LW1dZzWdRcePRM3B8UXEZn2o_-1Jb2Hi",
+                "name": "104下作業5.pdf"
             },
             {
-                "url": "15_k9zFNj2E6B7tHT7U5TyXLh9fIQ2rs0",
-                "name": "作業六.pdf"
+                "url": "1N_fMt2UH5aT7vhr3QIjOfB6ZA0sYAf4l",
+                "name": "104下作業3.pdf"
             },
             {
-                "url": "1OpQh6FU_B2Jgx7F_9VxCQ0KS1ldg8ucv",
-                "name": "作業五_解答.pdf"
+                "url": "1LTkqDnbasLeb6htauH8JnI_w_o22JjPe",
+                "name": "104下作業2.pdf"
             },
             {
-                "url": "1zS_90W1O5ZuUy3BBx0vY09qBjwCduz5M",
-                "name": "作業四_解答.pdf"
-            },
-            {
-                "url": "18ZL8kmDjLyPkwH574KVpSXLxShhLT3r7",
-                "name": "作業四.pdf"
-            },
-            {
-                "url": "1EIQQ0SMnAoVKwJ1ay7LjPsPHGSY-f5qg",
-                "name": "111_2_midterm_sol.pdf"
-            },
-            {
-                "url": "199YhaeAw7Od0f3w_HraKGKprUescO1eX",
-                "name": "作業三 _ 解答.pdf"
-            },
-            {
-                "url": "1jScnjvXOgXjF4gBsXni-wNO5AhKxmGP0",
-                "name": "作業三.pdf"
-            },
-            {
-                "url": "1ZT1kXxwQNGclmFhBDru7JjE-6B6PtJlI",
-                "name": "作業二_解答.pdf"
-            },
-            {
-                "url": "1vvdZQhLt8s-vdTLnjxEitax1GmpbPdTZ",
-                "name": "作業二.pdf"
-            },
-            {
-                "url": "1yE5E_Pmfo5z5kIKa2YZ7Liw2ocU-SCR3",
-                "name": "作業一.pdf"
+                "url": "1Kygy6YTcsj7Jy07V2GBk1IVCpxXa4Z3b",
+                "name": "104下作業1.pdf"
             }
         ],
         "dir_count": 0,
-        "file_count": 15
+        "file_count": 8
+    },
+    "1dFYUkHshFLQ2BqC5g0FOFbNMmb1hD_P8": {
+        "route": "01經濟學原理與實習/01-01_林明仁/作業/111-1作業",
+        "folder": [],
+        "file": [
+            {
+                "url": "1CJP_Mp0QiTCQbjXrVb3qaaPoykle1kO6",
+                "name": "111-1_林明仁_經原_作業_HW6_sol.pdf"
+            },
+            {
+                "url": "1VC7sg9HnEgqpkLq9JA6fT2br9CNX2w_B",
+                "name": "111-1_林明仁_經原_作業_HW6.pdf"
+            },
+            {
+                "url": "1YXlGs8kYNVdn8QIXHP2awDe4Xgaarysb",
+                "name": "111-1_林明仁_經原_作業_HW5_sol.pdf"
+            },
+            {
+                "url": "1svW2J1YVX0XZzRG0rVnTaSvv46bpnsJx",
+                "name": "111-1_林明仁_經原_作業_HW5.pdf"
+            },
+            {
+                "url": "1i4xCuH_5YybTOKWpgJlABbLpnDYAR3IH",
+                "name": "111-1_林明仁_經原_作業_HW4_sol.pdf"
+            },
+            {
+                "url": "1ibpbd2NpkXor5dzXwTw8CZc7wp85it0O",
+                "name": "111-1_林明仁_經原_作業_HW4.pdf"
+            },
+            {
+                "url": "1YjM0mh-b79UrnxvrHRjVm-diewsE0RTs",
+                "name": "111-1_林明仁_經原_作業_HW3_sol.pdf"
+            },
+            {
+                "url": "1_7sxVLisiUN0QPj-0icG90fKU4b8d_nP",
+                "name": "111-1_林明仁_經原_作業_HW3.pdf"
+            },
+            {
+                "url": "1gy0gLsHR44t_o-O1a93cWrRtW1gzAzJF",
+                "name": "111-1_林明仁_經原_作業_HW2_sol.pdf"
+            },
+            {
+                "url": "1kPBHzQY4t-FeMG1ERVli984v0tdqM0D1",
+                "name": "111-1_林明仁_經原_作業_HW2.pdf"
+            },
+            {
+                "url": "1rydgVs5U9_ke5TkcqQ37N7BYt6CatWgv",
+                "name": "111-1_林明仁_經原_作業_HW1_sol.pdf"
+            },
+            {
+                "url": "1xhsZPZieidlmU6szDsxRxeCNsvS8SBQY",
+                "name": "111-1_林明仁_經原_作業_HW1.pdf"
+            }
+        ],
+        "dir_count": 0,
+        "file_count": 12
     },
     "1RYLvOzy3-4GReYx4v4UaLbdybU71BxTR": {
-        "route": "01經濟學原理與實習/1.01林明仁/課堂",
+        "route": "01經濟學原理與實習/01-01_林明仁/課堂",
         "folder": [
             {
                 "url": "16BQuOOGAiqkSSplJwpUqncpiij7dps7r",
@@ -1913,7 +2328,7 @@
         "file_count": 8
     },
     "16BQuOOGAiqkSSplJwpUqncpiij7dps7r": {
-        "route": "01經濟學原理與實習/1.01林明仁/課堂/課堂黑板筆記",
+        "route": "01經濟學原理與實習/01-01_林明仁/課堂/課堂黑板筆記",
         "folder": [],
         "file": [
             {
@@ -1933,7 +2348,7 @@
         "file_count": 3
     },
     "1L_CXNYCICnOXX_Tqy1R9S34tQMKq0FaB": {
-        "route": "01經濟學原理與實習/1.01林明仁/課堂/專欄文章",
+        "route": "01經濟學原理與實習/01-01_林明仁/課堂/專欄文章",
         "folder": [],
         "file": [
             {
@@ -1945,7 +2360,7 @@
         "file_count": 1
     },
     "1W8SBUvD2gy6If1-2BTLmeitGkjEhnrfg": {
-        "route": "01經濟學原理與實習/1.01林明仁/課堂/上課筆記",
+        "route": "01經濟學原理與實習/01-01_林明仁/課堂/上課筆記",
         "folder": [],
         "file": [
             {
@@ -1968,80 +2383,8 @@
         "dir_count": 0,
         "file_count": 4
     },
-    "1dxDjJ19SpdUfrlyGXBEkZ21eYwR7OGJM": {
-        "route": "01經濟學原理與實習/1.01林明仁/111-1林明仁_個經原",
-        "folder": [],
-        "file": [
-            {
-                "url": "1-ydZMqeaF0HxI7fgI613bMtderfvrgL6",
-                "name": "111_1_final_Q.pdf"
-            },
-            {
-                "url": "1-nJ6gB_3_pnpkcd5qAZ20dd-QMmwiMkL",
-                "name": "111_1_midterm Q.pdf"
-            },
-            {
-                "url": "1uqVhtLVRrd_DtAjxXGX4xM3-OZ5RqqHS",
-                "name": "111_1_final_sol.pdf"
-            },
-            {
-                "url": "1CJP_Mp0QiTCQbjXrVb3qaaPoykle1kO6",
-                "name": "HW6_sol.pdf"
-            },
-            {
-                "url": "1VC7sg9HnEgqpkLq9JA6fT2br9CNX2w_B",
-                "name": "HW6.pdf"
-            },
-            {
-                "url": "1YXlGs8kYNVdn8QIXHP2awDe4Xgaarysb",
-                "name": "HW5_sol.pdf"
-            },
-            {
-                "url": "1svW2J1YVX0XZzRG0rVnTaSvv46bpnsJx",
-                "name": "HW5.pdf"
-            },
-            {
-                "url": "1i4xCuH_5YybTOKWpgJlABbLpnDYAR3IH",
-                "name": "HW4_sol.pdf"
-            },
-            {
-                "url": "1ibpbd2NpkXor5dzXwTw8CZc7wp85it0O",
-                "name": "HW4.pdf"
-            },
-            {
-                "url": "19zbb4sLt1Al8EC7LoZh8VCABB413VEfh",
-                "name": "111_1_midterm sol.pdf"
-            },
-            {
-                "url": "1YjM0mh-b79UrnxvrHRjVm-diewsE0RTs",
-                "name": "HW3_sol.pdf"
-            },
-            {
-                "url": "1_7sxVLisiUN0QPj-0icG90fKU4b8d_nP",
-                "name": "HW3.pdf"
-            },
-            {
-                "url": "1gy0gLsHR44t_o-O1a93cWrRtW1gzAzJF",
-                "name": "HW2_sol.pdf"
-            },
-            {
-                "url": "1kPBHzQY4t-FeMG1ERVli984v0tdqM0D1",
-                "name": "HW2.pdf"
-            },
-            {
-                "url": "1rydgVs5U9_ke5TkcqQ37N7BYt6CatWgv",
-                "name": "HW1_sol.pdf"
-            },
-            {
-                "url": "1xhsZPZieidlmU6szDsxRxeCNsvS8SBQY",
-                "name": "HW1.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 16
-    },
     "1kKf9iAHa7uKTt9Y8mjqom0SYX-rymguM": {
-        "route": "01經濟學原理與實習/1.01林明仁/實習課",
+        "route": "01經濟學原理與實習/01-01_林明仁/實習課",
         "folder": [
             {
                 "url": "1LDAIjjBDBhx92pEiJFj1FkEpBfHLtVQN",
@@ -2059,7 +2402,7 @@
         "file_count": 5
     },
     "1LDAIjjBDBhx92pEiJFj1FkEpBfHLtVQN": {
-        "route": "01經濟學原理與實習/1.01林明仁/實習課/實習課投影片答案",
+        "route": "01經濟學原理與實習/01-01_林明仁/實習課/實習課投影片答案",
         "folder": [],
         "file": [
             {
@@ -2079,7 +2422,7 @@
         "file_count": 3
     },
     "1lSN0-xEMwW4SQJShgRAwmxdhHDBgigVW": {
-        "route": "01經濟學原理與實習/1.01林明仁/實習課/下學期實習課講義",
+        "route": "01經濟學原理與實習/01-01_林明仁/實習課/下學期實習課講義",
         "folder": [],
         "file": [
             {
@@ -2095,7 +2438,7 @@
         "file_count": 2
     },
     "1tFSFGC9s_bB07rFl3Q_mM3kUhcXJ3kA7": {
-        "route": "01經濟學原理與實習/1.01林明仁/習題與解答",
+        "route": "01經濟學原理與實習/01-01_林明仁/習題與解答",
         "folder": [],
         "file": [
             {
@@ -2111,7 +2454,7 @@
         "file_count": 2
     },
     "1wBp8wPWtKSTkoKQxQmJdzzsc6q02Y373": {
-        "route": "01經濟學原理與實習/1.01林明仁/歷年課程評價",
+        "route": "01經濟學原理與實習/01-01_林明仁/歷年課程評價",
         "folder": [],
         "file": [
             {
@@ -2126,108 +2469,8 @@
         "dir_count": 0,
         "file_count": 2
     },
-    "15O4j91GL9aTBy5pix_E_aKVuonGJfZsL": {
-        "route": "01經濟學原理與實習/1.05葉淑貞",
-        "folder": [
-            {
-                "url": "1gLRF2dd2TliFtumaMYZS8_7N_m8bcwEA",
-                "name": "講義",
-                "file_count": 4
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 4
-    },
-    "1gLRF2dd2TliFtumaMYZS8_7N_m8bcwEA": {
-        "route": "01經濟學原理與實習/1.05葉淑貞/講義",
-        "folder": [],
-        "file": [
-            {
-                "url": "1oRfcHYWOyarf1aUdX436YXIRcAUhyUJE",
-                "name": "100上葉淑貞經原講義Ch8-9.pdf"
-            },
-            {
-                "url": "1s5eRWN7xNkEAZeWz_3tnZ9CJxCqD0Z2m",
-                "name": "100上葉淑貞經原講義Ch1-3.pdf"
-            },
-            {
-                "url": "1uJEgnS3y25IYe1rzf8H5W9ST0XvHLw-B",
-                "name": "100上葉淑貞經原講義Ch4-6.pdf"
-            },
-            {
-                "url": "1ByP-9ut4b_Or5sbJu7EGuVEYjLPy3l9t",
-                "name": "100上葉淑貞經原講義Ch7.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "15QQ4EV92aLLJ1r1TSk_L57JAstAy5zyq": {
-        "route": "01經濟學原理與實習/1.07張清溪",
-        "folder": [
-            {
-                "url": "1AypXW1MorVeiAMgxFcUnQ06plCwyGYJO",
-                "name": "歷年評價文",
-                "file_count": 1
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 1
-    },
-    "1AypXW1MorVeiAMgxFcUnQ06plCwyGYJO": {
-        "route": "01經濟學原理與實習/1.07張清溪/歷年評價文",
-        "folder": [],
-        "file": [
-            {
-                "url": "19HRwg-qKcNCQah37-nFEhm3h4lv_qLRl",
-                "name": "PTT評價-張清溪.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "17q1VIEHeKZWt6l620FtRvuATqGoIuuC0": {
-        "route": "01經濟學原理與實習/1.09陳旭昇",
-        "folder": [
-            {
-                "url": "1UFcwFcuwNmEs9cnfFIcM3rcH_LPDQ3Z2",
-                "name": "期考",
-                "file_count": 1
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 1
-    },
-    "1UFcwFcuwNmEs9cnfFIcM3rcH_LPDQ3Z2": {
-        "route": "01經濟學原理與實習/1.09陳旭昇/期考",
-        "folder": [
-            {
-                "url": "1XzrQzKGdwXpsEYNQ3HhLUpvk9K7_Qv6l",
-                "name": "下學期期末考",
-                "file_count": 1
-            }
-        ],
-        "file": [],
-        "dir_count": 1,
-        "file_count": 1
-    },
-    "1XzrQzKGdwXpsEYNQ3HhLUpvk9K7_Qv6l": {
-        "route": "01經濟學原理與實習/1.09陳旭昇/期考/下學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1Yo7Vtx1mk5OMoyAlcejPz3-u2iP-j086",
-                "name": "105下陳旭昇經原期末考.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
     "1PXs8kXmVrz2XMQ7zuKM2UXC5iKevt2HL": {
-        "route": "01經濟學原理與實習/1.00暑修",
+        "route": "01經濟學原理與實習/01-00_暑修",
         "folder": [
             {
                 "url": "1p6iLvo06kTcW9qPoOF-59HePFvcsf3YP",
@@ -2240,7 +2483,7 @@
         "file_count": 24
     },
     "1p6iLvo06kTcW9qPoOF-59HePFvcsf3YP": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶",
         "folder": [
             {
                 "url": "114vx48klr4sxJVXxux_ISClN7YgSrh8X",
@@ -2258,7 +2501,7 @@
         "file_count": 24
     },
     "114vx48klr4sxJVXxux_ISClN7YgSrh8X": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原上",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原上",
         "folder": [
             {
                 "url": "14Dl40Gz5hOPUVKA_gENqKjTrpMRSYGjF",
@@ -2281,7 +2524,7 @@
         "file_count": 12
     },
     "14Dl40Gz5hOPUVKA_gENqKjTrpMRSYGjF": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原上/期中考",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原上/期中考",
         "folder": [],
         "file": [
             {
@@ -2297,7 +2540,7 @@
         "file_count": 2
     },
     "1KYVUYf5BqaoiO2QM003Jok6ws8ovqL33": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原上/作業",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原上/作業",
         "folder": [],
         "file": [
             {
@@ -2337,7 +2580,7 @@
         "file_count": 8
     },
     "1sqe8pyGgYrDzQj3--GXu7kJfXu9H6BPQ": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原上/期末考",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原上/期末考",
         "folder": [],
         "file": [
             {
@@ -2353,7 +2596,7 @@
         "file_count": 2
     },
     "1sUNStr8xGGHh-AAd4kn0uKCCKQMDycdx": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原下",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原下",
         "folder": [
             {
                 "url": "1Pch5f5oYzwFJhzJkR0ZmR49b2tukPxgk",
@@ -2376,7 +2619,7 @@
         "file_count": 12
     },
     "1Pch5f5oYzwFJhzJkR0ZmR49b2tukPxgk": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原下/期中考",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原下/期中考",
         "folder": [],
         "file": [
             {
@@ -2392,7 +2635,7 @@
         "file_count": 2
     },
     "1kNtrPkZrzhVKqEuL_nni_2UwQAyYmvbR": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原下/期末考",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原下/期末考",
         "folder": [],
         "file": [
             {
@@ -2408,7 +2651,7 @@
         "file_count": 2
     },
     "1nntRwNKs2qL_i6DRsxmmOLNSt7eVF0_5": {
-        "route": "01經濟學原理與實習/1.00暑修/107駱明慶/經原下/作業",
+        "route": "01經濟學原理與實習/01-00_暑修/107駱明慶/經原下/作業",
         "folder": [],
         "file": [
             {
@@ -2447,193 +2690,30 @@
         "dir_count": 0,
         "file_count": 8
     },
-    "1VS0ehxetHRdaI18t-KerfM757DQ33dkR": {
-        "route": "01經濟學原理與實習/1.03吳聰敏",
+    "1Ay6lu2jqcmNcyp6OmcaDdpQ_cItQgZUS": {
+        "route": "01經濟學原理與實習/1.99Mankiw習題解答",
         "folder": [
             {
-                "url": "1ASaPl9nHaqGR2g69jOVQVtGxlktNJ419",
-                "name": "期考",
-                "file_count": 20
-            },
-            {
-                "url": "1NQZRGsdJ2h-LJNUTD08YQaAtyTviTcHz",
-                "name": "歷年評價文",
-                "file_count": 1
-            },
-            {
-                "url": "1ZY68chvk9Sbv50YAGJiWW9ozBQnHeW-O",
-                "name": "課本習題解答",
+                "url": "1CGYRatnFed7tw-74b3rvoliyIf-clWSs",
+                "name": "第六版",
                 "file_count": 2
             }
         ],
         "file": [],
-        "dir_count": 3,
-        "file_count": 23
+        "dir_count": 1,
+        "file_count": 2
     },
-    "1ASaPl9nHaqGR2g69jOVQVtGxlktNJ419": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/期考",
-        "folder": [
-            {
-                "url": "1lLNXNtDkFEyTqd5hQyaFagqNiIkBqyYH",
-                "name": "下學期期中考",
-                "file_count": 4
-            },
-            {
-                "url": "1R4wKlIpOcrg1qDapHXsiQLCv3NA_XuxV",
-                "name": "上學期期末考",
-                "file_count": 5
-            },
-            {
-                "url": "1TN-CyHDkZdTxI0eyAos2s8nLPvqoKIvm",
-                "name": "上學期期中考",
-                "file_count": 6
-            },
-            {
-                "url": "1fmZDOTNL7OAZLMzrpwWvRW6U7OrWDxqP",
-                "name": "下學期期末考",
-                "file_count": 4
-            }
-        ],
-        "file": [
-            {
-                "url": "1eUaNHx7QlncTCOo3k18XYGr5AvxO2dxn",
-                "name": "吳聰敏經原考題網址(2010~2012).txt"
-            }
-        ],
-        "dir_count": 4,
-        "file_count": 20
-    },
-    "1lLNXNtDkFEyTqd5hQyaFagqNiIkBqyYH": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/期考/下學期期中考",
+    "1CGYRatnFed7tw-74b3rvoliyIf-clWSs": {
+        "route": "01經濟學原理與實習/1.99Mankiw習題解答/第六版",
         "folder": [],
         "file": [
             {
-                "url": "1YCMuaeju62x_WkS_Z_LjGYoZ7M0j9zUw",
-                "name": "103下吳聰敏經原期中考與解答.pdf"
+                "url": "11g-t3OTHOXrIuMojch0rhT1BPiT98wyY",
+                "name": "Mankiw6eAnswersCh1-10.pdf"
             },
             {
-                "url": "1trrM4dw_NBcz1eBiHx3YOcmdJ-jPYZSJ",
-                "name": "102下吳聰敏經原期中考題與解答.pdf"
-            },
-            {
-                "url": "1FG9jV7E45sHMMvGgKyzyaPhtIa0B2Dr_",
-                "name": "101下吳聰敏經原期中考與解答.pdf"
-            },
-            {
-                "url": "1hVC2vt0PLlmQXrBBxJcLBfolym-5NIvn",
-                "name": "100下吳聰敏經原期中考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "1R4wKlIpOcrg1qDapHXsiQLCv3NA_XuxV": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/期考/上學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1PnyZmAy4OJvIcDvUe1QG-gWiZZu9l2Tn",
-                "name": "99上吳聰敏經原期末考與解答.pdf"
-            },
-            {
-                "url": "1w0vZJ6pe1w7YAp_ZyHyizN7PilL_PcRF",
-                "name": "103上吳聰敏經原期末考與解答.pdf"
-            },
-            {
-                "url": "1nosaifXHl2gs47BvizayLjVE_SxdIpHo",
-                "name": "102上吳聰敏經原期末考與解答.pdf"
-            },
-            {
-                "url": "1mrm0p-QGJBODPBB_D1cSZP-efPfMUZov",
-                "name": "101上吳聰敏經原期末考與解答.pdf"
-            },
-            {
-                "url": "1KWkHGxkGsZPNsXcZS4PxJQL8oYWLLxUS",
-                "name": "100上吳聰敏經原期末考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 5
-    },
-    "1TN-CyHDkZdTxI0eyAos2s8nLPvqoKIvm": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/期考/上學期期中考",
-        "folder": [],
-        "file": [
-            {
-                "url": "13X0gLA0Zh9zQ9meOCrtMTstql7YS_uX0",
-                "name": "99上吳聰敏經原期中考與解答.pdf"
-            },
-            {
-                "url": "10yzFCkid34PWDIc73RlIXJ84cXZXGnwn",
-                "name": "110上吳聰敏經原期中考題目.pdf"
-            },
-            {
-                "url": "1absv7vFY96aCV1BRjuGTk2okwA2I6aih",
-                "name": "103上吳聰敏經原期中考與解答.pdf"
-            },
-            {
-                "url": "1hQX1TkUbyYTGKF1xNeR9nC7knxZOoesS",
-                "name": "102上吳聰敏經原期中考題與解答.pdf"
-            },
-            {
-                "url": "109J1VgppIi55KSmH-74q3mYE3UZy-5CT",
-                "name": "100上吳聰敏經原期中考與解答.pdf"
-            },
-            {
-                "url": "1LinbZuU-hiXRuiX2rLEaKODH4m-YAh8C",
-                "name": "101上吳聰敏經原期中考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 6
-    },
-    "1fmZDOTNL7OAZLMzrpwWvRW6U7OrWDxqP": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/期考/下學期期末考",
-        "folder": [],
-        "file": [
-            {
-                "url": "1gWyhHtQiW6iyaPou05MB79zvw9gPxK4o",
-                "name": "103下吳聰敏經原期末考與解答.pdf"
-            },
-            {
-                "url": "1TAZ8E9lvsClbVNUZzlpmHbOtpfMN54K3",
-                "name": "101下吳聰敏經原期末考與解答.pdf"
-            },
-            {
-                "url": "1bMVk3sf0HgTdREJYBY2Xn6IZocTh51HA",
-                "name": "102下吳聰敏經原期末考題與解答.pdf"
-            },
-            {
-                "url": "1qsYtMV_jVyOJQ8xd5m60lSlD9CJWIW9G",
-                "name": "100下吳聰敏經原期末考與解答.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 4
-    },
-    "1NQZRGsdJ2h-LJNUTD08YQaAtyTviTcHz": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/歷年評價文",
-        "folder": [],
-        "file": [
-            {
-                "url": "1DB1_qiFHAcXb-fHwQRfDG6_NR3y1_dnO",
-                "name": "PTT評價-吳聰敏.pdf"
-            }
-        ],
-        "dir_count": 0,
-        "file_count": 1
-    },
-    "1ZY68chvk9Sbv50YAGJiWW9ozBQnHeW-O": {
-        "route": "01經濟學原理與實習/1.03吳聰敏/課本習題解答",
-        "folder": [],
-        "file": [
-            {
-                "url": "1fs8O00MDmMxRrTDjNJJSBYJr8r88mGaH",
-                "name": "100下吳聰敏經原課本偶數題解答.pdf"
-            },
-            {
-                "url": "1mNyTrcQK0B904fYIsqlDwb_EsyOtpMYd",
-                "name": "100上吳聰敏經原課本偶數題解答.pdf"
+                "url": "1_sJ6hD3g8jxa53zk0yUQRmojB-WVtpSr",
+                "name": "Mankiw6eAnswersCh11-20.pdf"
             }
         ],
         "dir_count": 0,

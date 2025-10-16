@@ -1,10 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './navbar';
-
+import { GoogleAnalytics } from 'nextjs-google-analytics';
 export default function Layout({ children }) {
     return (
         <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
             <Navbar />
+            <GoogleAnalytics gaMeasurementId='G-9DND5R7733'></GoogleAnalytics>
             <div style={{ flex: '1' }}>
                 {children}
             </div>
@@ -24,7 +25,7 @@ export default function Layout({ children }) {
                     <div>
                         <span className="text-muted">
                             網頁設計：
-                            <a href="https://github.com/MorganLee0906">B12李承祐</a>
+                            <a href="https://github.com/MorganLee0906">ChengYu Lee</a>
                         </span>
                     </div>
                 </div>

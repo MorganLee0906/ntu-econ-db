@@ -35,7 +35,7 @@
             {
                 "url": "1fKKf-ch86OtMbfZxISKX_p6mnzUxml-h",
                 "name": "03-04_蔡崇聖",
-                "file_count": 18
+                "file_count": 27
             },
             {
                 "url": "1Tud859fMDAy_KAlzEzbSePyvqGzdl0aR",
@@ -45,7 +45,7 @@
             {
                 "url": "1_ixYedshg6Fm7CBC5suXxDc4MWC-NVlH",
                 "name": "03-02_黃貞穎",
-                "file_count": 65
+                "file_count": 69
             },
             {
                 "url": "1yqZ4Sa1RtDItdCIMOCPXBTp_GIfrpDwV",
@@ -55,7 +55,7 @@
         ],
         "file": [],
         "dir_count": 10,
-        "file_count": 151
+        "file_count": 164
     },
     "13I89DA1Afsyn6ayFYK-SM8aEhRlezeCk": {
         "route": "03個體經濟學/03-10_駱明慶",
@@ -558,7 +558,7 @@
             {
                 "url": "1AYizz92-4fmMskqiqp0AA5ae5a2eS0a0",
                 "name": " 上學期期中考",
-                "file_count": 3
+                "file_count": 4
             },
             {
                 "url": "1OiL_otYbPojCKO_ksVcvAILFby8-OTM7",
@@ -578,7 +578,7 @@
             {
                 "url": "1muNsd1YdWbVPZbi5v4mP1VOgbSDlnfYB",
                 "name": "  (上學期)小組作業討論",
-                "file_count": 3
+                "file_count": 10
             },
             {
                 "url": "1x1W73F7qcXV755TcOLpjwbl7OxSCJOpM",
@@ -598,7 +598,7 @@
             {
                 "url": "1nsazSGGRAVt2L-bJmRV23P7_L0kcNQbp",
                 "name": "上學期期末考",
-                "file_count": 5
+                "file_count": 6
             },
             {
                 "url": "1pqY2dPUmfYXaaV89on0R44_OP4q0RTi3",
@@ -608,7 +608,7 @@
         ],
         "file": [],
         "dir_count": 11,
-        "file_count": 18
+        "file_count": 27
     },
     "11xsIGtqyqQlsaBGAA5mBIrSvJF-6hwYR": {
         "route": "03個體經濟學/03-04_蔡崇聖/(上學期)授課進度對應原文書PPT",
@@ -621,6 +621,10 @@
         "route": "03個體經濟學/03-04_蔡崇聖/ 上學期期中考",
         "folder": [],
         "file": [
+            {
+                "url": "1XMCsh-wBhKOY5MYD3R6FQjua_7fltm97",
+                "name": "113-1_蔡崇聖_個經_期中考.pdf"
+            },
             {
                 "url": "1JtUKV5DwY7UwRoVnoekEjJmRLp6Cw3s7",
                 "name": "100-1 蔡崇聖 個體經濟學 期中考.pdf"
@@ -635,7 +639,7 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 3
+        "file_count": 4
     },
     "1OiL_otYbPojCKO_ksVcvAILFby8-OTM7": {
         "route": "03個體經濟學/03-04_蔡崇聖/(上學期)老師親筆筆記",
@@ -684,6 +688,34 @@
         "folder": [],
         "file": [
             {
+                "url": "1TAZrNguOSYL1J2HrYd4ATnHKJfLmBjPh",
+                "name": "113-1_蔡崇聖_個經_作業四題目.pdf"
+            },
+            {
+                "url": "1-egcH7iB8ffmygsA_dnPxbU3QHXy3YVF",
+                "name": "113-1_蔡崇聖_個經_作業三題目.pdf"
+            },
+            {
+                "url": "1VMpHbyKBvj433V_vQFrsVbPGAc1F3DmC",
+                "name": "113-1_蔡崇聖_個經_作業三解答.pdf"
+            },
+            {
+                "url": "15YvRDOdVkJMI-TfmuIfZP3QIiR5m5Aya",
+                "name": "113-1_蔡崇聖_個經_作業二題目.pdf"
+            },
+            {
+                "url": "1kCFj6gne1ppUPdYH4iQHGqgGWZCIxdZx",
+                "name": "113-1_蔡崇聖_個經_作業二解答.pdf"
+            },
+            {
+                "url": "1B19j_ac2Q4v8f904XFT84k_hWLw03aCR",
+                "name": "113-1_蔡崇聖_個經_作業一題目.pdf"
+            },
+            {
+                "url": "1Vg01QwwpYF1hTXvNtEFcrvmttsDYHmbv",
+                "name": "113-1_蔡崇聖_個經_作業一解答.pdf"
+            },
+            {
                 "url": "1vxahTjNfmrz2ahqM7k0KxbI9HwCdluj_",
                 "name": "micro_hk3.pdf"
             },
@@ -697,7 +729,7 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 3
+        "file_count": 10
     },
     "1x1W73F7qcXV755TcOLpjwbl7OxSCJOpM": {
         "route": "03個體經濟學/03-04_蔡崇聖/課程評價",
@@ -734,6 +766,10 @@
         "folder": [],
         "file": [
             {
+                "url": "1EU7akEUqpxW9A5l06GRuJxV4jQrcjudP",
+                "name": "113-1_蔡崇聖_個經_期末考.pdf"
+            },
+            {
                 "url": "1QYzmeyWgSOBxf59EOu4MPbproo5xmJ4H",
                 "name": "100-1 蔡崇聖 個體經濟學 期末考 解答.pdf"
             },
@@ -755,7 +791,7 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 5
+        "file_count": 6
     },
     "1pqY2dPUmfYXaaV89on0R44_OP4q0RTi3": {
         "route": "03個體經濟學/03-04_蔡崇聖/下學期期末考",
@@ -787,7 +823,7 @@
             {
                 "url": "1JCL70NE33EbI8CZb9zdKqInLV9Jc6K91",
                 "name": "下學期期中考",
-                "file_count": 10
+                "file_count": 12
             },
             {
                 "url": "1c57-4gSP0Y9HqjZBy_UxodXAoeQmdhSv",
@@ -802,7 +838,7 @@
             {
                 "url": "1_GIIY513mip2aVP5GxxaXzhOCmj8GHfY",
                 "name": "上學期期末考",
-                "file_count": 15
+                "file_count": 16
             },
             {
                 "url": "1jQc153Exwdw-LOV4d3uJ7UxUW3ZBUghG",
@@ -812,12 +848,12 @@
             {
                 "url": "1jQoUM9p4TR70NNSOWYvU5WloSIucK8WY",
                 "name": "下學期期末考",
-                "file_count": 9
+                "file_count": 10
             }
         ],
         "file": [],
         "dir_count": 8,
-        "file_count": 65
+        "file_count": 69
     },
     "11GJkXh-Cbf5gz7sAAC3vrxBb_jw7TH22": {
         "route": "03個體經濟學/03-02_黃貞穎/投影片",
@@ -931,6 +967,14 @@
         "folder": [],
         "file": [
             {
+                "url": "1snMB_7lo_83rl7CEMfiBQ-dUPFHgmG4z",
+                "name": "113-2_黃貞穎_個經_期中考_答案.pdf"
+            },
+            {
+                "url": "1oVlIq_fJeIkJgSh9w0-M2N6SZPJfizGw",
+                "name": "113-2_黃貞穎_個經_期中考_題目.pdf "
+            },
+            {
                 "url": "1gO6KCQ1NrY9TFMf-n4LLp5F2fuNYjdwC",
                 "name": "99-2_黃貞穎_個經_期中考_題目.pdf"
             },
@@ -972,7 +1016,7 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 10
+        "file_count": 12
     },
     "1c57-4gSP0Y9HqjZBy_UxodXAoeQmdhSv": {
         "route": "03個體經濟學/03-02_黃貞穎/課程評價",
@@ -1018,6 +1062,10 @@
         "route": "03個體經濟學/03-02_黃貞穎/上學期期末考",
         "folder": [],
         "file": [
+            {
+                "url": "1Ws8kDi4jkV2NIdpPVUf-abLM-igMQ_ow",
+                "name": "113-1_黃貞穎_個經_期末考_題目.pdf"
+            },
             {
                 "url": "1jTk5jdAnTaM0wdRpd__6JREd8s7tnCRa",
                 "name": "98-1_黃貞穎_個經_期末考_題目.pdf"
@@ -1080,7 +1128,7 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 15
+        "file_count": 16
     },
     "1jQc153Exwdw-LOV4d3uJ7UxUW3ZBUghG": {
         "route": "03個體經濟學/03-02_黃貞穎/小考",
@@ -1102,6 +1150,10 @@
         "route": "03個體經濟學/03-02_黃貞穎/下學期期末考",
         "folder": [],
         "file": [
+            {
+                "url": "1766CS4-04qMC14eA3sqJEeInCYw-f-Kh",
+                "name": "113-2_黃貞穎_個經_期末考_題目.pdf"
+            },
             {
                 "url": "16bIRtb6Q69_FGDvRMs74N4cO_7ArEjcB",
                 "name": "112-2_黃貞穎_個經_期末考_題目及答案.pdf"
@@ -1140,7 +1192,7 @@
             }
         ],
         "dir_count": 0,
-        "file_count": 9
+        "file_count": 10
     },
     "1yqZ4Sa1RtDItdCIMOCPXBTp_GIfrpDwV": {
         "route": "03個體經濟學/03-01_古慧雯",
