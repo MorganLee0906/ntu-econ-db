@@ -26,11 +26,6 @@ export default function Navbar() {
                                     課程
                                 </a>
                             </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="https://ntu-econ.github.io/v2">
-                                    舊版資料庫
-                                </a>
-                            </li>
                         </ul>
                         <button type="button" className="btn btn-outline-success ms-auto" onClick={() => window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSfA35zuNWFAS2YtSn1S59oH5m-vplSjX2I4bsfZxhJjGqasWw/viewform?usp=sf_link'}>
                             檔案上傳
